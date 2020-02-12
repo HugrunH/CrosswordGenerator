@@ -1,5 +1,5 @@
 # CrosswordGenerator
-Welcome to our crossword puzzle generator, created with Python and Django!
+Welcome to mine, @Andrason and @gabriels17 crossword puzzle generator, created with Python and Django!
 
 ## Getting started
 To run the application please follow these steps:
