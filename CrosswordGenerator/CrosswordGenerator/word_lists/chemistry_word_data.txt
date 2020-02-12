@@ -1,0 +1,4084 @@
+absorb
+61916
+6.792387885602349
+take in or soak up (energy or a liquid or other substance) by chemical or physical action
+absorbent
+3621
+0.397235553552655
+(of a material) able to soak up liquid easily
+acaroid
+0
+0
+a resin obtained in Australia from some kinds of grass tree, used in making varnish.
+acesulfame
+253
+0.027754928210114
+a white crystalline compound used as a low-calorie artificial sweetener, typically in the form of a potassium salt (acesulfame-K).
+acetal
+235
+0.025780269286074
+an organic compound formed by the condensation of two alcohol molecules with an aldehyde molecule.
+acetaldehyde
+1233
+0.135264136296719
+a colourless volatile liquid aldehyde obtained by oxidizing ethanol.
+acetamide
+101
+0.011080030629334
+the amide of acetic acid, a crystalline solid with a characteristic musty odour.
+acetanilide
+8
+0.000877626188462
+a crystalline solid prepared by acetylation of aniline, used in dye manufacture.
+acetate
+9839
+1.079370508534814
+a salt or ester of acetic acid, containing the anion CH₃COO⁻ or the group —OOCCH₃.
+acetic
+3295
+0.361472286372824
+of or like vinegar or acetic acid.
+acetone
+4069
+0.446382620106531
+a colourless volatile liquid ketone made by oxidizing isopropanol, used as an organic solvent and synthetic reagent.
+acetonitrile
+1745
+0.191432212358293
+an odoriferous toxic liquid, used as a solvent in high-performance liquid chromatography.
+acetous
+2
+0.000219406547116
+producing or resembling vinegar
+acetyl
+1256
+0.137787311588548
+of or denoting the acyl radical —C(O)CH₃, derived from acetic acid
+acetylate
+66
+0.007240416054812
+introduce an acetyl group into (a molecule or compound)
+acetylene
+2286
+0.250781683353042
+a colourless pungent-smelling hydrocarbon gas, which burns with a bright flame, used in welding and formerly in lighting.
+acetylide
+39
+0.004278427668753
+a compound formed from acetylene and a metal, containing the anion (C≡C)²⁻ or HC≡C⁻. Acetylides are typically unstable or explosive.
+achiral
+224
+0.024573533276938
+(chiefly of a molecule) symmetric in such a way that it can be superimposed on its mirror image; not chiral.
+acid
+183494
+20.129892478207854
+a substance with particular chemical properties including turning litmus red, neutralizing alkalis, and dissolving some metals; typically, a corrosive or sour-tasting liquid of this kind.
+acidic
+18458
+2.024903023329157
+having the properties of an acid, or containing acid; having a pH below 7.
+acidification
+7951
+0.87225072805776
+the action or process of making or becoming acidic
+acidify
+241
+0.026438488927421
+make or become acid
+acidimetry
+0
+0
+measurement of the strengths of acids.
+acidulate
+3
+0.000329109820674
+make slightly acidic
+aconitine
+57
+0.006253086592792
+a poisonous alkaloid obtained from monkshood and related plants.
+acridine
+308
+0.03378860825579
+a colourless solid compound obtained from coal tar, used in the manufacture of dyes and drugs.
+acrylamide
+1758
+0.192858354914545
+a colourless crystalline solid which readily forms water-soluble polymers.
+acrylate
+1108
+0.121551227102
+a salt or ester of acrylic acid.
+acrylonitrile
+495
+0.054303120411092
+a pungent, toxic liquid, used in making artificial fibres and other polymers.
+actinide
+198
+0.021721248164436
+any of the series of fifteen metallic elements from actinium (atomic number 89) to lawrencium (atomic number 103) in the periodic table. They are all radioactive, the heavier members being extremely unstable and not of natural occurrence.
+activate
+57532
+6.311448734325122
+make (something) active or operative
+activation
+136517
+14.976361796284898
+the action or process of making something active or operative
+acyl
+1164
+0.127694610421234
+denoting a radical of general formula —C(O)R, where R is an alkyl group, derived from a carboxylic acid
+acylate
+11
+0.001206736009135
+introduce an acyl group into (a molecule or compound)
+adduct
+937
+0.102791967323623
+(of a muscle) move (a limb or other part of the body) towards the midline of the body or towards another part
+adenylate
+578
+0.063408492116386
+a salt or ester of adenylic acid.
+adipate
+53
+0.005814273498561
+a salt or ester of adipic acid.
+adsorb
+677
+0.074269116198605
+(of a solid) hold (molecules of a gas or liquid or solute) as a thin film on the outside surface or on internal surfaces within the material
+adsorbate
+99
+0.010860624082218
+a substance that is adsorbed.
+adsorbent
+2043
+0.224123787878506
+a substance that adsorbs another.
+adsorption
+8552
+0.938182395465974
+the process by which a solid holds molecules of a gas or liquid or solute as a thin film
+aerate
+594
+0.065163744493311
+introduce air into (a material)
+aeration
+1502
+0.164774316883757
+the introduction of air into a material
+aerogel
+943
+0.103450186964969
+a solid material of extremely low density, produced by removing the liquid component from a conventional gel.
+aerosolize
+50
+0.005485163677889
+convert into a fine spray or colloidal suspension in air
+alcohol
+339396
+37.232852232409954
+a colourless volatile flammable liquid which is produced by the natural fermentation of sugars and is the intoxicating constituent of wine, beer, spirits, and other drinks, and is also used as an industrial solvent and as fuel
+aldehyde
+1715
+0.188141114151561
+an organic compound containing the group —CHO, formed by the oxidation of alcohols. Typical aldehydes include methanal (formaldehyde) and ethanal (acetaldehyde).
+aldicarb
+173
+0.018978666325492
+a systemic agricultural pesticide used against some mites, insects, and nematode worms.
+aldol
+261
+0.028632554398576
+a viscous liquid obtained when acetaldehyde dimerizes in dilute alkali or acid.
+aldrin
+73
+0.008008338969717
+a toxic synthetic insecticide, now generally banned.
+alembic
+77
+0.008447152063947
+a distilling apparatus, now obsolete, consisting of a gourd-shaped container and a cap with a long beak for conveying the products to a receiver.
+alginate
+1814
+0.199001738233779
+a salt of alginic acid.
+alicyclic
+47
+0.005156053857215
+relating to or denoting organic compounds which combine cyclic structure with aliphatic properties, e.g. cyclohexane and other saturated cyclic hydrocarbons.
+aliphatic
+1559
+0.17102740347655
+relating to or denoting organic compounds in which carbon atoms form open chains (as in the alkanes), not aromatic rings.
+aliquot
+833
+0.091382826873615
+a portion of a larger whole, especially a sample taken for chemical analysis or other treatment
+alizarin
+240
+0.026328785653862
+a red pigment present in madder root, used in dyeing.
+alkali
+2356
+0.258460912502085
+a compound with particular chemical properties including turning litmus blue and neutralizing or effervescing with acids; typically, a caustic or corrosive substance of this kind such as lime or soda
+alkaline
+10427
+1.143876033386777
+having the properties of an alkali, or containing alkali; having a pH greater than 7
+alkalinize
+27
+0.00296198838606
+To make alkaline.
+alkalize
+63
+0.006911306234139
+treat with alkali
+alkaloid
+1306
+0.143272475266436
+any of a class of nitrogenous organic compounds of plant origin which have pronounced physiological actions on humans. They include many drugs (morphine, quinine) and poisons (atropine, strychnine).
+alkane
+920
+0.10092701167314
+any of the series of saturated hydrocarbons including methane, ethane, propane, and higher members.
+allyl
+465
+0.051012022204359
+of or denoting the unsaturated hydrocarbon radical —CH₂CH=CH₂
+aludel
+0
+0
+a pear-shaped earthenware or glass pot, open at both ends to enable a series to be fitted one above another, formerly used in sublimation and other chemical processes.
+alum
+24851
+2.726236051183925
+a colourless astringent compound which is a hydrated double sulphate of aluminium and potassium, used in solution in dyeing and tanning.
+aluminosilicate
+532
+0.058362141532729
+a silicate in which aluminium replaces some of the silicon, especially a rock-forming mineral such as a feldspar or a clay mineral.
+amalgam
+5083
+0.5576217394941
+a mixture or blend
+amalgamate
+1332
+0.146124760378938
+combine or unite to form one organization or structure
+amatol
+0
+0
+a high explosive consisting of a mixture of TNT and ammonium nitrate.
+amide
+1975
+0.216663965276579
+an organic compound containing the group —C(O)NH₂, derived from ammonia by replacement of a hydrogen atom by an acyl group.
+amine
+3593
+0.394163861893037
+an organic compound derived from ammonia by replacement of one or more hydrogen atoms by organic groups.
+amino
+43046
+4.722287113567393
+the group —NH₂, present in amino acids, amides, and many amines
+ammonia
+17203
+1.887225415014167
+a colourless gas with a characteristic pungent smell, which dissolves in water to give a strongly alkaline solution.
+ammoniacal
+42
+0.004607537489426
+of or containing ammonia
+ammoniated
+56
+0.006143383319236
+combined or treated with ammonia.
+ammonium
+8613
+0.944874295152998
+the cation NH₄⁺, present in solutions of ammonia and in salts derived from ammonia
+amphoteric
+95
+0.010421810987987
+(of a compound, especially a metal oxide or hydroxide) able to react both as a base and as an acid.
+amyl
+192
+0.021063028523091
+of or denoting the straight-chain pentyl radical —C₅H₁₁.
+analyte
+1523
+0.16707808562847
+a substance whose chemical constituents are being identified and measured.
+anhydride
+835
+0.091602233420731
+the compound obtained by removing the elements of water from a particular acid
+anhydrous
+1576
+0.172892359127032
+(of a substance, especially a crystalline compound) containing no water.
+aniline
+668
+0.073281786736585
+a colourless oily liquid present in coal tar. It is used in the manufacture of dyes, drugs, and plastics, and was the basis of the earliest synthetic dyes.
+anion
+3381
+0.370906767898791
+a negatively charged ion, i.e. one that would be attracted to the anode in electrolysis.
+annatto
+293
+0.032143059152424
+an orange-red dye obtained from the seed coat of a tropical fruit, used for colouring foods.
+anodize
+86
+0.009434481525968
+coat (a metal, especially aluminium) with a protective oxide layer by an electrolytic process in which the metal forms the anode
+anthocyanin
+744
+0.081619235526974
+a blue, violet, or red flavonoid pigment found in plants
+anthracene
+316
+0.034666234444252
+a colourless crystalline aromatic hydrocarbon obtained by the distillation of crude oils and used in chemical manufacture.
+anthranilate
+50
+0.005485163677888
+a salt or ester of anthranilic acid.
+anthraquinone
+158
+0.017333117222126
+a yellow crystalline compound obtained by oxidation of anthracene. It is the basis of many natural and synthetic dyes.
+antioxidant
+22863
+2.508145943351097
+a substance that inhibits oxidation, especially one used to counteract the deterioration of stored food products.
+apozem
+0
+0
+a concentrated liquor resulting from heating or infusing a substance, used for medicinal purposes.
+aqueous
+13043
+1.43085979701388
+of or containing water
+aromaticity
+224
+0.024573533276938
+the property in an organic compound of being aromatic
+aromatize
+26
+0.002852285112502
+convert (a compound) into an aromatic structure
+arsenate
+338
+0.037079706462524
+a salt or ester of any oxyacid of arsenic.
+arsenical
+86
+0.009434481525968
+of or containing arsenic
+arsenide
+1096
+0.120234787819307
+a binary compound of arsenic with a metallic element.
+arsenious
+5
+0.000548516367789
+of arsenic with a valency of three; of arsenic(III).
+arsine
+33
+0.003620208027406
+a poisonous gas smelling slightly of garlic, made by the reaction of some arsenides with acids.
+aryl
+1972
+0.216334855455906
+of or denoting a radical derived from an aromatic hydrocarbon by removal of a hydrogen atom
+ascorbate
+790
+0.086665586110632
+a salt, ester, or the anion of ascorbic acid.
+aspartate
+2308
+0.253195155371313
+a salt or ester of aspartic acid.
+astrochemistry
+49
+0.00537546040433
+the study of molecules and ions occurring in stars and interstellar space.
+atactic
+40
+0.004388130942311
+(of a polymer or polymer structure) in which the repeating units have no regular stereochemical configuration.
+atom
+19575
+2.147441579893177
+the smallest particle of a chemical element that can exist.
+atomic
+39593
+4.343481709972444
+relating to an atom or atoms
+atomicity
+147
+0.016126381212991
+the number of atoms in the molecules of an element.
+atrazine
+1144
+0.125500544950079
+a synthetic compound derived from triazine, used as an agricultural herbicide.
+auric
+56
+0.006143383319235
+relating to the aura supposedly surrounding a living creature
+autocatalysis
+48
+0.005265757130772
+catalysis of a reaction by one of its products.
+autoclave
+1162
+0.127475203874118
+a strong heated container used for chemical reactions and other processes using high pressures and temperatures, e.g. steam sterilization.
+autoxidation
+123
+0.013493502647605
+spontaneous oxidation of a substance at ambient temperatures in the presence of oxygen.
+autoxidize
+5
+0.000548516367789
+(of a substance) undergo autoxidation
+azeotrope
+63
+0.006911306234139
+a mixture of two liquids which has a constant boiling point and composition throughout distillation.
+azide
+1059
+0.116175766697669
+a compound containing the anion N₃⁻ or the group —N₃.
+azine
+17
+0.001864955650482
+a cyclic organic compound having a ring including one or (usually) more nitrogen atoms.
+benzene
+8572
+0.94037646093713
+a colourless volatile liquid hydrocarbon present in coal tar and petroleum, and used in chemical synthesis. Its use as a solvent has been reduced because of its carcinogenic properties.
+benzenoid
+14
+0.001535845829809
+having the six-membered ring structure or aromatic properties of benzene.
+benzine
+85
+0.00932477825241
+a mixture of liquid hydrocarbons obtained from petroleum.
+benzoate
+634
+0.06955187543562
+a salt or ester of benzoic acid.
+benzol
+22
+0.002413472018271
+crude benzene used as a fuel.
+benzopyrene
+72
+0.007898635696159
+a compound which is the major carcinogen present in cigarette smoke, and also occurs in coal tar.
+benzoquinone
+73
+0.008008338969717
+a yellow crystalline compound related to benzene but having two hydrogen atoms replaced by oxygen.
+benzoyl
+637
+0.069880985256294
+of or denoting the acyl radical —C(O)C₆H₅, derived from benzoic acid
+benzyl
+971
+0.106521878624586
+of or denoting the radical —CH₂C₆H₅, derived from toluene
+berberine
+693
+0.076024368575528
+a bitter yellow compound of the alkaloid class, obtained from barberry and other plants.
+betaine
+827
+0.090724607232268
+a crystalline compound with basic properties found in many plant juices.
+bhc
+4
+0.000438813094231
+benzene hexachloride.
+bicarb
+258
+0.028303444577902
+sodium bicarbonate.
+bicarbonate
+3433
+0.376611338123794
+a salt containing the anion HCO₃⁻.
+bicyclic
+371
+0.040699914489929
+having two fused rings of atoms in its molecule.
+biguanide
+121
+0.013274096100489
+a crystalline compound with basic properties, made by condensation of two guanidine molecules.
+bimolecular
+303
+0.033240091888001
+consisting of or involving two molecules.
+biochar
+1777
+0.194942717112142
+charcoal produced from plant matter and stored in the soil as a means of removing carbon dioxide from the atmosphere.
+bioethanol
+1058
+0.116066063424111
+ethanol produced from plants such as sugar cane or maize, used as an alternative to petrol.
+bioleaching
+96
+0.010531514261546
+the process of extracting metals from ores or waste by using microorganisms to oxidize the metals, producing soluble compounds
+biomanufacturing
+352
+0.038615552292332
+the process of using living systems, particularly microorganisms and cell cultures, to produce biological molecules and materials on a commercial scale
+biomining
+38
+0.004168724395196
+the process of extracting metals from ores or waste by using microorganisms to oxidize the metals, producing soluble compounds
+bioplastic
+562
+0.061653239739462
+a type of biodegradable plastic derived from biological substances rather than petroleum.
+biphenyl
+375
+0.041138727584161
+an organic compound containing two phenyl groups bonded together, e.g. the PCBs.
+bis-
+0
+0
+used to form the names of compounds containing two groups identically substituted or coordinated
+bistre
+4
+0.000438813094231
+a brownish-yellow pigment made from the soot of burnt wood.
+bisulphate
+19
+0.002084362197597
+a salt of the anion HSO₄⁻.
+bitrex
+2
+0.000219406547116
+a bitter-tasting synthetic organic compound added to cleaning fluids or other products to make them unpalatable.
+bittern
+176
+0.019307776146167
+a large marshbird of the heron family, which is typically smaller than a heron, with brown streaked plumage. The larger kinds are noted for the deep booming call of the male in the breeding season.
+bituminize
+1
+0.000109703273558
+convert into, impregnate with, or cover with bitumen
+borosilicate
+616
+0.067577216511581
+a low-melting glass made from a mixture of silica and boric oxide (B₂O₃).
+brimstone
+1694
+0.185837345406848
+sulphur.
+bromate
+399
+0.043771606149547
+a salt or ester of bromic acid.
+bromide
+4709
+0.516592715183498
+a compound of bromine with another element or group, especially a salt containing the anion Br⁻ or an organic compound with bromine bonded to an alkyl radical.
+buckminsterfullerene
+38
+0.004168724395195
+a form of carbon having molecules of 60 atoms arranged in a polyhedron resembling a geodesic sphere.
+buckyball
+112
+0.01228676663847
+a hollow spherical molecule composed of a large number of carbon atoms
+burette
+31
+0.003400801480291
+a graduated glass tube with a tap at one end, for delivering known volumes of a liquid, especially in titrations.
+butadiene
+1915
+0.210081768863113
+a colourless gaseous hydrocarbon made by catalytic dehydrogenation of butane. It is used in the manufacture of synthetic rubber.
+butane
+3724
+0.408534990729103
+a flammable hydrocarbon gas of the alkane series, present in petroleum and natural gas. It is used in bottled form as a fuel.
+butanol
+919
+0.100817308399583
+each of two isomeric liquid alcohols used as solvents; butyl alcohol.
+butyl
+856
+0.093906002165444
+of or denoting an alkyl radical —C₄H₉, derived from butane
+butyrate
+1482
+0.162580251412602
+a salt or ester of butyric acid.
+cacodyl
+1
+0.000109703273558
+a malodorous, toxic, spontaneously flammable liquid compound containing arsenic.
+cacodylate
+215
+0.023586203814919
+a salt or ester of cacodylic acid.
+calci-
+0
+0
+relating to calcium or its compounds
+calciferous
+19
+0.002084362197598
+containing or producing calcium salts, especially calcium carbonate
+calcific
+675
+0.074049709651489
+involving the formation of calcium carbonate or other insoluble calcium compounds
+calcification
+7286
+0.799298051141849
+the hardening of tissue or other material by the deposition of or conversion into calcium carbonate or some other insoluble calcium compounds
+calcify
+239
+0.026219082380305
+harden by deposition of or conversion into calcium carbonate or some other insoluble calcium compounds
+calcine
+39
+0.004278427668753
+reduce, oxidize, or desiccate by roasting or exposing to strong heat
+calx
+15
+0.001645549103366
+a powdery metallic oxide formed when an ore or mineral has been heated.
+camphor
+803
+0.088091728666883
+a white volatile crystalline substance with an aromatic smell and bitter taste, occurring in certain essential oils.
+camphorate
+1
+0.000109703273558
+impregnate or treat with camphor
+cannabidiol
+1620
+0.177719303163574
+a compound that is one of the main constituents of cannabis, having mild psychoactive effects.
+cannabinoid
+3871
+0.424661371942094
+any of a group of closely related compounds which include cannabinol and the active constituents of cannabis.
+cannabinol
+48
+0.005265757130773
+a compound whose derivatives, especially THC, are the active constituents of cannabis.
+caoutchouc
+14
+0.001535845829809
+natural rubber that has not been vulcanized.
+caproate
+125
+0.01371290919472
+a salt or ester of caproic acid.
+caprolactam
+176
+0.019307776146166
+a synthetic crystalline compound which is an intermediate in nylon manufacture.
+carbonate
+8419
+0.923591860082792
+a salt of the anion CO₃²⁻, typically by reaction with carbon dioxide.
+carbonic
+1440
+0.157972713923176
+relating to carbon or its compounds, especially carbon dioxide.
+carbonize
+26
+0.002852285112503
+convert or be converted into carbon, typically by heating or burning or during fossilization
+carbonyl
+1928
+0.211507911419364
+of or denoting the divalent radical CO, present in such organic compounds as aldehydes, ketones, amides, and esters, and in organic acids as part of the carboxyl group
+carborundum
+61
+0.006691899687023
+a very hard black solid consisting of silicon carbide, used as an abrasive.
+carboxyl
+874
+0.095880661089483
+of or denoting the acid radical —COOH, present in most organic acids
+carboxylate
+719
+0.07887665368803
+a salt or ester of a carboxylic acid.
+carboxylated
+150
+0.016455491033664
+(of a compound) containing an added carboxyl group
+carboy
+122
+0.013383799374047
+a large globular glass bottle with a narrow neck, typically protected by a frame and used for holding acids or other corrosive liquids.
+carburation
+12
+0.001316439282693
+the process of mixing air with a fine spray of liquid hydrocarbon fuel, as in an internal combustion engine.
+carotenoid
+1114
+0.122209446743346
+any of a class of mainly yellow, orange, or red fat-soluble pigments, including carotene, which give colour to plant parts such as ripe tomatoes and autumn leaves
+catalyse
+1555
+0.170588590382319
+cause or accelerate (a reaction) by acting as a catalyst
+catalysis
+4326
+0.474576361410876
+the acceleration of a chemical reaction by a catalyst.
+catalyst
+86614
+9.501839335931937
+a substance that increases the rate of a chemical reaction without itself undergoing any permanent chemical change
+catalytic
+23859
+2.617410403814627
+relating to or involving the action of a catalyst.
+catechin
+421
+0.046185078167818
+a crystalline compound which is the major constituent of catechu.
+catechol
+479
+0.052547868034167
+a crystalline compound obtained by distilling catechu.
+catenane
+43
+0.004717240762984
+a molecule which consists of two or more connected rings like links in a chain.
+cation
+3459
+0.379463623236297
+a positively charged ion, i.e. one that would be attracted to the cathode in electrolysis.
+caustic
+7416
+0.813559476704358
+able to burn or corrode organic tissue by chemical action
+cavernulous
+0
+0
+(of rock or other material) full of minute cavities; porous.
+celluloid
+2727
+0.299160826992015
+a transparent flammable plastic made in sheets from camphor and nitrocellulose, formerly used for cinematographic film.
+cetane
+234
+0.025670566012516
+a colourless liquid hydrocarbon of the alkane series, present in petroleum spirit.
+cetrimide
+23
+0.002523175291829
+a synthetic detergent and antiseptic which is a quaternary ammonium compound derived from cetane.
+cfc
+110
+0.012067360091353
+any of a class of compounds of carbon, hydrogen, chlorine, and fluorine, typically gases used in refrigerants and aerosol propellants. They are harmful to the ozone layer in the earth's atmosphere owing to the release of chlorine atoms on exposure to ultraviolet radiation.
+charcoal
+22858
+2.507597426983308
+a porous black solid, consisting of an amorphous form of carbon, obtained as a residue when wood, bone, or other organic matter is heated in the absence of air.
+chelate
+470
+0.051560538572148
+a compound containing a ligand (typically organic) bonded to a central metal atom at two or more points.
+chemical
+269072
+29.51807922273395
+relating to chemistry, or the interactions of substances as studied in chemistry
+chemically
+12634
+1.385991158128756
+in a way that relates to chemistry, or to the interactions of substances as studied in chemistry
+chemiluminescence
+1251
+0.13723879522076
+the emission of light during a chemical reaction which does not produce significant quantities of heat.
+chloroform
+2125
+0.233119456310243
+a colourless, volatile, sweet-smelling liquid used as a solvent and formerly as a general anaesthetic.
+chloroprene
+73
+0.008008338969717
+a colourless liquid made from acetylene and hydrochloric acid and polymerized to form neoprene.
+chole-
+0
+0
+relating to bile or the bile ducts
+chromate
+220
+0.024134720182707
+a salt in which the anion contains both chromium and oxygen, especially one of the anion CrO₄²⁻.
+chromatogram
+569
+0.062421162654366
+a visible record (such as a graph) showing the result of separating the components of a mixture by chromatography.
+chromatograph
+426
+0.046733594535606
+an apparatus for performing chromatography.
+chromatography
+12067
+1.323789402021505
+a technique for the separation of a mixture by passing it in solution or suspension through a medium in which the components move at different rates.
+chromic
+137
+0.015029348477413
+of chromium with a higher valency, usually three.
+chromophore
+699
+0.076682588216875
+an atom or group whose presence is responsible for the colour of a compound.
+chromous
+3
+0.000329109820673
+of chromium with a valency of two.
+cinchonine
+9
+0.00098732946202
+a compound with antipyretic properties which occurs with quinine in cinchona bark.
+cis
+8129
+0.891777910751041
+denoting or relating to a molecular structure in which two particular atoms or groups lie on the same side of a given plane in the molecule, in particular denoting an isomer in which substituents at opposite ends of a carbon–carbon double bond are on the same side of the bond
+citral
+98
+0.01075092080866
+a fragrant liquid occurring in citrus and lemongrass oils and used in flavourings and perfumes.
+citrate
+4550
+0.499149894687814
+a salt or ester of citric acid.
+citronella
+672
+0.073720599830815
+a fragrant natural oil used as an insect repellent and in perfume and soap manufacture
+clathrate
+331
+0.036311783547619
+a compound in which molecules of one component are physically trapped within the crystal structure of another.
+coacervate
+55
+0.006033680045677
+a colloid-rich viscous liquid phase which may separate from a colloidal solution on addition of a third component.
+coke
+18415
+2.020185782566174
+a solid fuel made by heating coal in the absence of air so that the volatile components are driven off.
+cold-moulded
+3
+0.000329109820673
+(of an object) moulded from a resin that hardens without being heated.
+colligative
+3
+0.000329109820673
+relating to the binding together of molecules
+collodion
+215
+0.023586203814919
+a syrupy solution of nitrocellulose in a mixture of alcohol and ether, used for coating things, chiefly in surgery and in a former photographic process.
+colloid
+1208
+0.132521554457776
+a homogeneous non-crystalline substance consisting of large molecules or ultramicroscopic particles of one substance dispersed through a second substance. Colloids include gels, sols, and emulsions; the particles do not settle, and cannot be separated out by ordinary filtering or centrifuging like those in a suspension.
+colourant
+72
+0.007898635696159
+a dye, pigment, or other substance that colours something
+combine
+175468
+19.24941400463326
+join or merge to form a single unit or substance
+combustion
+23317
+2.55795122954632
+the process of burning something
+complexation
+984
+0.107948021180837
+the process of making an atom or compound form a complex with another.
+compound
+117035
+12.839122620832592
+a thing that is composed of two or more separate elements; a mixture
+condensate
+8908
+0.977236760852538
+liquid collected by condensation.
+condensation
+7723
+0.84723838168659
+water which collects as droplets on a cold surface when humid air is in contact with it
+condenser
+3411
+0.374197866105523
+an apparatus or container for condensing vapour.
+corrode
+1794
+0.196807672762623
+destroy or damage (metal, stone, or other materials) slowly by chemical action
+corrosion
+14771
+1.620427053721692
+the process of corroding or being corroded
+corrosive
+9043
+0.992046702782836
+tending to cause corrosion
+coumarone
+1
+0.000109703273558
+an organic compound present in coal tar, used to make thermoplastic resins for paints and varnishes.
+covalent
+3004
+0.329548633767515
+relating to or denoting chemical bonds formed by the sharing of electrons between atoms.
+cracker
+15055
+1.651582783412097
+a person or thing that cracks.
+creosol
+3
+0.000329109820673
+a colourless liquid which is the chief constituent of wood-tar creosote.
+creosote
+836
+0.091711936694289
+a dark brown oil containing various phenols and other organic compounds, distilled from coal tar and used as a wood preservative.
+cresol
+46
+0.005046350583657
+each of three isomeric crystalline compounds present in coal-tar creosote, used as disinfectants.
+cresyl
+152
+0.01667489758078
+of or denoting a radical —OC₆H₄CH₃, derived from a cresol.
+crucible
+3080
+0.337886082557905
+a ceramic or metal container in which metals or other substances may be melted or subjected to very high temperatures
+crystalline
+11725
+1.28627088246475
+having the structure and form of a crystal; composed of crystals
+crystallite
+300
+0.032910982067329
+an individual perfect crystal or region of regular crystalline structure in the substance of a material, typically of a metal or a partly crystalline polymer.
+crystallize
+1924
+0.211069098325132
+form or cause to form crystals
+cumene
+323
+0.035434157359156
+a liquid hydrocarbon made catalytically from benzene, chiefly as an intermediate in phenol synthesis.
+cuprammonium
+3
+0.000329109820673
+a complex ion, Cu(NH₃)₄²⁺, formed in solution when ammonia is added to copper salts. The solution is deep blue and is used to dissolve cellulose.
+cupreous
+0
+0
+of or like copper
+cupric
+166
+0.018210743410589
+of copper with a valency of two; of copper(II).
+cuprous
+80
+0.008776261884621
+of copper with a valency of one; of copper(I).
+curcumin
+4802
+0.526795119624369
+a bright yellow phenolic compound that is the main constituent of turmeric powder, used as a food colouring and flavouring and as a dietary supplement
+cyanamide
+61
+0.006691899687023
+a weakly acidic crystalline compound made as an intermediate in the production of ammonia.
+cyanate
+82
+0.008995668431737
+a salt or ester of cyanic acid.
+cyanic
+4
+0.000438813094231
+of cyanogen.
+cyanide
+7574
+0.830892593926484
+a salt or ester of hydrocyanic acid, containing the anion CN⁻ or the group —CN. The salts are generally extremely toxic.
+cyanoacrylate
+533
+0.058471844806287
+any of a class of compounds which are cyanide derivatives of acrylates. They are easily polymerized and are used to make quick-setting adhesives.
+cyanogen
+315
+0.034556531170695
+a colourless flammable highly poisonous gas made by oxidizing hydrogen cyanide.
+cyanohydrin
+21
+0.002303768744713
+an organic compound containing a carbon atom linked to both a cyanide group and a hydroxyl group.
+cyclamate
+68
+0.007459822601928
+a salt of a synthetic acid which is a cyclohexyl derivative of sulphamic acid. Sodium and calcium cyclamates were formerly used as artificial sweeteners.
+cyclize
+27
+0.00296198838606
+undergo or cause to undergo a reaction in which one part of a molecule becomes linked to another to form a closed ring
+cycloaddition
+850
+0.093247782524098
+an addition reaction in which a cyclic molecule is formed.
+cycloalkane
+59
+0.006472493139909
+a hydrocarbon with a molecule containing a ring of carbon atoms joined by single bonds.
+cyclohexane
+640
+0.070210095076967
+a colourless flammable liquid cycloalkane obtained from petroleum or by hydrogenating benzene, and used as a solvent and paint remover.
+decyl
+36
+0.003949317848079
+of or denoting an alkyl radical —C₁₀H₂₁, derived from decane.
+deflagrate
+3
+0.000329109820674
+burn or cause to burn away with a sudden flame and rapid, sharp combustion
+deflagration
+69
+0.007569525875486
+the action of heating a substance until it burns away rapidly.
+deflocculate
+3
+0.000329109820674
+break up the floccules of (a substance suspended in a liquid) into fine particles, producing a dispersion
+defoliant
+372
+0.040809617763487
+a chemical that removes the leaves from trees and plants, used in warfare.
+degas
+69
+0.007569525875486
+make or become free of unwanted or excess gas
+dehydrogenate
+47
+0.005156053857215
+remove a hydrogen atom or atoms from (a compound)
+deionize
+2
+0.000219406547116
+remove the ions or ionic constituents from (a substance, especially water)
+deliquesce
+12
+0.001316439282694
+(of organic matter) become liquid, typically during decomposition.
+deliquescent
+53
+0.005814273498562
+becoming liquid, or having a tendency to become liquid.
+delocalize
+21
+0.002303768744715
+detach or remove from a particular place or location
+demineralize
+31
+0.003400801480291
+remove salts from (water)
+dendrimer
+652
+0.07152653435966
+a synthetic polymer with a branching, treelike structure.
+denitrify
+7
+0.000767922914904
+(chiefly of bacteria) remove the nitrates or nitrites from (soil, air, or water) by chemical reduction
+deoxidize
+8
+0.000877626188463
+remove combined oxygen from (a substance, usually a metal)
+dephlogisticated
+9
+0.00098732946202
+deprived of ‘phlogiston’. Oxygen was originally called dephlogisticated air by Joseph Priestley.
+depolymerize
+78
+0.008556855337505
+break (a polymer) down into monomers or other smaller units.
+deproteinize
+0
+0
+remove the protein from (a substance), usually as a stage in chemical purification.
+derris
+3
+0.000329109820673
+an insecticide containing rotenone, made from the powdered roots of certain tropical plants.
+desalinate
+481
+0.052767274581283
+remove salt from (seawater)
+desalination
+9121
+1.000603558120341
+the process of removing salt from seawater
+desiccator
+67
+0.00735011932837
+a glass container or other apparatus holding a drying agent for removing moisture from specimens and protecting them from water vapour in the air.
+desorb
+105
+0.011518843723565
+cause the release of (an adsorbed substance) from a surface
+desorption
+2389
+0.262081120529492
+the release of an adsorbed substance from a surface
+desulphurize
+2
+0.000219406547116
+remove sulphur or sulphur compounds from (a substance)
+detergent
+12281
+1.347265902562866
+a water-soluble cleansing agent which combines with impurities and dirt to make them more soluble, and differs from soap in not forming a scum with the salts in hard water
+detoxification
+5099
+0.559376991871025
+the process of removing toxic substances
+detoxify
+1734
+0.190225476349158
+remove toxic substances from
+deuterated
+578
+0.063408492116386
+(of a compound) in which the ordinary isotope of hydrogen has been replaced with deuterium.
+dewar
+145
+0.015906974665875
+a double-walled flask of metal or silvered glass with a vacuum between the walls, used to hold liquids at well below ambient temperature.
+dewax
+8
+0.000877626188462
+remove wax from
+dieldrin
+166
+0.018210743410589
+a toxic insecticide produced by the oxidation of aldrin, now largely banned because of its persistence in the environment.
+diene
+368
+0.040370804669256
+an unsaturated hydrocarbon containing two double bonds between carbon atoms.
+diffusible
+267
+0.029290774039922
+able to intermingle by diffusion
+diffusivity
+1749
+0.191871025452524
+a measure of the capability of a substance or energy to be diffused or to allow something to pass by diffusion
+digester
+1489
+0.163348174327507
+a container in which substances are treated with heat, enzymes, or a solvent in order to promote decomposition or extract essential components.
+digoxin
+1480
+0.162360844865486
+a poisonous compound present in the foxglove and other plants. It is a steroid glycoside and is used in small doses as a cardiac stimulant.
+dihydric
+3
+0.000329109820673
+(of an alcohol) containing two hydroxyl groups.
+dihydroxyacetone
+118
+0.012944986279816
+a synthetic compound with strong reducing properties, used in lotions for colouring the skin in sunlight.
+dilatancy
+4
+0.000438813094231
+the phenomenon exhibited by some fluids, sols, and gels in which they become more viscous or solid under pressure.
+diluent
+2003
+0.219735656936197
+a substance used to dilute something.
+dilute
+13669
+1.499534046261039
+make (a liquid) thinner or weaker by adding water or another solvent to it
+dilution
+20841
+2.286325924217303
+the action of making a liquid more dilute
+dimer
+3342
+0.366628340230038
+a molecule or molecular complex consisting of two identical molecules linked together.
+dimercaprol
+21
+0.002303768744713
+a colourless, oily liquid with an unpleasant smell, used as an antidote for poisoning by mercury, arsenic, lead, and other heavy metals.
+dimerize
+143
+0.01568756811876
+combine with a similar molecule to form a dimer
+diol
+182
+0.019965995787513
+an alcohol containing two hydroxyl groups in its molecule.
+diosgenin
+83
+0.009105371705294
+a steroid compound obtained from Mexican yams and used in the synthesis of steroid hormones.
+dioxane
+358
+0.039273771933679
+a colourless toxic liquid used as an organic solvent.
+dioxide
+72613
+7.965883802849721
+an oxide containing two atoms of oxygen in its molecule or empirical formula.
+dioxin
+1593
+0.174757314777514
+a highly toxic compound produced as a by-product in some manufacturing processes, notably herbicide production and paper bleaching. It is a serious and persistent environmental pollutant.
+diphenylamine
+55
+0.006033680045677
+a synthetic crystalline compound with basic properties, used in making azo dyes and as an insecticide and larvicide.
+diquat
+37
+0.004059021121637
+a synthetic compound used in controlling plant growth, often as a non-persistent contact herbicide.
+dispersant
+785
+0.086117069742843
+a liquid or gas used to disperse small particles in a medium.
+disproportionate
+25724
+2.822007008999852
+too large or too small in comparison with something else
+disproportionation
+434
+0.047611220724069
+a reaction in which a substance is simultaneously oxidized and reduced, giving two different products.
+dissociation
+6334
+0.694860534714861
+the action of disconnecting or separating or the state of being disconnected
+distil
+844
+0.092589562882751
+purify (a liquid) by heating it so that it vaporizes, then cooling and condensing the vapour and collecting the resulting liquid
+distillation
+7652
+0.839449449263989
+the action of purifying a liquid by a process of heating and cooling
+distilled
+12211
+1.339586673413824
+(of a liquid) having been purified by undergoing heating and condensation
+disubstituted
+64
+0.007021009507698
+(of a molecule) having two substituent groups.
+disulphide
+370
+0.040590211216372
+a sulphide containing two atoms of sulphur in its molecule or empirical formula
+diterpene
+220
+0.024134720182707
+any of a group of terpenes found in plant gums and resins, having unsaturated molecules based on a unit with the formula C₂₀H₃₂.
+electrochromism
+14
+0.001535845829809
+the property of certain dyes of changing colour when placed in an electric field.
+electrodialysis
+132
+0.014480832109624
+dialysis in which the movement of ions is aided by an electric field applied across the semipermeable membrane.
+electroluminescence
+180
+0.019746589240397
+luminescence produced electrically, especially by the application of a voltage.
+electrolyse
+24
+0.002632878565386
+subject to or treat by electrolysis
+electrolysis
+2769
+0.303768364481441
+chemical decomposition produced by passing an electric current through a liquid or solution containing ions.
+electrolyte
+9342
+1.024847981576606
+a liquid or gel which contains ions and can be decomposed by electrolysis, e.g. that present in a battery.
+electronegativity
+135
+0.014809941930298
+the degree to which an element tends to gain electrons and form negative ions in chemical reactions
+electrophile
+108
+0.011847953544238
+a molecule or substance that has a tendency to attract or acquire electrons
+electrophilic
+551
+0.060446503730326
+(of a molecule or group) having a tendency to attract or acquire electrons.
+electrophorese
+0
+0
+subject (a mixture of substances) to electrophoresis
+electrophoresis
+6936
+0.760901905396632
+the movement of charged particles in a fluid or gel under the influence of an electric field.
+electrotype
+8
+0.000877626188462
+make a copy of (something) by the electrolytic deposition of copper on a mould
+electrovalent
+2
+0.000219406547116
+(of bonding) resulting from electrostatic attraction between positive and negative ions; ionic.
+elemental
+9642
+1.057758963643934
+forming an essential or typical feature; fundamental
+eluate
+213
+0.023366797267803
+a solution obtained by elution.
+eluent
+287
+0.031484839511078
+a fluid used to elute a substance.
+elute
+187
+0.020514512155301
+remove (an adsorbed substance) by washing with a solvent, especially in chromatography
+elutriate
+2
+0.000219406547116
+separate (lighter and heavier particles in a mixture) by suspension in an upward flow of liquid or gas
+emulsifier
+587
+0.064395821578406
+a substance that stabilizes an emulsion, in particular an additive used to stabilize processed foods.
+emulsify
+345
+0.037847629377427
+make into or become an emulsion
+emulsion
+4308
+0.472601702486836
+a fine dispersion of minute droplets of one liquid in another in which it is not soluble or miscible
+enantiomer
+446
+0.048927660006762
+each of a pair of molecules that are mirror images of each other.
+endothermic
+559
+0.061324129918789
+(of a reaction or process) accompanied by or requiring the absorption of heat.
+endrin
+13
+0.001426142556251
+a toxic insecticide which is a stereoisomer of dieldrin.
+enthalpy
+781
+0.085678256648611
+a thermodynamic quantity equivalent to the total heat content of a system. It is equal to the internal energy of the system plus the product of pressure and volume.
+entrain
+252
+0.027645224936557
+board a train
+entropy
+7989
+0.876419452452955
+a thermodynamic quantity representing the unavailability of a system's thermal energy for conversion into mechanical work, often interpreted as the degree of disorder or randomness in the system
+epimer
+41
+0.004497834215868
+each of two isomers with different configurations of atoms about one of several asymmetric carbon atoms present.
+epimerize
+3
+0.000329109820673
+convert from one epimeric form into the other
+epoxide
+664
+0.072842973642354
+an organic compound whose molecule contains a three-membered ring involving an oxygen atom and two carbon atoms.
+equilibrate
+254
+0.027864631483672
+bring into or keep in equilibrium
+ethane
+5456
+0.598541060531146
+a colourless, odourless, flammable gas which is a constituent of petroleum and natural gas. It is the second member of the alkane series.
+eutectic
+372
+0.040809617763488
+relating to or denoting a mixture of substances (in fixed proportions) that melts and freezes at a single temperature that is lower than the melting points of the separate constituents or of any other mixture of them
+evaporate
+9187
+1.007843974175154
+turn from liquid into vapour
+evaporation
+9323
+1.022763619379008
+the process of turning from liquid into vapour
+evaporative
+1762
+0.193297168008776
+relating to or involving evaporation
+excimer
+348
+0.038176739198101
+an unstable excited molecule which is formed by the combination of two smaller molecules and rapidly dissociates with emission of radiation, utilized in some kinds of laser.
+exothermic
+916
+0.100488198578909
+(of a reaction or process) accompanied by the release of heat.
+expanded
+256093
+28.094240435227764
+being or having been enlarged or extended.
+faraday
+218
+0.023915313635592
+a unit of electric charge equal to Faraday's constant.
+ferrate
+46
+0.005046350583657
+a salt in which the anion contains both iron (typically ferric iron) and oxygen.
+ferri-
+1
+0.000109703273558
+of iron with a valency of three; ferric.
+ferric
+1428
+0.156656274640484
+relating to iron.
+ferricyanide
+114
+0.012506173185585
+a salt containing the anion Fe(CN)₆³⁻.
+ferrite
+880
+0.09653888073083
+a ceramic compound consisting of a mixed oxide of iron and one or more other metals which has ferrimagnetic properties and is used in high-frequency electrical components such as aerials.
+ferro-
+1
+0.000109703273558
+containing iron
+ferrocene
+367
+0.040261101395698
+an orange crystalline compound whose molecule has a sandwich structure in which two planar cyclic hydrocarbon ligands enclose an iron atom.
+ferrocyanide
+121
+0.013274096100489
+a salt containing the anion Fe(CN)₆⁴⁻.
+ferruginous
+106
+0.011628546997122
+containing iron oxides or rust
+firedamp
+29
+0.003181394933175
+methane, especially as forming an explosive mixture with air in coal mines.
+firework
+6730
+0.738303031043734
+a device containing gunpowder and other combustible chemicals which causes spectacular effects and explosions when ignited, used for display or in celebrations
+flame
+45075
+4.94487505561609
+a hot glowing body of ignited gas that is generated by something on fire
+flask
+4553
+0.499479004508487
+a container for liquids.
+flavone
+181
+0.019856292513955
+a colourless crystalline compound which is the basis of a number of white or yellow plant pigments.
+flavonoid
+1561
+0.171246810023665
+any of a large class of plant pigments having a structure based on or similar to that of flavone.
+flocculant
+56
+0.006143383319235
+a substance which promotes the clumping of particles, especially one used in treating waste water.
+flocculent
+144
+0.015797271392318
+having or resembling tufts of wool
+flotation
+8503
+0.932806935061645
+the action of floating in a liquid or gas
+fluid
+126250
+13.850038286667363
+a substance that has no fixed shape and yields easily to external pressure; a gas or (especially) a liquid
+fluorescein
+1476
+0.161922031771255
+an orange dye with a yellowish-green fluorescence, used as an indicator and tracer.
+fluoridate
+236
+0.025889972559632
+add traces of fluorides to (something)
+fluoridated
+1218
+0.133618587193353
+having had traces of fluorides added
+fumigant
+273
+0.029948993681269
+a chemical that produces fumes used to disinfect or purify an area
+fungicide
+1662
+0.182326840652999
+a chemical that destroys fungus
+furan
+366
+0.04015139812214
+a colourless volatile liquid with a planar unsaturated five-membered ring in its molecule.
+furfural
+603
+0.06615107395533
+a colourless liquid used in synthetic resin manufacture, originally obtained by distilling bran.
+g
+138904
+15.238223510267275
+gas.
+galbanum
+17
+0.001864955650482
+a bitter aromatic resin produced from kinds of ferula.
+galipot
+0
+0
+hardened resin deposits formed on the stem of the maritime pine.
+gallate
+410
+0.044978342158683
+a salt or ester of gallic acid.
+gasify
+97
+0.010641217535104
+convert (a solid or liquid, especially coal) into gas
+gasohol
+66
+0.007240416054813
+a mixture of petrol and ethanol used as fuel in internal combustion engines
+gasometer
+56
+0.006143383319235
+a large metal tank, typically cylindrical, in which gas for use as fuel is stored before being distributed through pipes to consumers.
+geber
+1
+0.000109703273558
+(c.721–c.815), Arab chemist; Latinized name of Jabir ibn Hayyan. Many works are attributed to him, but his name was used by later writers. He was familiar with many chemicals and laboratory techniques, including distillation and sublimation.
+gel
+47481
+5.208821131796065
+a a thick, clear, slightly sticky substance, especially one used in cosmetic or medicinal products
+gelatinize
+13
+0.001426142556251
+make or become gelatinous
+gelation
+621
+0.06812573287937
+solidification by freezing.
+gelignite
+96
+0.010531514261545
+a high explosive made from a gel of nitroglycerine and nitrocellulose in a base of wood pulp and sodium or potassium nitrate, used particularly for rock-blasting.
+geminal
+39
+0.004278427668752
+denoting substituent atoms or groups, especially protons, attached to the same atom in a molecule.
+geochemical
+3840
+0.421260570461803
+relating to the chemical composition of the earth and its rocks and minerals
+geochemist
+544
+0.059678580815422
+an expert in or student of the branch of science concerning the chemical composition of the earth and its rocks and minerals
+geochemistry
+1812
+0.198782331686663
+the study of the chemical composition of the earth and its rocks and minerals.
+geranial
+27
+0.00296198838606
+a fragrant oil present in lemongrass oil and used in perfumery.
+geraniol
+195
+0.021392138343764
+a fragrant liquid present in some floral oils and used in perfumery.
+glc
+76
+0.00833744879039
+gas–liquid chromatography.
+glucuronate
+12
+0.001316439282693
+a salt or ester of glucuronic acid.
+glyceride
+25
+0.002742581838944
+a fatty acid ester of glycerol.
+glycerol
+4465
+0.489825116435404
+a colourless, sweet, viscous liquid formed as a by-product in soap manufacture. It is used as an emollient and laxative, and for making explosives and antifreeze.
+glyceryl
+176
+0.019307776146166
+of or denoting a radical derived from glycerol by replacement of one or more hydrogen atoms
+glyphosate
+8089
+0.887389779808731
+a synthetic compound which is a non-selective systemic herbicide, particularly effective against perennial weeds.
+gossypol
+115
+0.012615876459143
+a toxic crystalline compound present in cotton-seed oil.
+graphene
+25172
+2.761450801995967
+a form of carbon consisting of planar sheets which are one atom thick, with the atoms arranged in a honeycomb-shaped lattice.
+graphite
+17541
+1.924305121476691
+a grey crystalline allotropic form of carbon which occurs as a mineral in some rocks and can be made from coke. It is used as a solid lubricant, in pencils, and as a moderator in nuclear reactors.
+guaiac
+110
+0.012067360091353
+brown resin obtained from guaiacum trees, used as a flavouring and in varnishes.
+guaiacol
+198
+0.021721248164436
+an oily yellow liquid with a penetrating odour, obtained by distilling wood tar or guaiac, used as a flavouring and an expectorant.
+guanidine
+319
+0.034995344264926
+a strongly basic crystalline compound, used in organic synthesis.
+gum
+31824
+3.491196977702195
+a viscous secretion of some trees and shrubs that hardens on drying but is soluble in water, and from which adhesives and other products are made.
+haematoxylin
+542
+0.059459174268306
+a colourless compound present in logwood, which is easily converted into blue, red, or purple dyes and is used as a biological stain.
+halide
+1568
+0.17201473293857
+a binary compound of a halogen with another element or group.
+halocarbon
+33
+0.003620208027406
+a CFC or other compound in which the hydrogen of a hydrocarbon is replaced by halogens.
+haloform
+2
+0.000219406547116
+a compound derived from methane by substituting three hydrogen atoms by halogen atoms, e.g. chloroform
+halogen
+4025
+0.441555676069989
+any of the elements fluorine, chlorine, bromine, iodine, and astatine, occupying group VIIA (17) of the periodic table. They are reactive non-metallic elements that form strongly acidic compounds with hydrogen from which simple salts can be made.
+halogenate
+3
+0.000329109820673
+introduce one or more halogen atoms into (a compound or molecule), usually in place of hydrogen
+halon
+91
+0.009982997893756
+any of a number of unreactive gaseous compounds of carbon with bromine and other halogens, used in fire extinguishers, but now known to damage the ozone layer.
+halothane
+282
+0.030936323143288
+a volatile synthetic organic compound used as a general anaesthetic.
+hartshorn
+5
+0.000548516367789
+aqueous ammonia solution used as smelling salts, formerly prepared from the horns of deer.
+hazchem
+6
+0.000658219641347
+denoting a system of labelling hazardous chemicals, especially during transportation.
+hemihydrate
+40
+0.00438813094231
+a crystalline hydrate containing one molecule of water for every two molecules of the compound in question.
+heptane
+229
+0.025122049644728
+a colourless liquid hydrocarbon of the alkane series, present in petroleum spirit.
+heptavalent
+85
+0.00932477825241
+having a valency of seven.
+heptyl
+49
+0.00537546040433
+of or denoting an alkyl radical —C₇H₁₅, derived from heptane.
+heteroaromatic
+143
+0.01568756811876
+denoting an organic compound with a ring structure which is both heterocyclic and aromatic.
+hydride
+1442
+0.158192120470292
+a binary compound of hydrogen with a metal.
+hydrocarbon
+22285
+2.444737451234711
+a compound of hydrogen and carbon, such as any of those which are the chief components of petroleum and natural gas
+hydrochloride
+3083
+0.338215192378579
+a compound of a particular organic base with hydrochloric acid
+hydrochlorofluorocarbon
+20
+0.002194065471155
+any of a class of inert compounds of carbon, hydrogen, chlorine, and fluorine, used in place of CFCs as being somewhat less destructive to the ozone layer.
+hydrocolloid
+229
+0.025122049644727
+a substance which forms a gel in the presence of water, examples of which are used in surgical dressings and in various industrial applications
+hydrogel
+4601
+0.504744761639259
+a gel in which the liquid component is water
+hydrogenate
+124
+0.013603205921162
+charge with or cause to combine with hydrogen
+hydrolysate
+471
+0.051670241845706
+a substance produced by hydrolysis.
+hydrolyse
+78
+0.008556855337505
+break down (a compound) by chemical reaction with water
+hydrolysis
+5707
+0.626076582194144
+the chemical breakdown of a compound due to reaction with water.
+hydrophilic
+3805
+0.417420955887282
+having a tendency to mix with, dissolve in, or be wetted by water.
+hydrophobic
+8336
+0.914486488377498
+tending to repel or fail to mix with water.
+hydroquinone
+677
+0.074269116198604
+a crystalline compound made by the reduction of benzoquinone.
+hydrous
+241
+0.026438488927421
+containing water as a constituent
+hydroxide
+4176
+0.458120870377211
+a compound of a metal with the hydroxide ion OH⁻ (as in many alkalis) or the group —OH.
+hydroxyl
+3081
+0.337995785831462
+of or denoting the radical —OH, present in alcohols and many other organic compounds
+hydroxylate
+30
+0.003291098206733
+introduce a hydroxyl group into (a molecule or compound)
+hygroscopic
+248
+0.027206411842325
+(of a substance) tending to absorb moisture from the air.
+hyoscine
+55
+0.006033680045677
+a poisonous plant alkaloid used as an anti-emetic in motion sickness and as a preoperative medication for examination of the eye.
+hyoscyamine
+35
+0.003839614574521
+a poisonous compound present in henbane, with similar properties to hyoscine.
+hypalon
+9
+0.00098732946202
+a kind of synthetic rubber made of chlorinated and sulphonated polyethylene.
+hypergolic
+71
+0.007788932422601
+(of a rocket propellant) igniting spontaneously on mixing with another substance.
+hypertonic
+972
+0.106631581898144
+having a higher osmotic pressure than a particular fluid, typically a body fluid or intracellular fluid.
+hypochlorite
+1165
+0.127804313694792
+a salt of hypochlorous acid
+hytrel
+0
+0
+a strong, flexible synthetic resin used in shoes, sports equipment, and other manufactured articles.
+iatrochemistry
+3
+0.000329109820673
+a school of thought of the 16th and 17th centuries which sought to understand medicine and physiology in terms of chemistry.
+i.chem.e.
+0
+0
+(in the UK) Institution of Chemical Engineers.
+ici
+191
+0.020953325249532
+Imperial Chemical Industries (Limited).
+imidazole
+772
+0.084690927186592
+a colourless crystalline compound with mildly basic properties, present as a substituent in the amino acid histidine.
+imide
+111
+0.012177063364912
+an organic compound containing the group —CONHCO—, related to ammonia by replacement of two hydrogen atoms by acyl groups.
+imine
+358
+0.039273771933679
+an organic compound containing the group —C=NH or —C=NR where R is an alkyl or other group.
+immiscible
+292
+0.032033355878867
+(of liquids) not forming a homogeneous mixture when mixed
+incongruent
+1471
+0.161373515403467
+incongruous; incompatible.
+indene
+32
+0.003510504753848
+a colourless liquid hydrocarbon, obtained from coal tar and used in making synthetic resins.
+indigoid
+3
+0.000329109820673
+(of a dye) related to indigotin in molecular structure.
+indigotin
+1
+0.000109703273558
+a dark blue crystalline compound which is the main constituent of the dye indigo.
+indole
+800
+0.087762618846209
+a crystalline organic compound with an unpleasant odour, present in coal tar and in faeces.
+indoxyl
+71
+0.007788932422601
+of or denoting the radical —ONC₈H₆, derived from a hydroxy derivative of indole and present in indigotin.
+infusible
+19
+0.002084362197598
+(of a substance) not able to be melted or fused
+inhibitor
+55003
+6.034009155497544
+a thing which inhibits someone or something.
+initiator
+3187
+0.349624332828585
+a person or thing that initiates someone or something.
+insolubilize
+0
+0
+make (a substance) incapable of dissolving
+intensifier
+277
+0.0303878067755
+a person or thing that intensifies.
+interchain
+118
+0.012944986279816
+existing between different polymer chains
+interconversion
+298
+0.032691575520213
+the conversion of two things into each other
+interconvert
+54
+0.00592397677212
+cause (two things) to be converted into each other
+intermolecular
+1524
+0.167187788902028
+existing or taking place between molecules.
+intramolecular
+1655
+0.181558917738095
+existing or taking place within a molecule
+iodate
+164
+0.017991336863473
+a salt or ester of iodic acid.
+iodide
+3325
+0.364763384579556
+a compound of iodine with another element or group, especially a salt of the anion I⁻.
+iodinate
+2
+0.000219406547116
+introduce iodine into (a compound).
+iodize
+12
+0.001316439282693
+treat or impregnate with iodine
+iodoform
+66
+0.007240416054813
+a volatile pale yellow sweet-smelling crystalline organic compound of iodine, with antiseptic properties.
+iodometry
+0
+0
+the quantitative analysis of a solution of an oxidizing agent by adding an iodide which reacts to form iodine, which is then titrated.
+ion
+32956
+3.615381083369582
+an atom or molecule with a net electric charge due to the loss or gain of one or more electrons
+ionize
+378
+0.041467837404834
+convert (an atom, molecule, or substance) into an ion or ions, typically by removing one or more electrons.
+ionomer
+630
+0.06911306234139
+any of a class of polymer materials consisting of thermoplastic resins stabilized by ionic cross-linkages, used to make dental cement and sealants.
+isatin
+102
+0.011189733902892
+a red crystalline compound used in the manufacture of dyes.
+isethionate
+29
+0.003181394933176
+a salt or ester of isethionic acid.
+isocyanide
+111
+0.012177063364912
+an organic compound containing the group —NC bonded to an alkyl group. Such compounds are typically toxic, malodorous liquids.
+isoelectronic
+54
+0.005923976772119
+having the same numbers of electrons or the same electronic structure
+isoflavone
+425
+0.046623891262049
+a crystalline compound whose derivatives occur in many plants (especially pulses), often as glycosides.
+isomer
+1266
+0.138884344324126
+each of two or more compounds with the same formula but a different arrangement of atoms in the molecule and different properties.
+isomerize
+80
+0.008776261884621
+change from one isomer to another
+isooctane
+112
+0.012286766638469
+a liquid hydrocarbon present in petroleum. It serves as a standard in the system of octane numbers.
+isoprene
+1282
+0.14063959670105
+a volatile liquid hydrocarbon obtained from petroleum, whose molecule forms the basic structural unit of natural and synthetic rubbers.
+isopropanol
+637
+0.069880985256294
+a liquid alcohol, used as a solvent and in the industrial production of acetone.
+isopropyl
+1164
+0.127694610421234
+of or denoting the alkyl radical —CH(CH₃)₂, derived from propane by removal of a hydrogen atom from the middle carbon atom.
+isotactic
+84
+0.009215074978852
+denoting a polymer in which all the repeating units have the same stereochemical configuration.
+isothiocyanate
+640
+0.070210095076967
+a compound containing the group —N=C=S as a substituent or ligand.
+isotope
+7682
+0.842740547470722
+each of two or more forms of the same element that contain equal numbers of protons but different numbers of neutrons in their nuclei, and hence differ in relative atomic mass but not in chemical properties; in particular, a radioactive form of an element
+iupac
+0
+0
+International Union of Pure and Applied Chemistry
+kerosene
+10343
+1.134660958407925
+a light fuel oil obtained by distilling petroleum, used especially in jet engines and domestic heating boilers; paraffin oil.
+ketene
+59
+0.006472493139908
+a pungent colourless reactive gas, used as an intermediate in chemical synthesis.
+ketone
+1986
+0.217870701285714
+an organic compound containing a carbonyl group CO bonded to two hydrocarbon groups, made by oxidizing secondary alcohols. The simplest such compound is acetone.
+kevlar
+826
+0.090614903958711
+a synthetic fibre of high tensile strength used especially as a reinforcing agent in the manufacture of tyres and other rubber products.
+kieselguhr
+23
+0.002523175291829
+a form of diatomaceous earth used in various manufacturing and laboratory processes, chiefly as a filter, filler, or insulator.
+kinetics
+11574
+1.269705688157529
+the branch of chemistry or biochemistry concerned with measuring and studying the rates of reactions.
+kyanize
+1
+0.000109703273558
+treat (wood) with a solution of mercuric chloride to prevent decay.
+lachrymator
+5
+0.000548516367789
+a substance that irritates the eyes and causes tears to flow.
+lactam
+129
+0.014151722288951
+an organic compound containing an amide group —NHCO— as part of a ring.
+lactate
+9715
+1.065767302613651
+(of a female mammal) secrete milk
+lactometer
+3
+0.000329109820673
+an instrument for measuring the density of milk.
+lactone
+477
+0.052328461487052
+an organic compound containing an ester group —OCO— as part of a ring.
+ladanum
+0
+0
+a gum resin obtained from the twigs of a southern European rock rose, used in perfumery and for fumigation.
+laevorotatory
+0
+0
+(of a compound) having the property of rotating the plane of a polarized light ray to the left, i.e. anticlockwise facing the oncoming radiation.
+lake
+133092
+14.600628084349568
+a large area of water surrounded by land
+laminex
+12
+0.001316439282693
+a hard durable plastic laminate used as a surfacing material for worktops, tables, etc.
+limonene
+515
+0.056497185882247
+a colourless liquid hydrocarbon with a lemon-like scent, present in lemon oil, orange oil, and similar essential oils.
+lindane
+152
+0.016674897580779
+a synthetic organochlorine insecticide, now generally restricted in use owing to its toxicity and persistence in the environment.
+linoleate
+73
+0.008008338969716
+a salt or ester of linoleic acid.
+linolenate
+11
+0.001206736009135
+a salt or ester of linolenic acid.
+lipid
+35993
+3.948549925164502
+any of a class of organic compounds that are fatty acids or their derivatives and are insoluble in water but soluble in organic solvents. They include many natural oils, waxes, and steroids.
+liquefaction
+3760
+0.412484308577182
+the process of making something, especially a gas, liquid
+liquefy
+1010
+0.110800306293339
+make or become liquid
+liquid
+169551
+18.600299734991985
+a substance that flows freely but is of constant volume, having a consistency like that of water or oil
+lithia
+10
+0.001097032735578
+lithium oxide, a white alkaline solid.
+lithopone
+11
+0.001206736009136
+a white pigment made from zinc sulphide and barium sulphate.
+litmus
+6832
+0.749492764946625
+a dye obtained from certain lichens that is red under acid conditions and blue under alkaline conditions.
+lixiviate
+0
+0
+separate (a substance) into soluble and insoluble constituents by the percolation of liquid
+lng
+216
+0.023695907088478
+liquefied natural gas.
+lox
+2086
+0.22884102864149
+liquid oxygen.
+lucite
+346
+0.037957332650985
+a solid transparent plastic made of polymethyl methacrylate (the same material as Perspex or Plexiglas)
+lute
+1487
+0.163128767780391
+a plucked stringed instrument with a long neck bearing frets and a rounded body with a flat front, rather like a halved egg in shape.
+lye
+1141
+0.125171435129406
+a strongly alkaline solution, especially of potassium hydroxide, used for washing or cleansing.
+lyophilic
+1
+0.000109703273558
+(of a colloid) readily dispersed by a solvent and not easily precipitated.
+lyophilize
+6
+0.000658219641347
+freeze-dry (a substance)
+lyophobic
+0
+0
+(of a colloid) not lyophilic.
+lysol
+65
+0.007130712781254
+a disinfectant consisting of a mixture of cresols and soft soap.
+macrocyclic
+615
+0.067467513238023
+relating to or denoting a ring composed of a relatively large number of atoms, such as occur in haem, chlorophyll, and several natural antibiotics.
+macromolecule
+452
+0.049585879648108
+a molecule containing a very large number of atoms, such as a protein, nucleic acid, or synthetic polymer.
+magnesia
+474
+0.051999351666379
+magnesium oxide.
+malate
+587
+0.064395821578406
+a salt or ester of malic acid.
+malathion
+488
+0.053535197496188
+a synthetic organophosphorus compound which is used as an insecticide.
+maleate
+229
+0.025122049644727
+a salt or ester of maleic acid.
+malonate
+155
+0.017004007401453
+a salt or ester of malonic acid.
+maneb
+32
+0.003510504753848
+a white compound used as a fungicidal powder on vegetables and fruit.
+manganate
+17
+0.001864955650482
+a salt in which the anion contains both manganese and oxygen, especially one of the anion MnO₄²⁻.
+manganous
+6
+0.000658219641347
+of manganese with a valency of two.
+mescaline
+406
+0.044539529064451
+a hallucinogenic and intoxicating compound present in the peyote cactus.
+metal
+403235
+44.23619951306388
+a solid material which is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity (e.g. iron, gold, silver, and aluminium, and alloys such as steel)
+metaldehyde
+92
+0.010092701167314
+a solid made by polymerizing acetaldehyde, used in slug pellets and as a fuel for portable stoves.
+metallicity
+237
+0.025999675833189
+the property of being metallic.
+metalloid
+145
+0.015906974665876
+an element (e.g. arsenic, antimony, or tin) whose properties are intermediate between those of metals and solid non-metals or semiconductors.
+metaphosphate
+13
+0.001426142556251
+a salt of metaphosphoric acid.
+metastable
+740
+0.081180422432743
+(of a state of equilibrium) stable provided it is subjected to no more than small disturbances
+methacrylate
+2174
+0.238494916714573
+a salt or ester of methacrylic acid, especially any of these esters used in making resins by polymerization.
+methane
+51925
+5.696342479486756
+a colourless, odourless flammable gas which is the main constituent of natural gas. It is the simplest member of the alkane series of hydrocarbons.
+methanol
+13109
+1.438100213068693
+a toxic, colourless, volatile flammable liquid alcohol, made chiefly by oxidizing methane.
+methiocarb
+12
+0.001316439282693
+a synthetic compound used to kill garden pests.
+metho
+53
+0.005814273498562
+methylated spirit.
+meths
+105
+0.011518843723565
+methylated spirit.
+methyl
+8831
+0.96878960878859
+of or denoting the alkyl radical —CH₃, derived from methane and present in many organic compounds
+methylate
+194
+0.021282435070206
+mix or impregnate with methanol or methylated spirit
+methylene
+2098
+0.230157467924184
+of or denoting the divalent radical or group —CH₂—, derived from methane by loss of two hydrogen atoms
+metol
+1
+0.000109703273558
+a soluble white compound used as a photographic developer.
+micelle
+959
+0.105205439341893
+an aggregate of molecules in a colloidal solution, such as those formed by detergents.
+microanalyser
+4
+0.000438813094231
+an instrument in which a beam of electrons or other radiation is focused on to a minute area of a sample and the resulting secondary radiation (usually X-ray fluorescence) is analysed to yield chemical information.
+microanalysis
+216
+0.023695907088477
+the quantitative analysis of chemical compounds using a sample of a few milligrams.
+microcellular
+48
+0.005265757130773
+containing or made up of minute cells
+microchemistry
+15
+0.001645549103366
+the branch of chemistry concerned with the reactions and properties of substances in minute quantities, e.g. in living tissue.
+microplastic
+595
+0.065273447766868
+extremely small pieces of plastic debris in the environment resulting from the disposal and breakdown of consumer products and industrial waste
+microsphere
+523
+0.057374812070709
+a microscopic hollow sphere, especially of a protein or synthetic polymer.
+mineral
+75051
+8.233340383783544
+a solid, naturally occurring inorganic substance
+mineralize
+76
+0.008337448790391
+convert (organic matter) wholly or partly into a mineral or inorganic material or structure
+mirex
+42
+0.004607537489426
+a synthetic insecticide of the organochlorine type used chiefly against ants.
+miscible
+246
+0.02698700529521
+(of liquids) forming a homogeneous mixture when added together
+modacrylic
+19
+0.002084362197598
+of or denoting a synthetic textile fibre which is a polymer containing a high proportion of units derived from acrylonitrile.
+molal
+15
+0.001645549103367
+(of a solution) containing one mole of solute per kilogram of solvent.
+monohydric
+21
+0.002303768744714
+(of an alcohol) containing one hydroxyl group.
+monolayer
+2958
+0.324502283183858
+a layer one molecule thick.
+monomer
+4566
+0.500905147064738
+a molecule that can be bonded to other identical molecules to form a polymer.
+monomolecular
+64
+0.007021009507697
+(of a layer) one molecule thick.
+monotropy
+1
+0.000109703273558
+the existence of allotropes of an element, one of which is stable and the others metastable under all known conditions.
+monounsaturated
+2083
+0.228511918820816
+(of an organic compound, especially a fat) saturated except for one multiple bond.
+monovalent
+1005
+0.11025178992555
+having a valency of one.
+monoxide
+15904
+1.744720862662636
+an oxide containing one atom of oxygen in its molecule or empirical formula.
+morpholine
+99
+0.010860624082218
+a synthetic compound used as a solvent for resins and dyes and (in the form of salts) as an ingredient of emulsifying soaps used in floor polishes.
+mothball
+1029
+0.112884668490936
+a small pellet of a pungent substance, typically naphthalene, put in among stored garments to keep away clothes moths.
+muscarine
+26
+0.002852285112502
+a poisonous compound present in certain fungi, including the fly agaric.
+muscimol
+212
+0.023257093994245
+a narcotic and hallucinogenic compound found in the fly agaric and other fungi.
+mylar
+635
+0.069661578709178
+a form of polyester resin used to make heat-resistant plastic films and sheets. It is made by copolymerizing ethylene glycol and terephthalic acid.
+myristate
+152
+0.01667489758078
+a salt or ester of myristic acid.
+nanotube
+3337
+0.366079823862249
+a tubular molecule composed of a large number of carbon atoms
+naphtha
+3299
+0.361911099467055
+a flammable oil containing various hydrocarbons, obtained by the dry distillation of organic substances such as coal, shale, or petroleum.
+naphthalene
+868
+0.095222441448137
+a volatile white crystalline compound produced by the distillation of coal tar, used in mothballs and as a raw material for chemical manufacture.
+naphthene
+69
+0.007569525875486
+any of a group of cyclic aliphatic hydrocarbons (e.g. cyclohexane) obtained from petroleum.
+naphthol
+28
+0.003071691659618
+a crystalline solid derived from naphthalene, used to make antiseptics and dyes.
+nascent
+22352
+2.45208757056308
+(especially of a process or organization) just coming into existence and beginning to display signs of future potential
+nebulium
+4
+0.000438813094231
+a hypothetical chemical element proposed in the 1860s to explain certain lines in the spectra of nebulae, later discovered to arise from forbidden transitions in oxygen and nitrogen ions
+nematic
+504
+0.055290449873112
+relating to or denoting a state of a liquid crystal in which the molecules are oriented in parallel but not arranged in well-defined planes.
+neonicotinoid
+1710
+0.187592597783772
+a systemic agricultural insecticide resembling nicotine
+neoprene
+2658
+0.291591301116529
+a synthetic polymer resembling rubber, resistant to oil, heat, and weathering.
+neutralize
+10705
+1.174373543435836
+make (something) ineffective by applying an opposite force or effect
+nicotinate
+61
+0.006691899687024
+a salt or ester of nicotinic acid.
+ninhydrin
+70
+0.007679229149043
+a synthetic crystalline compound which forms deeply coloured products with primary amines and is used in analytical tests for amino acids.
+nitrate
+12322
+1.351763736778735
+a salt or ester of nitric acid, containing the anion NO₃⁻ or the group —NO₃
+nitric
+11805
+1.295047144349372
+of or containing nitrogen with a higher valency, often five.
+nitrile
+721
+0.079096060235146
+an organic compound containing a cyanide group —CN bound to an alkyl group.
+non-inert
+20
+0.002194065471155
+not inert; chemically active
+non-ionic
+265
+0.029071367492807
+not ionic.
+non-metal
+528
+0.057923328438498
+an element or substance that is not a metal.
+non-stoichiometric
+31
+0.003400801480291
+relating to or denoting quantities of reactants which are not in a simple integral ratio or are not in the ratio expected from an ideal formula or equation.
+nonyl
+20
+0.002194065471155
+of or denoting an alkyl radical —C₉H₁₉, derived from nonane.
+nox
+166
+0.018210743410588
+oxides of nitrogen, especially as atmospheric pollutants
+ntp
+60
+0.006582196413466
+normal temperature and pressure.
+nuclear
+480073
+52.665579646695136
+relating to the nucleus of an atom
+nucleophile
+230
+0.025231752918285
+a molecule or substance that has a tendency to donate electrons or react at electron-poor sites such as protons
+nucleophilic
+833
+0.091382826873615
+(of a molecule or group) having a tendency to donate electrons or react at electron-poor sites such as protons.
+nylon
+14638
+1.60583651833851
+a tough, lightweight, elastic synthetic polymer with a protein-like chemical structure, able to be produced as filaments, sheets, or moulded objects.
+octane
+5796
+0.635840173540784
+a colourless flammable hydrocarbon of the alkane series, present in petroleum spirit.
+octavalent
+3
+0.000329109820674
+having a valency of eight.
+octyl
+121
+0.01327409610049
+of or denoting an alkyl radical —C₈H₁₇, derived from octane.
+oleate
+329
+0.036092377000503
+a salt or ester of oleic acid.
+oleo-
+0
+0
+relating to or containing oil
+oleochemical
+82
+0.008995668431736
+a chemical compound derived industrially from animal or vegetable oils or fats.
+oleoresin
+169
+0.018539853231262
+a natural or artificial mixture of essential oils and a resin, e.g. balsam.
+olestra
+48
+0.005265757130772
+a synthetic compound used as a calorie-free substitute for fat in various foods because of its ability to pass through the body without being absorbed. It is a polyester derived from sucrose.
+oleum
+29
+0.003181394933175
+a dense, corrosive liquid consisting of concentrated sulphuric acid containing excess sulphur trioxide in solution.
+oligomer
+1222
+0.134057400287584
+a polymer whose molecules consist of relatively few repeating units.
+oligomerize
+111
+0.012177063364912
+join a number of molecules of (a monomer) together to form an oligomer.
+opacify
+12
+0.001316439282693
+make or become opaque
+orcein
+27
+0.00296198838606
+a red dye obtained from orchil, used as a microscopic stain.
+orchil
+0
+0
+a red or violet dye obtained from certain lichens, used as a source of litmus, orcinol, and other pigments.
+orcinol
+15
+0.001645549103366
+a crystalline compound extracted from certain lichens and used to make dyes.
+organic
+241621
+26.506614660299842
+relating to or derived from living matter
+organochlorine
+426
+0.046733594535606
+any of a large group of pesticides and other synthetic organic compounds with chlorinated aromatic molecules.
+organometallic
+844
+0.092589562882751
+(of a compound) containing a metal atom bonded to an organic group or groups.
+organophosphate
+812
+0.089079058128902
+any organic compound whose molecule contains one or more phosphate ester groups, especially a pesticide of this kind.
+organophosphorus
+334
+0.036640893368292
+denoting synthetic organic compounds containing phosphorus, especially pesticides and nerve gases of this kind.
+orthophosphate
+137
+0.015029348477413
+a salt or ester of orthophosphoric acid
+osmolality
+873
+0.095770957815926
+the concentration of a solution expressed as the total number of solute particles per kilogram.
+osmolarity
+499
+0.054741933505323
+the concentration of a solution expressed as the total number of solute particles per litre.
+osmometer
+30
+0.003291098206733
+an instrument for demonstrating or measuring osmotic pressure.
+osmosis
+3877
+0.42531959158344
+a process by which molecules of a solvent tend to pass through a semipermeable membrane from a less concentrated solution into a more concentrated one.
+outgas
+78
+0.008556855337505
+release or give off (a substance) as a gas or vapour
+oxalate
+1203
+0.131973038089986
+a salt or ester of oxalic acid.
+oxazole
+35
+0.003839614574522
+a volatile liquid with weakly basic properties, whose molecule contains a five-membered ring important as the basis of a number of medicinal drugs.
+oxidant
+2070
+0.227085776264566
+an oxidizing agent.
+oxidation
+19166
+2.102572941008052
+the process or result of oxidizing or being oxidized.
+oxidative
+34073
+3.737919639933601
+relating to the process or result of oxidizing or being oxidized
+oxide
+44120
+4.840108429368427
+a binary compound of oxygen with another element or group
+oxidize
+1262
+0.138445531229895
+combine chemically with oxygen
+oxy-
+0
+0
+denoting sharpness
+oxyacetylene
+66
+0.007240416054812
+of or denoting welding or cutting techniques using a very hot flame produced by mixing acetylene and oxygen
+oxyacid
+8
+0.000877626188463
+an inorganic acid whose molecules contain oxygen, such as sulphuric acid.
+oxyanion
+50
+0.005485163677888
+an anion containing one or more oxygen atoms bonded to another element (as in the sulphate and carbonate ions).
+oxygenate
+1279
+0.140310486880376
+supply, treat, charge, or enrich with oxygen
+oxygenated
+2747
+0.301354892463171
+supplied, treated, or enriched with oxygen
+ozone
+20763
+2.277769068879798
+a colourless unstable toxic gas with a pungent odour and powerful oxidizing properties, formed from oxygen by electrical discharges or ultraviolet light. It differs from normal oxygen (O₂) in having three atoms in its molecule (O₃).
+ozone-depleting
+564
+0.061872646286577
+causing a reduction in the concentration of ozone in the ozone layer
+ozone-friendly
+44
+0.004826944036542
+(of manufactured products) not containing chemicals that are destructive to the ozone layer
+ozonide
+11
+0.001206736009135
+any of a class of unstable cyclic compounds formed by the addition of ozone to a carbon–carbon double bond.
+ozonize
+0
+0
+convert (oxygen) into ozone
+palmitate
+1369
+0.150183781500575
+a salt or ester of palmitic acid.
+pantothenate
+107
+0.01173825027068
+a salt or ester of pantothenic acid.
+papaverine
+142
+0.015577864845202
+a compound present in opium used medicinally to alleviate muscle spasm and asthma.
+paraben
+517
+0.056716592429363
+any of a group of compounds used as preservatives in pharmaceutical and cosmetic products and in the food industry.
+paracrystal
+2
+0.000219406547116
+a piece of a substance that is not a true crystal but has some degree of order in its structure.
+paraffin
+5647
+0.619494385780678
+a flammable, whitish, translucent, waxy solid consisting of a mixture of saturated hydrocarbons, obtained by distillation from petroleum or shale and used in candles, cosmetics, polishes, and sealing and waterproofing compounds.
+paraldehyde
+6
+0.000658219641347
+a liquid made by treating acetaldehyde with acid, used medicinally as a sedative, hypnotic, and anticonvulsant.
+parathion
+141
+0.015468161571644
+a highly toxic synthetic organophosphorus compound containing phosphorus and sulphur, used as an agricultural insecticide.
+particulate
+12939
+1.419450656563873
+relating to or in the form of minute separate particles
+partition
+22501
+2.468433358323187
+(especially with reference to a country with separate areas of government) the action or state of dividing or being divided into parts
+pcp
+216
+0.023695907088476
+pentachlorophenol.
+pentachlorophenol
+102
+0.011189733902892
+a colourless crystalline synthetic compound used in insecticides, fungicides, weedkillers, and wood preservatives.
+pentamer
+135
+0.014809941930298
+a polymer comprising five monomer units.
+pentane
+395
+0.043332793055316
+a volatile liquid hydrocarbon of the alkane series, present in petroleum spirit.
+pentavalent
+615
+0.067467513238023
+having a valency of five.
+pericyclic
+26
+0.002852285112502
+relating to or denoting a reaction that involves a concerted rearrangement of bonding in which all the bonds broken or formed in the reaction lie on a closed ring, whether or not a cyclic molecule is involved.
+periodate
+97
+0.010641217535103
+a salt or ester of periodic acid.
+permanganate
+408
+0.044758935611567
+a salt containing the anion MnO₄⁻, typically deep purplish-red and with strong oxidizing properties.
+permeability
+10334
+1.133673628945905
+the state or quality of being permeable
+permeable
+3433
+0.376611338123795
+(of a material or membrane) allowing liquids or gases to pass through it
+permeator
+1
+0.000109703273558
+a container divided into two by a semipermeable membrane, used in the large-scale removal of solutes from a liquid by reverse osmosis.
+permethrin
+703
+0.077121401311106
+a synthetic insecticide of the pyrethroid class, used chiefly against disease-carrying insects.
+peroxide
+9672
+1.061050061850666
+a compound containing two oxygen atoms bonded together in its molecule or as the anion O₂²⁻
+perspex
+769
+0.084361817365918
+solid transparent plastic made of polymethyl methacrylate (the same material as Plexiglas or Lucite)
+petrochemical
+12121
+1.329713378793626
+relating to or denoting substances obtained by the refining and processing of petroleum or natural gas
+petrol
+83511
+9.161430078082203
+a light fuel oil that is obtained by distilling petroleum and used in internal combustion engines.
+petroleum
+58926
+6.464375097664641
+a liquid mixture of hydrocarbons which is present in suitable rock strata and can be extracted and refined to produce fuels including petrol, paraffin, and diesel oil; oil.
+ph
+7232
+0.79337407436973
+a figure expressing the acidity or alkalinity of a solution on a logarithmic scale on which 7 is neutral, lower values are more acid and higher values more alkaline. The pH is equal to −log₁₀c, where c is the hydrogen ion concentration in moles per litre.
+phalloidin
+475
+0.052109054939937
+the toxin present in the death cap toadstool. It is a peptide with seven amino acids in a ring structure bridged by a sulphur atom.
+phenanthrene
+357
+0.03916406866012
+a crystalline hydrocarbon present in coal tar.
+phenanthridine
+19
+0.002084362197598
+a white crystalline compound used in the treatment of trypanosome blood infection.
+pheno-
+0
+0
+derived from benzene
+phenol
+2631
+0.28862931273047
+a mildly acidic toxic white crystalline solid obtained from coal tar and used in chemical manufacture, and in dilute form (under the name carbolic) as a disinfectant.
+phenolphthalein
+107
+0.01173825027068
+a colourless crystalline solid (pink in alkaline solution) used as an acid–base indicator and medicinally as a laxative.
+phenyl
+1159
+0.127146094053445
+of or denoting the radical —C₆H₅, derived from benzene by removal of a hydrogen atom
+phenylenediamine
+22
+0.002413472018271
+a synthetic crystalline compound used widely in the manufacture of dyes and other chemicals and as a photographic developer.
+phenylthiocarbamide
+23
+0.002523175291829
+a crystalline solid which has a bitter taste to people possessing a certain dominant gene and is tasteless to others.
+phlogiston
+199
+0.021830951437994
+a substance supposed by 18th-century chemists to exist in all combustible bodies, and to be released in combustion.
+phorbol
+422
+0.046294781441376
+a compound present (in the form of highly carcinogenic esters) in croton oil.
+phosphate
+21634
+2.373320620148608
+a salt or ester of phosphoric acid, containing PO₄³⁻ or a related anion or a group such as —OPO(OH)₂.
+phosphide
+744
+0.081619235526974
+a binary compound of phosphorus with another element or group.
+phosphine
+807
+0.088530541761113
+a colourless foul-smelling gaseous compound of phosphorus and hydrogen, analogous to ammonia.
+phosphonate
+202
+0.022160061258668
+a salt or ester of phosphonic acid.
+phosphor
+1526
+0.167407195449144
+a synthetic fluorescent or phosphorescent substance, especially one used to coat the screen of a cathode ray tube
+phosphorated
+2
+0.000219406547116
+combined or impregnated with phosphorus
+phosphoric
+1437
+0.157643604102504
+relating to or containing phosphorus
+phosphorous
+3327
+0.364982791126672
+relating to or containing phosphorus.
+phosphoryl
+109
+0.011957656817796
+denoting the trivalent group ≡PO.
+photoactive
+380
+0.04168724395195
+(of a substance) capable of a chemical or physical change in response to illumination.
+photocatalysis
+425
+0.046623891262049
+the acceleration of a chemical reaction by light.
+photochemical
+1459
+0.160057076120773
+relating to or caused by the chemical action of light
+photochemistry
+419
+0.045965671620702
+the branch of chemistry concerned with the chemical effects of light.
+photodissociation
+144
+0.015797271392317
+dissociation of a chemical compound by the action of light
+photolyse
+3
+0.000329109820673
+undergo or cause to undergo photolysis
+photolysis
+536
+0.05880095462696
+the decomposition or separation of molecules by the action of light.
+photo-oxidation
+112
+0.012286766638469
+oxidation caused by the action of light.
+photopolymer
+213
+0.023366797267804
+a light-sensitive polymeric material, especially one used in printing plates or microfilms.
+photoproduct
+63
+0.006911306234139
+a product of a photochemical reaction.
+photoresist
+388
+0.042564870140412
+a photosensitive resist which, when exposed to light, loses its resistance or its susceptibility to attack by an etchant or solvent. Such materials are used in making microcircuits.
+photosensitive
+950
+0.104218109879873
+having a chemical, electrical, or other response to light
+phthalate
+1755
+0.192529245093871
+a salt or ester of phthalic acid.
+phthalocyanine
+257
+0.028193741304344
+a greenish-blue crystalline dye of the porphyrin group.
+physico-chemical
+565
+0.061982349560135
+relating to physics and chemistry or to physical chemistry.
+physostigmine
+96
+0.010531514261545
+a compound which is the active ingredient of the Calabar bean and is used medicinally in eye drops on account of its anticholinesterase activity.
+phytochemistry
+107
+0.01173825027068
+the branch of chemistry concerned with plants and plant products.
+picrate
+27
+0.00296198838606
+a salt or ester of picric acid.
+piperazine
+206
+0.022598874352899
+a synthetic crystalline compound with basic properties, sometimes used as an anthelmintic and insecticide.
+plastisol
+28
+0.003071691659617
+a liquid substance which can be converted into a solid plastic simply by heating, consisting of particles of synthetic resin dispersed in a non-volatile liquid.
+platinic
+3
+0.000329109820674
+of or containing platinum, especially in its tetravalent state.
+plexiglas
+131
+0.014371128836067
+a solid transparent plastic made of polymethyl methacrylate (the same material as Perspex or Lucite)
+plumbate
+1
+0.000109703273558
+a salt in which the anion contains both lead and oxygen, especially one of the anion PbO₃²⁻.
+plumbic
+2
+0.000219406547116
+of lead with a valency of four; of lead(IV).
+plumbous
+0
+0
+of lead with a valency of two; of lead(II).
+poison
+46161
+5.064012810699818
+a substance that is capable of causing the illness or death of a living organism when introduced or absorbed
+polarimeter
+80
+0.008776261884621
+an instrument for measuring the polarization of light, and especially for determining the effect of a substance in rotating the plane of polarization of light.
+polarography
+16
+0.001755252376924
+a method of analysis in which a sample is subjected to electrolysis using a special electrode and a range of applied voltages, a plot of current against voltage showing steps corresponding to particular chemical species and proportional to their concentration.
+pollutant
+6133
+0.67281017672975
+a substance that pollutes something, especially water or the atmosphere
+poly-
+355
+0.038944662113005
+many; much
+polyacrylamide
+1372
+0.150512891321248
+a synthetic resin made by polymerizing acrylamide, especially a water-soluble polymer used to form or stabilize gels and as a thickening or clarifying agent
+polyamide
+891
+0.097745616739966
+a synthetic polymer of a type made by the linkage of an amino group of one molecule and a carboxylic acid group of another, including many synthetic fibres such as nylon.
+polyatomic
+81
+0.008885965158179
+consisting of many atoms.
+polycarbonate
+9096
+0.997860976281397
+a synthetic resin in which the polymer units are linked through carbonate groups, including many moulding materials and films.
+polycrystalline
+1055
+0.115736953603439
+(of a metal or other solid) consisting of many crystalline parts that are randomly oriented with respect to each other
+polycyclic
+1982
+0.217431888191482
+relating to or resulting from many cycles.
+polyelectrolyte
+509
+0.055838966240901
+a polymer which has several ionizable groups along the molecule, especially any of those used for coagulating and flocculating particles during water treatment or for making electrophoretic gels.
+polyene
+98
+0.010750920808661
+a hydrocarbon with several carbon–carbon double bonds, especially one having a chain of conjugated single and double bonds.
+polyester
+10125
+1.110745644772334
+a synthetic resin in which the polymer units are linked by ester groups, used chiefly to make synthetic textile fibres.
+polyimide
+572
+0.062750272475039
+a synthetic resin in which the polymer units are linked by imide groups, used chiefly for heat-resistant films and coatings.
+polymer
+35430
+3.886786982151483
+a substance which has a molecular structure built up chiefly or completely from a large number of similar units bonded together, e.g. many synthetic organic materials used as plastics and resins.
+polymerize
+236
+0.025889972559632
+combine or cause to combine to form a polymer
+polynuclear
+151
+0.016565194307222
+(of a complex) containing more than one metal atom.
+polyphenol
+1127
+0.123635589299597
+a compound containing more than one phenolic hydroxyl group.
+polyphosphate
+202
+0.022160061258668
+a salt or ester of an oxyacid with two or more phosphorus atoms in its anion, especially any of a number used chiefly as detergents or food additives.
+polypropylene
+4510
+0.494761763745503
+a synthetic resin which is a polymer of propylene, used chiefly for films, fibres, or moulding materials
+polystyrene
+5468
+0.599857499813839
+a synthetic resin which is a polymer of styrene, used chiefly as lightweight rigid foams and films
+polysulphide
+19
+0.002084362197597
+a compound containing two or more sulphur atoms bonded together as an anion or group.
+polythene
+2100
+0.230376874471299
+a tough, light flexible synthetic resin made by polymerizing ethylene, chiefly used for plastic bags, food containers, and other packaging
+polyunsaturated
+3377
+0.370467954804561
+(of an organic compound, especially a fat or oil molecule) containing several double or triple bonds between carbon atoms.
+precipitation
+25456
+2.792606531686371
+the action or process of precipitating a substance from a solution.
+precipitator
+161
+0.0176622270428
+an apparatus for causing precipitation, especially a device for removing dust from a gas.
+prepolymer
+39
+0.004278427668753
+a substance which represents an intermediate stage in polymerization, and can be usefully manipulated before polymerization is completed
+prepreg
+166
+0.018210743410589
+a fibrous material pre-impregnated with a particular synthetic resin, used in making reinforced plastics.
+prill
+15
+0.001645549103367
+a pellet or solid globule of a substance formed by the congealing of a liquid during an industrial process
+propane
+17945
+1.968625243994026
+a flammable hydrocarbon gas of the alkane series, present in natural gas and used as bottled fuel.
+propanol
+152
+0.01667489758078
+each of two isomeric liquid alcohols used as solvents; propyl alcohol.
+propellant
+3692
+0.405024485975255
+a substance that propels something.
+propionate
+1155
+0.126707280959215
+a salt or ester of propionic acid.
+propyl
+298
+0.032691575520213
+of or denoting the alkyl radical —C₃H₇, derived from propane.
+propylene
+5781
+0.634194624437418
+a gaseous hydrocarbon of the alkene series, made by cracking alkanes.
+protonate
+19
+0.002084362197599
+transfer a proton to (a molecule, group, or atom) which forms a coordinate bond to the proton
+psilocybin
+1408
+0.154462209169328
+a hallucinogenic compound of the alkaloid class, found in the liberty cap and related toadstools.
+psoralen
+165
+0.018101040137031
+a compound present in certain plants which is used in perfumery and (in combination with ultraviolet light) to treat psoriasis and other skin disorders.
+pulverulent
+7
+0.000767922914905
+consisting of fine particles; powdery or crumbly
+purification
+16381
+1.797049324149688
+the removal of contaminants from something
+purify
+5253
+0.57627129599892
+remove contaminants from
+purine
+1047
+0.114859327414976
+a colourless crystalline compound with basic properties, forming uric acid on oxidation.
+purpurin
+55
+0.006033680045677
+a red dye originally extracted from madder and also prepared artificially by the oxidation of alizarin.
+pyrene
+456
+0.050024692742339
+a crystalline aromatic hydrocarbon present in coal tar.
+pyrethrin
+91
+0.009982997893757
+any of a group of insecticidal compounds present in pyrethrum flowers
+pyrethroid
+634
+0.06955187543562
+a pyrethrin or related insecticidal compound
+pyridine
+948
+0.103998703332757
+a colourless volatile liquid with an unpleasant odour, present in coal tar and used chiefly as a solvent.
+pyrimidine
+691
+0.075804962028413
+a colourless crystalline compound with basic properties.
+pyrogallol
+61
+0.006691899687024
+a weakly acid crystalline compound chiefly used as a developer in photography. Also called pyrogallic acid.
+pyrolyse
+8
+0.000877626188463
+make or become decomposed through heating to a high temperature
+pyrolysis
+4619
+0.506719420563299
+decomposition brought about by high temperatures
+pyrophoric
+57
+0.006253086592792
+liable to ignite spontaneously on exposure to air
+pyrophosphate
+686
+0.075256445660624
+a salt or ester of pyrophosphoric acid.
+pyroxylin
+2
+0.000219406547116
+a form of nitrocellulose which is less highly nitrated and is soluble in ether and alcohol.
+racemate
+87
+0.009544184799525
+a racemic mixture.
+racemic
+579
+0.063518195389944
+composed of dextrorotatory and laevorotatory forms of a compound in equal proportion.
+racemize
+3
+0.000329109820674
+change into a racemic form
+radioactivate
+2
+0.000219406547116
+convert (a substance, molecule, etc.) into a radioactive form.
+radiocarbon
+1982
+0.217431888191483
+a radioactive isotope of carbon.
+radiochemical
+483
+0.052986681128399
+relating to the branch of chemistry concerned with radioactive substances
+radiochemistry
+157
+0.017223413948569
+the branch of chemistry concerned with radioactive substances.
+radio-element
+0
+0
+a radioactive element or isotope.
+radioisotope
+796
+0.087323805751978
+a radioactive isotope.
+raffinate
+769
+0.084361817365918
+a liquid from which impurities have been removed by solvent extraction.
+rarefy
+9
+0.000987329462021
+make or become less dense or solid
+rdx
+17
+0.001864955650483
+a type of high explosive.
+reactant
+1257
+0.137897014862106
+a substance that takes part in and undergoes change during a reaction.
+reactivity
+12215
+1.340025486508054
+the quality of being reactive or the degree to which something is reactive
+reagency
+0
+0
+reactive power or operation.
+reagent
+5911
+0.648456049999927
+a substance or mixture for use in chemical analysis or other reactions
+recrystallize
+35
+0.003839614574522
+form or cause to form crystals again
+rectify
+17150
+1.881411141515606
+put right; correct
+reddle
+0
+0
+a red pigment consisting of ochre.
+redox
+6958
+0.763315377414903
+oxidation and reduction considered together as complementary processes
+reductant
+224
+0.024573533276939
+a reducing agent.
+refinery
+44656
+4.898909383995388
+an industrial installation where a substance is refined
+reguline
+0
+0
+relating to or of the nature of the metallic form of a substance, obtained by smelting or reduction
+regulus
+32
+0.003510504753848
+a metallic form of a substance, obtained by smelting or reduction.
+replaceable
+7456
+0.817947607646668
+able to be replaced
+residue
+22895
+2.511656448104944
+a small amount of something that remains after the main part has gone or been taken or used
+residuum
+149
+0.016345787760107
+a chemical residue.
+resin
+21698
+2.380341629656305
+a sticky flammable organic substance, insoluble in water, exuded by some trees and other plants (notably fir and pine)
+resorcinol
+126
+0.013822612468278
+a crystalline compound originally obtained from galbanum resin, used in the production of dyes, resins, and cosmetics.
+resuspend
+125
+0.01371290919472
+place (cells or particles) in suspension in a fluid again.
+resuspension
+268
+0.02940047731348
+the action of placing cells or particles in suspension in a fluid again
+retort
+5271
+0.57824595492296
+say something in answer to a remark, typically in a sharp, angry, or witty manner
+salicin
+89
+0.009763591346641
+a bitter compound present in willow bark. It is a glucoside related to aspirin, and accounts for the ancient use of willow bark as a pain-relieving drug.
+salicylate
+653
+0.071636237633218
+a salt or ester of salicylic acid.
+salinometer
+0
+0
+an instrument for measuring the salinity of water.
+saponify
+7
+0.000767922914905
+turn (fat or oil) into soap by reaction with an alkali
+saponin
+516
+0.056606889155805
+a toxic compound which is present in soapwort and makes foam when shaken with water.
+sarin
+5207
+0.571224945415263
+an organophosphorus nerve gas, developed in Germany during the Second World War.
+saturate
+3047
+0.334265874530499
+cause (something) to become thoroughly soaked with water or other liquid so that no more can be absorbed
+saturated
+40488
+4.44166613980664
+holding as much water or moisture as can be absorbed; thoroughly soaked
+saturation
+26328
+2.88826778622874
+the state of being saturated or the action of saturating
+sedimentation
+2833
+0.310789373989138
+the process of settling or being deposited as a sediment
+sedimented
+112
+0.012286766638469
+deposited as a sediment
+selenate
+105
+0.011518843723565
+a salt or ester of selenic acid.
+selenide
+489
+0.053644900769746
+a binary compound of selenium with an electropositive element or a radical
+self-diffusion
+61
+0.006691899687023
+the migration of constituent atoms or molecules within the bulk of a substance, especially in a crystalline solid.
+semi-crystalline
+51
+0.005594866951446
+(of a solid) possessing crystalline character to some degree.
+semimetal
+71
+0.007788932422601
+an element (e.g. arsenic, antimony, or tin) whose properties are intermediate between those of metals and solid non-metals or semiconductors.
+semipermeable
+214
+0.023476500541361
+(of a material or membrane) allowing certain substances to pass through it but not others, especially allowing the passage of a solvent but not of certain solutes
+semiquinone
+76
+0.00833744879039
+a compound derived from a quinone, in which one of the two oxygen atoms is ionized or bonded to a hydrogen atom.
+semi-solid
+515
+0.056497185882247
+highly viscous; slightly thicker than semi-fluid
+semi-synthetic
+398
+0.043661902875989
+(of a substance) made by synthesis from a naturally occurring material
+semtex
+75
+0.008227745516832
+a very pliable, odourless plastic explosive.
+sesqui-
+0
+0
+denoting one and a half
+sesquioxide
+11
+0.001206736009135
+an oxide in which oxygen is present in the ratio of three atoms to two of another element.
+sesquiterpene
+430
+0.047172407629837
+a terpene with the formula C₁₅H₂₄, or a simple derivative of such a compound.
+siccative
+2
+0.000219406547116
+a drying agent used as a component of paint.
+silane
+571
+0.062640569201481
+a colourless gaseous compound of silicon and hydrogen which has strong reducing properties and is spontaneously flammable in air.
+silastic
+106
+0.011628546997123
+silicone rubber
+silica
+13243
+1.452800451725433
+a hard, unreactive, colourless compound which occurs as the mineral quartz and as a principal constituent of sandstone and other rocks.
+siliceous
+150
+0.016455491033665
+containing or consisting of silica
+solute
+1356
+0.148757638944324
+the minor component in a solution, dissolved in the solvent.
+solvate
+67
+0.00735011932837
+(of a solvent) enter into reversible chemical combination with (a dissolved molecule, ion, etc.)
+soman
+95
+0.010421810987987
+a lethal organophosphorus nerve gas, developed in Germany during the Second World War.
+soot
+7758
+0.851077996261112
+a deep black powdery or flaky substance consisting largely of amorphous carbon, produced by the incomplete burning of organic matter.
+sorbent
+1065
+0.116833986339016
+a substance which has the property of collecting molecules of another substance by sorption.
+sorbitan
+52
+0.005704570225004
+any of a group of compounds which are cyclic ethers derived from sorbitol or its derivatives.
+sorption
+1953
+0.214250493258308
+absorption and adsorption considered as a single process.
+soxhlet
+16
+0.001755252376924
+denoting a form of condensing apparatus used for the continuous solvent extraction of a solid.
+spectrochemistry
+1
+0.000109703273558
+chemistry based on the study of the spectra of substances.
+spectrogram
+394
+0.043223089781758
+a photographic or other visual or electronic representation of a spectrum.
+spectrograph
+675
+0.074049709651489
+an apparatus for photographing or otherwise recording spectra.
+spectrometer
+5528
+0.606439696227304
+an apparatus used for recording and measuring spectra, especially as a method of analysis.
+spectrophotometer
+1293
+0.141846332710186
+an apparatus for measuring the intensity of light in a part of the spectrum, especially as transmitted or emitted by particular substances.
+spectroscope
+130
+0.014261425562509
+an apparatus for producing and recording spectra for examination.
+spectroscopy
+20591
+2.258900105827863
+the branch of science concerned with the investigation and measurement of spectra produced when matter interacts with or emits electromagnetic radiation.
+stannic
+23
+0.002523175291829
+of tin with a valency of four; of tin(IV).
+stannous
+109
+0.011957656817796
+of tin with a valency of two; of tin(II).
+stearate
+246
+0.02698700529521
+a salt or ester of stearic acid.
+sterane
+6
+0.000658219641347
+any of a class of saturated polycyclic hydrocarbons which are found in crude oils and are derived from the sterols of ancient organisms.
+stereochemical
+252
+0.027645224936556
+relating to stereochemistry
+stereochemistry
+373
+0.040919321037045
+the branch of chemistry concerned with the three-dimensional arrangement of atoms and molecules and the effect of this on chemical reactions.
+stereoisomer
+96
+0.010531514261545
+each of two or more compounds differing only in the spatial arrangement of their atoms.
+stereoselective
+436
+0.047830627271184
+(of a reaction) preferentially producing a particular stereoisomeric form of the product, irrespective of the configuration of the reactant.
+steric
+1249
+0.137019388673644
+relating to the spatial arrangement of atoms in a molecule, especially as it affects chemical reactions.
+sternutator
+2
+0.000219406547116
+an agent that causes sneezing, especially one used in chemical warfare that causes irritation to the nose and eyes, pain in the chest, and nausea.
+stilbene
+138
+0.015139051750971
+a synthetic aromatic hydrocarbon which forms phosphorescent crystals and is used in dye manufacture.
+stoichiometric
+914
+0.100268792031794
+relating to stoichiometry.
+stoichiometry
+1135
+0.124513215488059
+the relationship between the relative quantities of substances taking part in a reaction or forming a compound, typically a ratio of whole integers.
+strontia
+0
+0
+strontium oxide, a white solid resembling quicklime.
+strychnine
+603
+0.06615107395533
+a bitter and highly poisonous compound obtained from nux vomica and related plants. An alkaloid, it has occasionally been used as a stimulant.
+sulphuretted
+1
+0.000109703273558
+containing sulphur in combination.
+sulphuric
+1721
+0.188799333792908
+containing sulphur or sulphuric acid
+sulphurized
+6
+0.000658219641347
+impregnated or treated with sulphur.
+superacid
+46
+0.005046350583658
+a solution of a strong acid in a very acidic (usually non-aqueous) solvent, functioning as a powerful protonating agent.
+supercool
+448
+0.049147066553877
+cool (a liquid) below its freezing point without solidification or crystallization
+superfatted
+7
+0.000767922914905
+(of soap) containing excess fats compared with its alkali content.
+superglue
+711
+0.077999027499569
+a very strong quick-setting adhesive, based on cyanoacrylates or similar polymers.
+supernatant
+4929
+0.540727435366206
+denoting the liquid lying above a solid residue after crystallization, precipitation, centrifugation, or other process
+superoxide
+4851
+0.5321705800287
+an oxide containing the anion O₂⁻.
+supersaturate
+11
+0.001206736009135
+increase the concentration of (a solution) beyond saturation point
+superunleaded
+0
+0
+denoting unleaded petrol with a higher octane rating than that of regular unleaded petrol, achieved by the addition of aromatic hydrocarbons.
+surface-active
+94
+0.010312107714429
+(of a substance, such as a detergent) tending to reduce the surface tension of a liquid in which it is dissolved
+surfactant
+3688
+0.404585672881024
+a substance which tends to reduce the surface tension of a liquid in which it is dissolved.
+syndiotactic
+49
+0.005375460404331
+(of a polymer or polymeric structure) in which the repeating units have alternating stereochemical configurations.
+synfuel
+91
+0.009982997893756
+fuel made from coal, oil shale, etc. as a substitute for a petroleum product
+synthesize
+7464
+0.818825233835131
+make (something) by synthesis, especially chemically
+synthesized
+20797
+2.281498980180762
+made by synthesis, especially chemically
+synthetic
+80959
+8.881467323962797
+(of a substance) made by chemical synthesis, especially to imitate a natural product
+synthon
+64
+0.007021009507697
+a constituent part of a molecule to be synthesized which is regarded as the basis of a synthetic procedure.
+tabun
+112
+0.012286766638469
+an organophosphorus nerve gas, developed in Germany during the Second World War.
+tacticity
+38
+0.004168724395195
+the stereochemical arrangement of the units in the main chain of a polymer.
+tannic
+1305
+0.143162771992878
+relating to or resembling tannin
+tannin
+1713
+0.187921707604445
+a yellowish or brownish bitter-tasting organic substance present in some galls, barks, and other plant tissues, consisting of derivatives of gallic acid.
+tar
+28671
+3.145302556174575
+a dark, thick flammable liquid distilled from wood or coal, consisting of a mixture of hydrocarbons, resins, alcohols, and other compounds. It is used in road-making and for coating and preserving timber.
+tartrate
+314
+0.034446827897138
+a salt or ester of tartaric acid.
+tartrazine
+92
+0.010092701167314
+a brilliant yellow synthetic dye derived from tartaric acid and used to colour food, drugs, and cosmetics.
+taurocholate
+123
+0.013493502647605
+a salt or ester of taurocholic acid.
+tautomer
+98
+0.010750920808661
+each of two or more isomers of a compound which exist together in equilibrium, and are readily interchanged by migration of an atom or group within the molecule.
+tcdd
+1
+0.000109703273558
+tetrachlorodibenzoparadioxin, a highly toxic compound produced as a by-product in some manufacturing processes.
+tellurate
+4
+0.000438813094231
+a salt or ester of telluric acid.
+tellurite
+49
+0.00537546040433
+a salt of the anion TeO₃²⁻.
+terephthalate
+901
+0.098842649475543
+a salt or ester of terephthalic acid.
+terpenoid
+184
+0.020185402334629
+any of a large class of organic compounds including terpenes, diterpenes, and sesquiterpenes. They have unsaturated molecules composed of linked isoprene units, generally having the formula (C₅H₈)n.
+tetravalent
+379
+0.041577540678391
+having a valency of four.
+tetrazole
+51
+0.005594866951446
+an acidic crystalline compound whose molecule is a five-membered ring of one carbon and four nitrogen atoms.
+tetrazolium
+465
+0.051012022204359
+a cation derived from tetrazole or one of its derivatives, especially the triphenyl derivative.
+tetroxide
+271
+0.029729587134153
+an oxide containing four atoms of oxygen in its molecule or empirical formula.
+thc
+97
+0.010641217535103
+tetrahydrocannabinol, a crystalline compound that is the main active ingredient of cannabis.
+theobromine
+452
+0.049585879648108
+a bitter, volatile compound obtained from cacao seeds. It is an alkaloid resembling caffeine in its physiological effects.
+theophylline
+392
+0.043003683234643
+a bitter crystalline compound present in small quantities in tea leaves, isomeric with theobromine.
+thermochemical
+473
+0.051889648392821
+relating to or involving chemical reactions during which quantities of heat are evolved or absorbed
+thermochemistry
+44
+0.004826944036541
+the branch of chemistry concerned with the quantities of heat evolved or absorbed during chemical reactions.
+thermoluminescence
+67
+0.00735011932837
+the property of some materials which have accumulated energy over a long period of becoming luminescent when pretreated and subjected to high temperatures, used as a means of dating ancient ceramics and other artefacts.
+thermolysis
+215
+0.023586203814919
+the breakdown of molecules by the action of heat.
+thermoplastic
+2749
+0.301574299010286
+denoting substances (especially synthetic resins) that become plastic on heating and harden on cooling, and are able to repeat these processes.
+thermoset
+295
+0.032362465699539
+denoting a substance (especially a synthetic resin) which sets permanently when heated.
+thermosetting
+184
+0.020185402334628
+denoting substances (especially synthetic resins) which set permanently when heated.
+thiazine
+10
+0.001097032735578
+any of a class of dyes whose molecules contain a ring of one nitrogen, one sulphur, and four carbon atoms.
+thiazole
+188
+0.020624215428859
+a foul-smelling synthetic liquid whose molecule is a ring of one nitrogen, one sulphur, and three carbon atoms.
+thickener
+734
+0.080522202791397
+a substance added to a liquid to make it firmer, especially in cooking.
+thinner
+42266
+4.636718560192338
+a volatile solvent used to make paint or other solutions less viscous
+thio-
+0
+0
+denoting replacement of oxygen by sulphur in a compound
+thiocyanate
+205
+0.022489171079341
+a salt containing the anion SCN⁻.
+thiol
+1395
+0.153036066613077
+an organic compound containing the group —SH, i.e. a sulphur-containing analogue of an alcohol.
+thiomersal
+97
+0.010641217535103
+a compound able to inhibit the growth of bacteria and other microorganisms, used as a medical disinfectant and preservative for biological products.
+thionyl
+32
+0.003510504753848
+of or denoting the divalent radical SO
+thiosulphate
+64
+0.007021009507697
+a salt containing the anion S₂O₃²⁻, i.e. a sulphate with one oxygen atom replaced by sulphur.
+thiourea
+213
+0.023366797267803
+a synthetic crystalline compound used in photography and the manufacture of synthetic resins.
+thiram
+8
+0.000877626188462
+a synthetic sulphur-containing compound used as a fungicide and seed protectant.
+thixotropy
+26
+0.002852285112502
+the property of becoming less viscous when subjected to an applied stress, shown for example by some gels which become temporarily fluid when shaken or stirred.
+thoria
+19
+0.002084362197598
+thorium dioxide, a white refractory solid used in making gas mantles and other materials for high-temperature applications.
+thymol
+371
+0.040699914489929
+a white crystalline compound present in oil of thyme and used as a flavouring and preservative.
+time-resolved
+1471
+0.161373515403466
+relating to or denoting a spectroscopic technique in which a spectrum is obtained at a series of time intervals after excitation of the sample.
+titanate
+514
+0.05638748260869
+a salt in which the anion contains both titanium and oxygen, in particular one of the anion TiO₃²⁻.
+titre
+816
+0.089517871223133
+the concentration of a solution as determined by titration.
+transuranic
+206
+0.022598874352899
+(of an element) having a higher atomic number than uranium (92).
+tri-
+245
+0.026877302021652
+three; having three
+triacetate
+57
+0.006253086592792
+a form of cellulose acetate containing three acetate groups per glucose monomer, used as a basis for man-made fibres.
+triatomic
+20
+0.002194065471155
+consisting of three atoms.
+triazine
+135
+0.014809941930297
+any of a group of compounds whose molecules contain an unsaturated ring of three carbon and three nitrogen atoms
+triazole
+330
+0.036202080274062
+any compound whose molecule contains a ring of three nitrogen and two carbon atoms, in particular each of five isomeric compounds containing such a ring with two double bonds.
+tribasic
+11
+0.001206736009135
+(of an acid) having three replaceable hydrogen atoms.
+triboluminescence
+27
+0.00296198838606
+the emission of light from a substance caused by rubbing, scratching, or similar frictional contact.
+trichloroacetate
+12
+0.001316439282693
+a salt or ester of trichloroacetic acid.
+trichloroethane
+24
+0.002632878565386
+a colourless non-flammable volatile liquid, used as a solvent and cleaner.
+trichloroethylene
+496
+0.054412823684649
+a colourless volatile liquid used as a solvent and formerly as an anaesthetic.
+trichlorophenol
+5
+0.000548516367789
+a synthetic crystalline compound used as an insecticide and preservative and in the synthesis of pesticides.
+tricyclic
+991
+0.108715944095742
+(of a compound) having three rings of atoms in its molecule.
+triene
+17
+0.001864955650482
+an unsaturated hydrocarbon containing three double bonds between carbon atoms.
+triglyceride
+5418
+0.594372336135951
+an ester formed from glycerol and three fatty acid groups. Triglycerides are the main constituents of natural fats and oils.
+trihydric
+0
+0
+(of an alcohol) containing three hydroxyl groups.
+trimer
+693
+0.076024368575528
+a polymer comprising three monomer units.
+trimix
+47
+0.005156053857214
+a breathing mixture for deep-sea divers, composed of nitrogen, helium, and oxygen.
+trioxide
+898
+0.09851353965487
+an oxide containing three atoms of oxygen in its molecule or empirical formula.
+tris
+923
+0.101256121493814
+a flammable compound which forms a corrosive solution in water and is used as a buffer and emulsifying agent.
+triterpene
+243
+0.026657895474536
+any of a group of terpenes found in plant gums and resins, having unsaturated molecules based on a unit with the formula C₃₀H₄₈.
+tritiated
+105
+0.011518843723565
+(of a compound) in which the ordinary isotope of hydrogen has been replaced with tritium.
+trivalent
+1468
+0.161044405582794
+having a valency of three.
+tropolone
+14
+0.001535845829809
+an organic compound present in various plants, with a molecule based on a seven-membered carbon ring.
+tungstate
+97
+0.010641217535103
+a salt in which the anion contains both tungsten and oxygen, especially one of the anion WO₄²⁻.
+turbidimeter
+12
+0.001316439282693
+an instrument for measuring the turbidity of a liquid suspension, usually as a means of determining the surface area of the suspended particles.
+turpentine
+673
+0.073830303104374
+a volatile pungent oil distilled from gum turpentine or pine wood, used in mixing paints and varnishes and in liniment.
+turps
+138
+0.015139051750971
+turpentine.
+ultrafiltration
+1059
+0.11617576669767
+filtration using a medium fine enough to retain colloidal particles, viruses, or large molecules.
+unbleached
+483
+0.052986681128399
+(especially of paper or cloth) not made whiter or lighter by a chemical process
+uncomplexed
+32
+0.003510504753848
+(of an atom or molecule) not combined in a complex
+vanadate
+165
+0.018101040137031
+a salt in which the anion contains both vanadium and oxygen, especially one of the anion VO₄³⁻.
+vanillin
+567
+0.062201756107251
+a fragrant compound which is the essential constituent of vanilla.
+vaporizer
+1864
+0.204486901911667
+a device that generates a particular substance in the form of vapour, especially for medicinal inhalation.
+vapour
+6187
+0.678734153501869
+a substance diffused or suspended in the air, especially one normally liquid or solid
+varnish
+4190
+0.459656716207021
+resin dissolved in a liquid for applying on wood, metal, or other materials to form a hard, clear, shiny surface when dry
+verdigris
+136
+0.014919645203855
+a bright bluish-green encrustation or patina formed on copper or brass by atmospheric oxidation, consisting of basic copper carbonate.
+vicinal
+184
+0.020185402334628
+neighbouring; adjacent.
+viologen
+96
+0.010531514261546
+any of a series of synthetic compounds related to the weedkiller paraquat, used as redox indicators. They contain heteroaromatic cations of the general formula (C₅H₄NR)₂²⁺.
+viscose
+675
+0.074049709651489
+a viscous orange-brown solution obtained by treating cellulose with sodium hydroxide and carbon disulphide, used as the basis of manufacturing rayon fibre and transparent cellulose film.
+vitrify
+41
+0.004497834215868
+convert (something) into glass or a glasslike substance, typically by exposure to heat
+volatilize
+54
+0.005923976772119
+(with reference to a substance) make or become volatile
+volumetric
+6524
+0.715704156690835
+relating to the measurement of volume.
+vulcanite
+18
+0.00197465892404
+hard, black vulcanized rubber.
+vulcanize
+21
+0.002303768744714
+harden (rubber or a similar material) by treating it with sulphur at a high temperature
+warfarin
+8783
+0.963523851657818
+a water-soluble compound with anticoagulant properties, used as a rat poison and in the treatment of thrombosis.
+water
+2268698
+248.88359731394593
+a colourless, transparent, odourless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms
+winchester
+47
+0.005156053857215
+a large cylindrical bottle for holding liquids.
+xanthate
+38
+0.004168724395195
+a salt or ester of xanthic acid.
+xanthene
+30
+0.003291098206733
+a yellowish crystalline compound, whose molecule contains two benzene rings joined by a methylene group and an oxygen atom, and whose derivatives include brilliant, often fluorescent, dyes such as fluorescein and rhodamines.
+xylene
+1927
+0.211398208145806
+a volatile liquid hydrocarbon obtained by distilling wood, coal tar, or petroleum, used in fuels and solvents and in chemical synthesis.
+xylitol
+1085
+0.119028051810171
+a sweet-tasting crystalline alcohol derived from xylose, present in some plant tissues and used as an artificial sweetener in foods.
+yellowcake
+598
+0.065602557587541
+impure uranium oxide obtained during processing of uranium ore.
+ylid
+1
+0.000109703273558
+a compound having an uncharged molecule containing a negatively charged carbon atom directly bonded to a positively charged atom of sulphur, phosphorus, nitrogen, or another element
+yohimbine
+294
+0.032252762425982
+a toxic crystalline compound obtained from the bark of the yohimbe tree, used as an adrenergic blocking agent and also as an aphrodisiac in the treatment of impotence.
+zaffre
+1
+0.000109703273558
+impure cobalt oxide, formerly used to make smalt and blue enamels.
+zeaxanthin
+558
+0.061214426645231
+a deep yellow carotenoid pigment present in the retina of the eye and in some plants, used as a food additive and supplement.
+zeolite
+4895
+0.536997524065242
+any of a large group of minerals consisting of hydrated aluminosilicates of sodium, potassium, calcium, and barium. They can be readily dehydrated and rehydrated, and are used as cation exchangers and molecular sieves.
+zineb
+34
+0.003729911300964
+a white compound used as a fungicidal powder on vegetables and fruit.
+zirconia
+2419
+0.265372218736224
+zirconium dioxide, a white solid used in ceramic glazes and refractory coatings, and as a synthetic substitute for diamonds in jewellery.
+zwitterion
+60
+0.006582196413466
+a molecule or ion having separate positively and negatively charged groups.

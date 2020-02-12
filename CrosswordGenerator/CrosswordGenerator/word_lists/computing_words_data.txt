@@ -1,0 +1,3892 @@
+404
+0
+0
+an error message displayed by a browser indicating that an Internet address cannot be found.
+abandonware
+163
+0.017881633589915
+computer software that is no longer distributed or supported by the developer or copyright holder
+ada
+292
+0.032033355878867
+a high-level computer programming language used chiefly in real-time computerized control systems, e.g. for aircraft navigation.
+adder
+870
+0.095441847995253
+a small venomous Eurasian snake which has a dark zigzag pattern on its back and bears live young. It is the only poisonous snake in Britain.
+add-in
+2458
+0.269650646404977
+a device or piece of software that can be added to a computer to give extra features or functions
+add-on
+28836
+3.163403596311604
+something that has been or can be added to an existing object or arrangement
+addressable
+6725
+0.737754514675945
+relating to or denoting a memory unit in which all locations can be separately accessed by a particular program.
+adsl
+275
+0.030168400228384
+asymmetric digital subscriber line, a technology for transmitting digital information over standard telephone lines which allows high-speed transmission of signals from the telephone network to an individual subscriber, but a slower rate of transmission from the subscriber to the network.
+adware
+6053
+0.664033914845129
+software that automatically displays or downloads advertising material such as banners or pop-ups when a user is online.
+afk
+64
+0.007021009507697
+away from (the) keyboard
+aggregator
+6447
+0.707257004626887
+a website or program that collects related items of content and displays them or links to them.
+air-gapped
+385
+0.042235760319738
+(of a computer) having no direct connection to the Internet or to any other computer that is connected to the Internet, for security reasons
+alphanumeric
+1712
+0.187812004330888
+consisting of or using both letters and numerals
+alu
+254
+0.027864631483671
+arithmetic logic unit.
+always-on
+6546
+0.718117628709105
+denoting or relating to an Internet connection that is continuously accessible
+analogue
+22782
+2.499259978192918
+relating to or using signals or information represented by a continuously variable physical quantity such as spatial position, voltage, etc.
+analytics
+150191
+16.476444358913724
+the systematic computational analysis of data or statistics
+antivirus
+20891
+2.291811087895191
+(of software) designed to detect and destroy computer viruses.
+api
+2343
+0.257034769945835
+a set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service.
+app
+1138206
+124.86492418308525
+an application, especially as downloaded by a user to a mobile device
+applet
+1448
+0.158850340111638
+a very small application, especially a utility program performing one or a few simple functions
+ascii
+252
+0.027645224936556
+American Standard Code for Information Interchange, a set of digital codes representing letters, numerals, and other symbols, widely used as a standard format in the transfer of text between computers
+associative
+2665
+0.292359224031434
+of or involving the association of things
+at
+39788772
+4364.958539243393
+expressing location or arrival in a particular place or position
+attachment
+47775
+5.241073894222046
+an extra part or extension that is or may be attached to something to perform a particular function
+audio
+323821
+35.524223746747815
+sound, especially when recorded, transmitted, or reproduced
+auth
+740
+0.081180422432743
+the process or action of verifying the identity of a user or process; authentication
+authenticate
+7951
+0.872250728057761
+prove or show (something) to be true, genuine, or valid
+authentication
+47841
+5.248314310276858
+the process or action of proving or showing something to be true, genuine, or valid
+authoring
+5054
+0.554440344560926
+the creation of programs and databases for computer applications such as computer-assisted learning or multimedia products
+autocomplete
+1847
+0.202621946261185
+a software function that completes words or strings without the user needing to type them in full.
+autocorrect
+1830
+0.200756990610704
+a software function that automatically makes or suggests corrections for mistakes in spelling or grammar made while typing
+autodial
+38
+0.004168724395195
+(of a device) automatically dial a phone number or establish a connection with a computer.
+autofill
+612
+0.06713840341735
+a software function that completes data in browser forms without the user needing to type it in full.
+automation
+90343
+9.910922843028828
+the use or introduction of automatic equipment in a manufacturing or other process or facility
+autoplay
+1875
+0.205693637920802
+a functionality that causes a video, audio file, etc. to play automatically, without action from a user
+autoresponder
+511
+0.056058372788016
+a program that automatically generates a set response to all messages sent to a particular email address
+autosave
+365
+0.040041694848583
+a software facility which automatically saves a user's work at regular intervals.
+avi
+1145
+0.125610248223637
+an icon or figure representing a particular person in a social media service, video game, etc.
+b2b
+968
+0.106192768803913
+business-to-business, denoting trade conducted via the Internet between businesses.
+b2c
+89
+0.009763591346641
+business-to-consumer, denoting trade conducted via the Internet between businesses and consumers.
+backlink
+2064
+0.226427556623219
+an incoming hyperlink from one web page to another website
+backplane
+1267
+0.138994047597683
+a board to which the main circuit boards of a computer may be connected, and which provides connections between them.
+backslash
+343
+0.037628222830312
+a backward-sloping diagonal line (\), used in some computer commands.
+backspace
+782
+0.085787959922169
+a key on a typewriter or computer keyboard used to cause the carriage or cursor to move backwards.
+backwards-compatible
+423
+0.046404484714933
+(of computer hardware or software) able to be used with an older piece of hardware or software without special adaptation or modification.
+badware
+41
+0.004497834215868
+software that has been installed on a computer without a user's knowledge or control.
+basket
+105428
+11.565796724647658
+a container used to hold or carry things, typically made from interwoven strips of cane or wire
+baud
+737
+0.080851312612071
+a unit of transmission speed equal to the number of times a signal changes state per second. For signals with only two possible states one baud is equivalent to one bit per second.
+bbs
+269
+0.029510180587037
+bulletin board system.
+benchmark
+133802
+14.678517408575576
+a standard or point of reference against which things may be compared
+ber
+502
+0.055071043325997
+bit error rate.
+bidirectional
+3879
+0.425538998130556
+functioning in two directions.
+biocomputer
+32
+0.003510504753848
+a (hypothetical) computer based on circuits and components formed from biological molecules or structures.
+biocomputing
+34
+0.003729911300964
+the design and construction of computers using biochemical components.
+bios
+5249
+0.575832482904689
+a set of computer instructions in firmware which control input and output operations.
+bit
+447867
+49.132476018493875
+a small piece, part, or quantity of something
+bitcoin
+35892
+3.937469894535167
+a type of digital currency in which encryption techniques are used to regulate the generation of units of currency and verify the transfer of funds, operating independently of a central bank
+bitcoiner
+13
+0.001426142556251
+a person who uses or mines the cryptocurrency bitcoin
+bitmap
+1943
+0.21315346052273
+a representation in which each item corresponds to one or more bits of information, especially the information used to control the display of a computer screen.
+bitnet
+1
+0.000109703273558
+a data transmission network founded in 1981 to link North American academic institutions and to interconnect with other information networks.
+bittorrent
+345
+0.037847629377427
+a peer-to-peer file transfer protocol for sharing large amounts of data over the Internet, in which each part of a file downloaded by a user is transferred to other users.
+bitwise
+226
+0.024792939824055
+denoting an operator in a programming language which manipulates the individual bits in a byte or word.
+bloatware
+5613
+0.615764474479714
+software whose usefulness is reduced because of the excessive disk space and memory it requires
+blockchain
+14013
+1.537271972364909
+a system in which a record of transactions made in bitcoin or another cryptocurrency are maintained across several computers that are linked in a peer-to-peer network
+blog
+467767
+51.31557116229333
+a regularly updated website or web page, typically one run by an individual or small group, that is written in an informal or conversational style.
+bloggable
+24
+0.002632878565386
+suitable or sufficiently interesting as a topic for a blog
+blogger
+68594
+7.524986346421077
+a person who regularly writes material for a blog
+bloggy
+170
+0.01864955650482
+characteristic of a blog or blogs
+blogosphere
+7237
+0.793922590737519
+blogs considered collectively with their writers and readers as a distinct online network.
+blogroll
+266
+0.029181070766365
+(on a blog) a list of hyperlinks to other blogs or websites.
+bluetooth
+11667
+1.2799080925984
+a standard for the short-range wireless interconnection of mobile phones, computers, and other electronic devices.
+bookmark
+9635
+1.056991040729031
+a strip of leather, card, or other material, used to mark one's place in a book.
+bookmarklet
+879
+0.096429177457272
+a small software application stored as a bookmark in a web browser, which typically allows a user to interact with the currently loaded web page in some way
+bootable
+2671
+0.29301744367278
+(of a disk) containing the software required to boot a computer.
+bootloader
+3508
+0.384839083640627
+a program that loads an operating system when a computer is turned on
+bot
+16928
+1.857057014785784
+(chiefly in science fiction) a robot
+botmaster
+74
+0.008118042243274
+A person who controls a bot; a person who controls a botnet.
+botnet
+7319
+0.802918259169255
+a network of private computers infected with malicious software and controlled as a group without the owners' knowledge, e.g. to send spam.
+bottom-up
+6702
+0.735231339384116
+proceeding from the bottom or beginning of a hierarchy or process upwards
+bpi
+32
+0.003510504753849
+bits per inch, used to indicate the density of data that can be stored on magnetic tape or similar media.
+bps
+17458
+1.915199749771396
+bits per second.
+brb
+440
+0.048269440365415
+be right back
+brochureware
+52
+0.005704570225004
+websites or web pages produced by converting a company's printed marketing or advertising material into an Internet format.
+brogrammer
+160
+0.017552523769242
+a male computer programmer who engages in stereotypically male-oriented activities and macho behavior
+browse
+49812
+5.464539462459207
+survey goods for sale in a leisurely and casual way
+btc
+220
+0.024134720182707
+bitcoin(s).
+b-tree
+14
+0.001535845829809
+an organizational structure for information storage and retrieval in the form of a tree in which all terminal nodes are the same distance from the base, and all non-terminal nodes have between n and 2n subtrees or pointers (where n is an integer).
+burn-in
+1347
+0.147770309482305
+damage to a computer or television screen which occurs when a very bright image has been displayed for too long.
+bursty
+164
+0.017991336863473
+occurring at intervals in short, sudden episodes.
+byod
+47
+0.005156053857215
+the practice of allowing the employees of an organization to use their own computers, smartphones, or other devices for work purposes
+byte
+5393
+0.591629754297007
+a group of binary digits or bits (usually eight) operated on as a unit.
+c2c
+205
+0.02248917107934
+consumer-to-consumer, denoting transactions conducted via the Internet between consumers.
+cadcam
+3
+0.000329109820673
+computer-aided design, computer-aided manufacture
+cae
+57
+0.006253086592793
+computer-aided engineering.
+cai
+109
+0.011957656817796
+computer-assisted (or -aided) instruction.
+calculator
+24947
+2.736767565445471
+something used for making mathematical calculations, in particular a small electronic device with a keyboard and a visual display
+cancelbot
+0
+0
+a program that searches for and deletes specified mailings from Internet newsgroups.
+captcha
+792
+0.086884992657747
+a computer program or system intended to distinguish human from machine input, typically as a way of thwarting spam and automated extraction of data from websites.
+case-sensitive
+269
+0.029510180587038
+(of a computer program or function) differentiating between capital and lower-case letters
+cd-i
+5
+0.000548516367789
+compact disc (interactive).
+cd-r
+18
+0.001974658924041
+a blank compact disc which can be recorded on once only.
+cd-rom
+58
+0.00636278986635
+a compact disc used as a read-only optical memory device for a computer system.
+cd-rw
+4
+0.000438813094232
+a blank compact disc that can be recorded, erased, and rerecorded many times.
+cgi
+593
+0.065054041219752
+computer-generated imagery (special visual effects created using computer software)
+chad
+6212
+0.681476735340813
+a piece of waste material removed from card or tape by punching.
+changer
+19572
+2.147112470072504
+a person or thing that changes something.
+chat
+180562
+19.808242480136496
+talk in a friendly and informal way
+chatbot
+2431
+0.266688658018918
+a computer program designed to simulate conversation with human users, especially over the Internet
+checkbox
+3933
+0.431462974902675
+a small box on a form into which a tick or other mark is entered as the response to a question
+checker
+4925
+0.540288622271975
+a person or thing that verifies or examines something
+checksum
+1084
+0.118918348536613
+a digit representing the sum of the correct digits in a piece of stored or transmitted digital data, against which later comparisons can be made to detect errors in the data.
+clickable
+3403
+0.373320239917061
+(of text or images) able to be clicked on with a mouse to produce a reaction.
+click-and-drag
+115
+0.012615876459144
+move an image or icon on a display screen by holding down the button of a mouse while repositioning the cursor
+clickbait
+2910
+0.319236526053086
+(on the Internet) content whose main purpose is to attract attention and encourage visitors to click on a link to a particular web page
+clickjacking
+181
+0.019856292513955
+the malicious practice of manipulating a website user's activity by concealing hyperlinks beneath legitimate clickable content, thereby causing the user to perform actions of which they are unaware
+clickstream
+241
+0.026438488927421
+a user's activities on the World Wide Web as represented by the sequence of links they click on.
+click-through
+4445
+0.487631050964249
+the action or facility of following a hypertext link to a particular website, especially a commercial one
+clicktivism
+107
+0.011738250270681
+the practice of supporting a political or social cause via the Internet by means such as social media or online petitions, typically characterized as involving little effort or commitment
+client-server
+1074
+0.117821315801037
+denoting a computer system in which a central server provides data to a number of networked workstations
+clipboard
+9122
+1.000713261393899
+a small board with a spring clip at the top, used for holding papers and providing support for writing.
+cmc
+94
+0.010312107714429
+computer-mediated communication, i.e. communication by means of email, instant messaging, social media, etc.
+cms
+1117
+0.122538556564019
+content management system (a system designed to manage the content of a website or other electronic resource that is used collaboratively by a number of people)
+cobol
+29
+0.003181394933175
+a computer programming language designed for use in commerce.
+codec
+7180
+0.787669504144726
+a device or program that compresses data to enable faster transmission and decompresses received data.
+com
+16983
+1.863090694831459
+computer output on microfilm or microfiche
+command-driven
+22
+0.002413472018272
+(of a program or computer) operated by means of commands keyed in by the user or issued by another program or computer.
+compression
+54482
+5.976853749973951
+the action of compressing or being compressed.
+computational
+31960
+3.50611662290605
+using or relating to computers
+computationally
+3338
+0.366189527135808
+in a way that uses or relates to computers
+compute
+25457
+2.79271623495993
+reckon or calculate (a figure or amount)
+computer
+713093
+78.22863645112467
+an electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.
+computer-aided
+2985
+0.327464271569918
+completed partially or entirely by using a computer
+computerize
+265
+0.029071367492806
+convert (a system, device, etc.) to be operated by computer
+computer-literate
+145
+0.015906974665875
+(of a person) having sufficient knowledge and skill to be able to use computers; familiar with the operation of computers
+computing
+155534
+17.06258894953284
+the use or operation of computers
+concatenate
+378
+0.041467837404834
+link (things) together in a chain or series
+concatenation
+784
+0.086007366469285
+a series of interconnected things
+configuration
+103545
+11.359225460538394
+an arrangement of parts or elements in a particular form, figure, or combination
+configure
+29411
+3.226482978607317
+arrange or put together in a particular form or configuration
+connectionism
+6
+0.000658219641347
+an artificial intelligence approach to cognition in which multiple connections between nodes (equivalent to brain cells) form a massive interactive network in which many processes take place simultaneously and certain processes, operating in parallel, are grouped together in hierarchies that bring about results such as thought or action.
+connectivity
+157563
+17.285176891581543
+the state of being connected or interconnected
+console
+260531
+28.581103563277107
+comfort (someone) at a time of grief or disappointment
+coprocessor
+2379
+0.260984087793914
+a microprocessor designed to supplement the capabilities of the primary processor.
+copyleft
+261
+0.028632554398575
+an arrangement whereby software or artistic work may be used, modified, and distributed freely on condition that anything derived from it is bound by the same conditions.
+cots
+2644
+0.290055455286721
+commercial off-the-shelf.
+courseware
+809
+0.088749948308229
+computer programs or other material designed for use in an educational or training course.
+cps
+657
+0.072075050727449
+characters per second.
+cpu
+6940
+0.761340718490863
+central processing unit.
+crimeware
+384
+0.042126057046182
+a type of malicious software designed to carry out or facilitate illegal online activity
+cron
+659
+0.072294457274565
+a command to an operating system or server for a job that is to be executed at a specified time
+cross-assembler
+2
+0.000219406547116
+an assembler which can convert instructions into machine code for a computer other than that on which it is run.
+cross-compiler
+62
+0.006801602960581
+a compiler which can convert instructions into machine code or low-level code for a computer other than that on which it is run.
+cross-platform
+15125
+1.65926201256114
+able to be used on different types of computers or with different software packages
+cross-posting
+203
+0.022269764532226
+the posting of a message, link, image, etc. to more than one online location
+cruft
+498
+0.054632230231765
+badly designed, unnecessarily complicated, or unwanted code or software
+cursor
+12236
+1.342329255252767
+a movable indicator on a computer screen identifying the point that will be affected by input from the user.
+cutscene
+2225
+0.244089783666019
+(in a video game) a scene that develops the storyline and is often shown on completion of a certain level, or when the player's character dies
+cyberattack
+5387
+0.59097153465566
+an attempt by hackers to damage or destroy a computer network or system.
+cyberbullying
+4885
+0.535900491329665
+the use of electronic communication to bully a person, typically by sending messages of an intimidating or threatening nature
+cyberchondriac
+3
+0.000329109820673
+a person who compulsively searches the Internet for information about particular real or imagined symptoms of illness
+cybercrime
+10546
+1.15693072294015
+criminal activities carried out by means of computers or the Internet.
+cybercriminal
+1247
+0.136799982126528
+a person who engages in criminal activity by means of computers or the Internet
+cybercrook
+21
+0.002303768744713
+a person who commits criminal activities by means of computers or the Internet; a cybercriminal
+cyberculture
+47
+0.005156053857215
+the social conditions brought about by the widespread use of computer networks for communication, entertainment, and business
+cybernaut
+3
+0.000329109820673
+an expert or habitual user of the Internet.
+cyberphobe
+0
+0
+a person with an extreme or irrational fear of computers or technology
+cyberphobia
+4
+0.000438813094231
+extreme or irrational fear of computers or technology
+cyberphobic
+0
+0
+having an extreme or irrational fear of computers or technology
+cybersecurity
+38495
+4.22302751560602
+the state of being protected against the criminal or unauthorized use of electronic data, or the measures taken to achieve this
+cybersex
+368
+0.040370804669256
+sexual arousal using computer technology, especially by wearing virtual reality equipment or by exchanging messages with another person via the Internet
+cyberslacker
+0
+0
+a person who uses their employer's Internet and email facilities for personal activities during working hours.
+cyberspace
+9981
+1.094948373380015
+the notional environment in which communication over computer networks occurs
+cybersphere
+69
+0.007569525875486
+the realm of information technology and electronic communication, especially the Internet
+cybersquatting
+637
+0.069880985256294
+the practice of registering names, especially well-known company or brand names, as Internet domains, in the hope of reselling them at a profit.
+cyberstalking
+580
+0.063627898663502
+the repeated use of electronic communications to harass or frighten someone, for example by sending threatening emails.
+cyberterrorism
+400
+0.043881309423104
+the politically motivated use of computers and information technology to cause severe disruption or widespread fear in society
+cybertheft
+240
+0.026328785653862
+theft carried out by means of computers or the Internet
+cyberthreat
+672
+0.073720599830816
+the possibility of a malicious attempt to damage or disrupt a computer network or system
+cyberwar
+1231
+0.135044729749604
+the use of computer technology to disrupt the activities of a state or organization, especially the deliberate attacking of information systems for strategic or military purposes
+cyberwarfare
+1292
+0.141736629436628
+the use of computer technology to disrupt the activities of a state or organization, especially the deliberate attacking of information systems for strategic or military purposes
+cyberwarrior
+15
+0.001645549103367
+a computer expert engaged in the infiltration or sabotage of information systems, or in the defence of information systems against outside attack, typically for strategic or military purposes
+cypherpunk
+47
+0.005156053857215
+a person who uses encryption when accessing a computer network in order to ensure privacy, especially from government authorities.
+daemon
+1484
+0.162799657959718
+(in ancient Greek belief) a divinity or supernatural being of a nature between gods and humans.
+darknet
+580
+0.063627898663501
+a computer network with restricted access that is used chiefly for illegal peer-to-peer file sharing.
+data
+3433469
+376.66278895909306
+facts and statistics collected together for reference or analysis
+databank
+758
+0.083155081356784
+a large repository of computer data on a particular topic, sometimes formed from more than one database, and accessible by many users.
+database
+247270
+27.126328452627636
+a structured set of data held in a computer, especially one that is accessible in various ways
+dataglove
+7
+0.000767922914904
+a device worn like a glove, which allows the manual manipulation of images in virtual reality.
+dataveillance
+13
+0.001426142556251
+the practice of monitoring digital data relating to personal details or online activities.
+dde
+8
+0.000877626188462
+a standard allowing data to be shared between different programs.
+ddos
+134
+0.01470023865674
+target with a distributed denial of service attack
+debug
+8622
+0.945861624615018
+identify and remove errors from (computer hardware or software)
+debugger
+3182
+0.349075816460796
+a computer program that assists in the detection and correction of errors in other computer programs.
+debugging
+9691
+1.063134424048265
+the process of identifying and removing errors from computer hardware or software
+decompile
+238
+0.026109379106747
+produce source code from (compiled code)
+deduplicate
+89
+0.00976359134664
+eliminate duplicate or redundant information from (something, especially computer data)
+deduplication
+2300
+0.252317529182851
+the elimination of duplicate or redundant information, especially in computer data
+defragment
+391
+0.042893979961085
+reduce the fragmentation of (a file) by concatenating parts stored in separate locations on a disk
+deinstall
+14
+0.001535845829809
+remove (an application or file) from a computer.
+demo
+105854
+11.612530319183264
+a demonstration of a product or technique
+density
+125041
+13.717407028936028
+the degree of compactness of a substance
+deprecate
+411
+0.04508804543224
+express disapproval of
+dequeue
+78
+0.008556855337506
+remove (an item of data awaiting processing) from a queue of such items.
+dereference
+177
+0.019417479419724
+obtain the address of a data item held in another location from (a pointer).
+des
+27501
+3.016949726111993
+data encryption standard.
+deselect
+859
+0.094235111986117
+turn off (a selected option) on an electronic interface
+desktop
+202883
+22.256929249219283
+the working surface of a desk.
+detag
+8
+0.000877626188462
+remove a tag identifying a person from (digital content, typically a photograph) on a social networking site; untag
+dhtml
+14
+0.001535845829808
+dynamic HTML.
+dialler
+535
+0.058691251353402
+a device or piece of software for calling telephone numbers automatically
+dial-up
+3735
+0.409741726738239
+(of a computer system or service) used remotely via a telephone line.
+diff
+7129
+0.78207463719328
+a program that compares files in order to determine how or whether they differ
+digerati
+195
+0.021392138343763
+people with expertise or professional involvement in information technology.
+digitally
+36847
+4.042236520782831
+by means of digital or computer technology
+digitization
+4810
+0.527672745812832
+the conversion of text, pictures, or sound into a digital form that can be processed by a computer
+digitize
+3364
+0.369041812248309
+convert (pictures or sound) into a digital form that can be processed by a computer
+dimm
+54
+0.005923976772119
+dual in-line memory module.
+disassembler
+150
+0.016455491033664
+a program for converting machine code into a low-level symbolic language.
+disc
+87404
+9.58850492204257
+a flat, thin circular object
+discoverability
+1262
+0.138445531229895
+the quality of being able to be discovered or found
+discoverable
+1965
+0.215566932541002
+able to be discovered or found; findable
+display
+723520
+79.37251248451146
+put (something) in a prominent place in order that it may readily be seen
+displayed
+183070
+20.08337829021936
+(of information) shown on a computer screen or other device
+distro
+3636
+0.39888110265602
+a computer software distribution package.
+dithered
+1245
+0.136580575579413
+(of a colour image or print) appearing to contain more colours than are really available
+dll
+1430
+0.156875681187599
+dynamic linked library, a collection of subroutines stored on disk, which can be loaded into memory and executed when accessed by a running program.
+dm
+1121
+0.12297736965825
+decimetre(s).
+dma
+924
+0.101365824767372
+direct memory access, a method allowing a peripheral device to transfer data to or from the memory of a computer system using operations not under the control of the central processor.
+dns
+631
+0.069222765614948
+domain name server, the system that automatically translates Internet addresses to the numeric machine addresses that computers use.
+documentation
+101466
+11.131152354811807
+material that provides official information or evidence or that serves as a record
+dogfooding
+151
+0.016565194307222
+the use of a newly developed product or service by a company's staff to test it before it is made available to customers
+doi
+37199
+4.080852073075162
+digital object identifier, a unique string of characters allocated to a website, file, or other piece of digital information.
+dongle
+10202
+1.11919279683628
+a small device able to be connected to and used with a computer, especially to allow access to wireless broadband or use of protected software.
+dos
+14698
+1.612418714751975
+disk operating system, an operating system originally developed for IBM personal computers.
+dot-com
+5992
+0.657342015158105
+a company that conducts its business on the Internet
+dot-commer
+4
+0.000438813094231
+someone who works for or owns an Internet-based company.
+dot-org
+43
+0.004717240762983
+a non-profit organization that conducts its business on the Internet.
+double-click
+2836
+0.311118483809811
+press a computer mouse button twice in quick succession to select a file, program, or function
+double-density
+16
+0.001755252376924
+(of a disk) able to store twice as much information as older disks of the same physical size.
+download
+300423
+32.957386552043324
+copy (data) from one computer system to another, typically over the Internet
+downloadable
+19843
+2.176842057206657
+(of data) able to be copied from one computer system to another or to a disk
+downloaded
+78904
+8.656027096801598
+(of data) copied from one computer system to another, typically over the Internet
+downtime
+24312
+2.667105986736293
+time during which a machine, especially a computer, is out of action or unavailable for use.
+downvote
+1230
+0.134935026476047
+(in an online context) register disapproval of or disagreement with (a post or poster) by means of a particular icon
+dox
+430
+0.047172407629837
+search for and publish private or identifying information about (a particular individual) on the Internet, typically with malicious intent
+dp
+1056
+0.115846656876996
+a displaced person (a person who is forced to leave their home country because of war or persecution)
+dpi
+3669
+0.402501310683427
+dots per inch, a measure of the resolution of printers, scanners, etc.
+drm
+947
+0.103889000059202
+digital rights management.
+drop-down
+6997
+0.767593805083656
+dropping down or unfolding when required
+dsl
+438
+0.0480500338183
+digital subscriber line, a technology for the high-speed transmission of digital information over standard telephone lines.
+dtd
+23
+0.002523175291828
+a document that defines the tagging structure of an SGML or XML document.
+dtp
+14
+0.001535845829809
+desktop publishing.
+dumbphone
+263
+0.028851960945691
+a basic mobile phone that lacks the advanced functionality characteristic of a smartphone
+dvd
+4934
+0.541275951733996
+a type of compact disc able to store large amounts of data, especially high-resolution audiovisual material.
+dvd-r
+14
+0.001535845829809
+a DVD which can be recorded on once only.
+dvd-rom
+9
+0.00098732946202
+a DVD used in a computer for displaying data.
+dvd-rw
+3
+0.000329109820674
+a DVD on which recordings can be made and erased a number of times.
+e-
+35
+0.003839614574522
+denoting something in electronic form, especially the use of electronic data transfer for information exchange and financial transactions via the Internet
+eb
+528
+0.057923328438498
+exabyte(s).
+e-banking
+527
+0.057813625164941
+a method of banking in which the customer conducts transactions electronically via the Internet
+ebcdic
+3
+0.000329109820673
+Extended Binary Coded Decimal Interchange Code, a standard eight-bit character code used in computing and data transmission.
+e-billing
+199
+0.021830951437995
+the practice by which invoices or bills are electronically delivered or presented to customers, rather than being sent by post.
+e-book
+16678
+1.829631196396343
+an electronic version of a printed book which can be read on a computer or a specifically designed handheld device.
+e-card
+566
+0.062092052833694
+a digital version of a greetings card, typically accessed by the recipient via a hyperlink in an email
+e-cash
+61
+0.006691899687023
+electronic financial transactions conducted in cyberspace via computer networks.
+ecn
+6
+0.000658219641347
+electronic communications network.
+e-commerce
+86813
+9.52367028736993
+commercial transactions conducted electronically on the Internet.
+e-content
+128
+0.014042019015394
+digital text and images designed for display on web pages
+edi
+100
+0.010970327355777
+electronic data interchange (a standard for exchanging information between computer systems).
+editable
+2743
+0.300916079368939
+(of text or software) in a format that can be edited by the user
+e-edition
+247
+0.027096708568767
+a digital edition of a printed book, newspaper, or journal, which can be read on a computer or mobile device
+e-fit
+391
+0.042893979961084
+an electronic picture of the face of a person being sought by the police, created by a computer program from composite photographs of facial features.
+egosurf
+1
+0.000109703273558
+search the Internet for instances of one's own name or links to one's own website
+e-ink
+2404
+0.263726669632858
+a type of electronic display for text that is intended to imitate the appearance of printed ink, typically used in e-readers
+electronically
+24971
+2.739400444010857
+by means of electronic equipment or devices
+email
+725074
+79.54299137162022
+messages distributed by electronic means from one computer user to one or more recipients via a network
+embeddable
+1199
+0.131534224995756
+capable of being embedded in something
+emoji
+21572
+2.366519017188027
+a small digital image or icon used to express an idea or emotion
+emoticon
+2152
+0.236081444696303
+a representation of a facial expression such as a smile or frown, formed by various combinations of keyboard characters and used to convey the writer's feelings or intended tone
+emulation
+8204
+0.900005656267874
+effort to match or surpass a person or achievement, typically by imitation
+encapsulate
+4922
+0.539959512451301
+enclose (something) in or as if in a capsule
+encapsulation
+4500
+0.493664731009926
+the action of enclosing something in or as if in a capsule
+encode
+9465
+1.038341484224211
+convert into a coded form
+encrypt
+11259
+1.235149156986834
+convert (information or data) into a code, especially to prevent unauthorized access
+encryption
+71802
+7.876914447994376
+the process of converting information or data into a code, especially to prevent unauthorized access
+endian
+120
+0.013164392826931
+denoting or relating to a system of ordering bytes in a word, or bits in a byte, in which the most significant (or least significant) item is put first
+enqueue
+135
+0.014809941930299
+add (an item of data awaiting processing) to a queue of such items
+eof
+146
+0.016016677939433
+end of file.
+eot
+19
+0.002084362197597
+end of tape.
+eprom
+51
+0.005594866951446
+a read-only memory whose contents can be erased by ultraviolet light or other means and reprogrammed using a pulsed voltage.
+erasure
+3025
+0.331852402512228
+the removal of writing, recorded material, or data.
+e-reader
+6164
+0.676210978210041
+a handheld device on which electronic versions of books, newspapers, magazines, etc. can be read.
+e-sport
+233
+0.025560862738959
+a multiplayer video game played competitively for spectators, typically by professional gamers
+e-tailer
+1583
+0.173660282041936
+a retailer selling goods via electronic transactions on the Internet.
+ethernet
+5909
+0.648236643452813
+a system for connecting a number of computer systems to form a local area network, with protocols to control the passing of information and to avoid simultaneous transmission by two or more systems.
+e-vite
+44
+0.004826944036542
+an invitation sent by email
+exabyte
+260
+0.028522851125018
+a unit of information equal to one quintillion (10¹⁸) or, strictly, 2⁶⁰ bytes.
+executable
+7957
+0.872908947699107
+(of a file or program) able to be run by a computer.
+extensibility
+1624
+0.178158116257804
+the ability to be extended or stretched
+extensible
+2802
+0.307388572508847
+able to be extended or stretched; extendable
+extranet
+354
+0.038834958839447
+an intranet that can be partially accessed by authorized outside users, enabling businesses to exchange information over the Internet in a secure way
+eyedropper
+299
+0.032801278793771
+a short glass tube with a rubber bulb at one end and a tiny hole at the other, for measuring out drops of medicine or other liquids
+e-zine
+305
+0.033459498435118
+a magazine only published in electronic form on a computer network.
+fabless
+1612
+0.176841676975111
+denoting or relating to a company which designs microchips but contracts out their production rather than owning its own factory
+facebook
+32419
+3.556470425469065
+spend time using the social networking website Facebook
+failover
+2928
+0.321211184977125
+a procedure by which a system automatically transfers control to a duplicate system when it detects a fault or failure
+faq
+161
+0.0176622270428
+a list of questions and answers relating to a particular subject, especially one giving basic information for users of a website.
+favicon
+389
+0.042674573413969
+an icon associated with a particular website, typically displayed in the address bar of a browser accessing the site or next to the site name in a user's list of bookmarks.
+feature-complete
+264
+0.028961664219249
+denoting a version of a piece of software having all the functionality intended for the final version but requiring some improvements and fixes before release
+fifo
+59
+0.006472493139908
+first in, first out (chiefly with reference to methods of stock valuation and data storage).
+fifth-generation
+3323
+0.364543978032441
+denoting a proposed new class of computer or programming language employing artificial intelligence.
+filename
+2532
+0.277768688648252
+an identifying name given to a computer file.
+file-sharing
+5757
+0.631561745872032
+the practice of making computer files available to other users of a network, in particular the illicit sharing of music and video via the Internet
+firewire
+942
+0.103340483691411
+a standard high-performance serial bus for connecting digital devices together or to a computer
+firmware
+43601
+4.783172430391951
+permanent software programmed into a read-only memory.
+flamer
+108
+0.011847953544238
+a person who directs a vitriolic or abusive message at someone on the Internet or via email
+flic
+112
+0.012286766638469
+a data file containing computer animations.
+floating-point
+990
+0.108606240822184
+denoting a mode of representing numbers as two sequences of bits, one representing the digits in the number and the other an exponent which determines the position of the radix point
+floptical
+8
+0.000877626188462
+a floppy disk whose contents can be read by an optical scanner.
+fly-through
+227
+0.024902643097612
+a computer-animated simulation of what would be seen while flying through a particular region.
+folder
+72455
+7.948550685627595
+a folding cover or holder, typically made of stiff paper or card, for storing loose papers.
+folksonomy
+56
+0.006143383319234
+a user-generated system of classifying and organizing online content into different categories by the use of metadata such as electronic tags.
+followee
+7
+0.000767922914904
+a person who is being tracked on a social media website or application
+fortran
+57
+0.006253086592792
+a high-level computer programming language used especially for scientific calculations.
+forum
+167503
+18.375627430745688
+a meeting or medium where ideas and views on a particular issue can be exchanged
+forumite
+45
+0.004936647310099
+a person who posts comments in a particular Internet forum, typically on a regular basis
+foss
+77
+0.008447152063948
+free and open-source software
+fpu
+31
+0.003400801480291
+floating-point unit, a processor that performs arithmetic operations.
+fragmentation
+19043
+2.089079438360449
+the process or state of breaking or being broken into fragments
+freemium
+6474
+0.710218993012947
+a business model, especially on the Internet, whereby basic services are provided free of charge while more advanced features must be paid for.
+freeware
+4666
+0.511875474420514
+software that is available free of charge.
+ftp
+1035
+0.113542888132283
+file transfer protocol, a standard for the exchange of program and data files across a network.
+g2b
+0
+0
+government-to-business, referring to the conducting of transactions between government bodies and business via the Internet.
+gamepad
+12383
+1.358455636465758
+a handheld controller for video games.
+gameplay
+107254
+11.76611490216413
+the features of a video game, such as its plot and the way it is played, as distinct from the graphics and sound effects.
+gamer
+35977
+3.946794672787578
+a person who plays video games or participates in role-playing games
+gamification
+4987
+0.547090225232556
+the application of typical elements of game playing (e.g. point scoring, competition with others, rules of play) to other areas of activity, typically as an online marketing technique to encourage engagement with a product or service
+gamify
+436
+0.047830627271184
+apply typical elements of game playing (e.g. point scoring, competition with others, rules of play) to (an activity), typically as an online marketing technique to encourage engagement with a product or service
+gb
+3611
+0.396138520817076
+gigabit(s).
+gbyte
+0
+0
+gigabyte(s).
+geekspeak
+25
+0.002742581838944
+technical jargon regarded as characteristic of that used by computer enthusiasts
+generator
+49292
+5.40749376020917
+a person or thing that generates something.
+geodata
+114
+0.012506173185584
+computerized geographical data
+geofence
+438
+0.048050033818299
+a virtual geographic boundary, defined by GPS or RFID technology, that enables software to trigger a response when a mobile device enters or leaves a particular area
+geofencing
+1024
+0.112336152123149
+the use of GPS or RFID technology to create a virtual geographic boundary, enabling software to trigger a response when a mobile device enters or leaves a particular area
+geoinformation
+22
+0.002413472018271
+computerized geographical information
+geolocate
+161
+0.0176622270428
+identify the geographical location of (a person or device) by means of digital information processed via the Internet
+geolocation
+3579
+0.392628016063228
+the process or technique of identifying the geographical location of a person or device by means of digital information processed via the Internet.
+geomatics
+128
+0.014042019015394
+the branch of science that deals with the collection, analysis, and interpretation of data relating to the earth's surface.
+geotag
+427
+0.046843297809164
+an electronic tag that assigns a geographical location to a photograph or video, a posting on a social media website, etc.
+gif
+5456
+0.598541060531146
+a lossless format for image files that supports both animated and static images
+gig
+100925
+11.071802883817059
+a light two-wheeled carriage pulled by one horse.
+gigabit
+8847
+0.970544861165514
+a unit of information equal to one thousand million (10⁹) or (strictly) 2³⁰ bits.
+gigabyte
+4468
+0.490154226256078
+a unit of information equal to one thousand million (10⁹) or, strictly, 2³⁰ bytes.
+gigaflop
+17
+0.001864955650482
+a unit of computing speed equal to one thousand million floating-point operations per second
+gigahertz
+1251
+0.13723879522076
+a measure of frequency equivalent to one thousand million (10⁹) cycles per second.
+gigapixel
+413
+0.045307451979356
+a unit of graphic resolution equivalent to one thousand million or 10⁹ pixels
+gigo
+3
+0.000329109820673
+garbage in, garbage out.
+gis
+173
+0.018978666325493
+geographic information system, a system for storing and manipulating geographical information on computer.
+google
+72254
+7.926500327642485
+search for information about (someone or something) on the Internet using the search engine Google
+googlewhack
+2
+0.000219406547116
+a search term consisting of two words, with no surrounding quotation marks, that produces one single result when entered into the search engine Google
+gprs
+679
+0.07448852274572
+general packet radio services, a technology for radio transmission of small packets of data, especially between mobile phones and the Internet.
+graphicacy
+4
+0.000438813094231
+the ability to understand and use a map or graph.
+greyscale
+1118
+0.122648259837578
+a range of grey shades from white to black, as used in a monochrome display or printout
+griefer
+46
+0.005046350583657
+(in an online game or community) a person who harasses or deliberately provokes other players or members in order to spoil their enjoyment
+groupware
+224
+0.024573533276938
+software designed to facilitate collective working by a number of different users.
+guestbook
+579
+0.063518195389944
+a facility on a website on which visitors to the site may record their comments.
+gui
+631
+0.069222765614948
+graphical user interface.
+hackable
+1541
+0.169052744552511
+(in computing contexts) capable of being hacked
+hackathon
+5820
+0.638473052106171
+an event, typically lasting several days, in which a large number of people meet to engage in collaborative computer programming
+hacker
+42162
+4.625309419742332
+a person who uses computers to gain unauthorized access to data.
+hackerspace
+1332
+0.146124760378938
+a place in which people with an interest in computing or technology can gather to work on projects while sharing ideas, equipment, and knowledge
+hackery
+532
+0.058362141532729
+the action or practice of gaining unauthorized access to data in a system or computer
+hackfest
+64
+0.007021009507697
+an event or gathering dedicated to sharing information about computer programming and software development
+hacking
+75773
+8.312546147292247
+the gaining of unauthorized access to data in a system or computer
+hacktivist
+1934
+0.21216613106071
+a person who gains unauthorized access to computer files or networks in order to further social or political ends.
+half-duplex
+130
+0.014261425562509
+(of a communications system or computer circuit) allowing the transmission of signals in both directions but not simultaneously.
+half-move
+2
+0.000219406547116
+a move made by one player (especially in the context of the analysis of play made by a chess-playing computer program).
+handshake
+16299
+1.788053655717951
+an act of shaking a person's hand with one's own as a greeting.
+handshaking
+478
+0.05243816476061
+the action of shaking hands with a person.
+hands-on
+60412
+6.627394162171476
+involving or offering active participation rather than theory
+haptic
+5295
+0.580878833488346
+relating to the sense of touch, in particular relating to the perception and manipulation of objects using the senses of touch and proprioception
+hard-code
+119
+0.013054689553373
+fix (data or parameters) in a program in such a way that they cannot be altered without modifying the program
+hardwire
+403
+0.044210419243778
+make (a function) a permanent feature in a computer by means of permanently connected circuits, so that it cannot be altered by software
+hashtag
+57171
+6.271845852570771
+a word or phrase preceded by a hash sign (#), used on social media websites and applications, especially Twitter, to identify messages on a specific topic
+hdd
+1599
+0.17541553441886
+hard disk drive.
+hexadecimal
+891
+0.097745616739966
+relating to or using a system of numerical notation that has 16 rather than 10 as its base
+high-powered
+18030
+1.977950022246436
+(of a machine or device) having greater than normal strength or capabilities
+hi-res
+2805
+0.307717682329521
+(of a display or a photographic or video image) showing a large amount of detail.
+hotfix
+625
+0.068564545973601
+a small piece of code developed to correct a major software bug or fault and released as quickly as possible
+hotlink
+85
+0.00932477825241
+a connection between documents or applications which enables material from one source to be incorporated into another, in particular a facility which automatically updates material in a document when an alteration is made to the document from which it originated.
+hotlist
+74
+0.008118042243275
+a personal list of favourite or most frequently accessed websites compiled by an Internet user
+hot-swap
+592
+0.064944337946196
+fit or replace (a computer part) with the power still connected
+hsdpa
+19
+0.002084362197598
+High-Speed Downlink Packet Access, a protocol enabling the rapid transmission of Internet data to mobile phones.
+hth
+116
+0.012725579732701
+hope this helps (used in Internet forums)
+html
+6997
+0.767593805083657
+Hypertext Markup Language, a standardized system for tagging text files to achieve font, colour, graphic, and hyperlink effects on World Wide Web pages
+http
+4
+0.000438813094231
+Hypertext Transport (or Transfer) Protocol, the data transfer protocol used on the World Wide Web.
+hyperconnected
+301
+0.033020685340885
+characterized by the widespread or habitual use of devices that have Internet connectivity
+hyperinstrument
+2
+0.000219406547116
+a musical instrument designed or adapted to be used with electronic sensors whose output controls the computerized generation or transformation of the sound.
+hyperlink
+2987
+0.327683678117033
+a link from a hypertext document to another location, activated by clicking on a highlighted word or image.
+hypermedia
+522
+0.057265108797151
+an extension to hypertext providing multimedia facilities, such as those handling sound and video.
+hypertext
+782
+0.085787959922169
+a software system allowing extensive cross-referencing between related sections of text and associated graphic material
+i/o
+0
+0
+input-output.
+ibm
+208
+0.022818280900015
+International Business Machines, a leading American computer manufacturer.
+iconify
+5
+0.000548516367789
+reduce (a window on a screen) to a small symbol or graphic representation of itself so as to make room on the screen for other windows.
+iconize
+11
+0.001206736009136
+treat as an icon
+ict
+66
+0.007240416054812
+information and communications technology.
+identifier
+7702
+0.844934612941878
+a person or thing that identifies someone or something
+ikwym
+0
+0
+I know what you mean
+im
+83158
+9.122704822516313
+send (someone) an instant message
+imagesetter
+8
+0.000877626188462
+a very high-quality type of colour printer used to print glossy magazines, newsletters, or other documents.
+imaging
+189251
+20.761454224079884
+the process of making a visual representation of something by scanning it with a detector or electromagnetic beam
+imap
+76
+0.00833744879039
+Internet Mail Access Protocol.
+ime
+718
+0.078766950414474
+in my experience
+imho
+3377
+0.370467954804559
+in my humble opinion.
+immersive
+34059
+3.736383794103792
+(of a computer display or system) generating a three-dimensional image which appears to surround the user.
+i-mode
+79
+0.008666558611063
+a technology that allows data to be transferred to and from Internet sites via mobile phones.
+inbox
+42653
+4.679173727059192
+an electronic folder in which emails received by an individual are held.
+infobahn
+11
+0.001206736009135
+a high speed computer network, especially the Internet.
+infographic
+18906
+2.074050089883036
+a visual representation of information or data, e.g. as a chart or diagram
+infomania
+8
+0.000877626188462
+the compulsive desire to check or accumulate news and information, typically via mobile phone or computer
+infomediary
+7
+0.000767922914904
+an Internet company that gathers and links information on particular subjects on behalf of commercial organizations and their potential customers.
+informatics
+5079
+0.55718292639987
+the science of processing data for storage and retrieval; information science.
+initialize
+2480
+0.272064118423248
+set to the value or put in the condition appropriate to the start of an operation
+input
+220363
+24.17454247100895
+what is put in, taken in, or operated on by any process or system
+integrator
+6477
+0.71054810283362
+a person or thing that integrates.
+interactive
+148464
+16.286986805479476
+(of two people or things) influencing each other
+interactivity
+7163
+0.785804548494244
+the process of two people or things working together and influencing each other
+interlaced
+1537
+0.168613931458279
+crossed intricately together; interwoven
+interlingua
+0
+0
+an artificial language, devised for machine translation, that makes explicit the distinctions necessary for successful translation into a target language, even where they are not present in the source language.
+interlingual
+10
+0.001097032735578
+between or relating to two languages
+internaut
+7
+0.000767922914904
+a user of the Internet, especially a habitual or skilled one
+internet
+541310
+59.38347900955176
+a global computer network providing a variety of information and communication facilities, consisting of interconnected networks using standardized communication protocols
+interoperability
+16049
+1.760627837328511
+the ability of computer systems or software to exchange and make use of information
+interoperable
+4120
+0.451977487057976
+(of computer systems or software) able to exchange and make use of information.
+interoperate
+1028
+0.112774965217379
+work in conjunction with each other
+interweb
+921
+0.101036714946699
+the Internet.
+interwork
+43
+0.004717240762984
+(of items of hardware or software) be able to connect, communicate, or exchange data
+intranet
+5763
+0.632219965513378
+a local or restricted communications network, especially a private network created using World Wide Web software.
+intuitive
+61910
+6.791729665961002
+using or based on what one feels to be true even without conscious reasoning; instinctive
+ios
+6213
+0.681586438614371
+an operating system used for mobile devices manufactured by Apple Inc.
+ipod
+3629
+0.398113179741116
+a small electronic device for playing and storing digital audio and video files.
+irc
+91
+0.009982997893756
+Internet Relay Chat.
+isa
+1157
+0.12692668750633
+(in the UK) an individual savings account, a scheme allowing individuals to hold cash, shares, and unit trusts free of tax on dividends, interest, and capital gains. In 1999 it replaced both personal equity plans (PEPs) and tax-exempt special savings accounts (TESSAs).
+isv
+7
+0.000767922914904
+independent software vendor.
+it
+65587250
+7195.13602865128
+used to refer to a thing previously mentioned or easily identified
+iterate
+4511
+0.494871467019061
+perform or utter repeatedly
+iteration
+36721
+4.028413908314553
+the repetition of a process or utterance.
+iterative
+8335
+0.914376785103942
+relating to or involving iteration, especially of a mathematical or computational process.
+iykwim
+6
+0.000658219641347
+if you know what I mean
+iyswim
+0
+0
+if you see what I mean
+java
+6770
+0.742691161986044
+coffee
+javascript
+5096
+0.559047882050352
+an object-oriented computer programming language commonly used to create interactive effects within web browsers.
+jcl
+4
+0.000438813094231
+job control language.
+joypad
+469
+0.05145083529859
+an input device for a video games console which uses buttons to control the motion of an image on the screen.
+jpeg
+1734
+0.190225476349158
+a format for compressing image files
+jumpstation
+0
+0
+a site on the World Wide Web containing a collection of hypertext links, usually to pages on a particular topic.
+kbps
+1590
+0.174428204956841
+kilobits per second.
+kbyte
+5
+0.000548516367789
+kilobyte(s).
+kern
+147
+0.016126381212991
+adjust the spacing between (characters) in a piece of text to be printed
+keyboard
+190637
+20.91350296123094
+a panel of keys that operate a computer or typewriter.
+keylogger
+1119
+0.122757963111135
+a computer program that records every keystroke made by a computer user, especially in order to gain fraudulent access to passwords and other confidential information.
+keylogging
+371
+0.040699914489929
+the use of a computer program to record every keystroke made by a computer user, especially in order to gain fraudulent access to passwords and other confidential information.
+keypad
+8959
+0.982831627803983
+a miniature keyboard or set of buttons for operating a portable electronic device, telephone, or other equipment.
+keypal
+0
+0
+a person with whom one becomes friendly by exchanging emails; an email penfriend
+keypunch
+62
+0.006801602960581
+a device for transferring data by means of punched holes or notches on a series of cards or paper tape.
+keystroke
+2210
+0.242444234562652
+a single depression of a key on a keyboard, especially as a measure of work.
+keyword
+34490
+3.783665905007187
+a word or concept of great significance
+kilo-
+1
+0.000109703273558
+(used commonly in units of measurement) denoting a factor of 1,000
+kilobit
+63
+0.006911306234139
+a unit of computer memory or data equal to 1,024 bits.
+kilobyte
+242
+0.026548192200978
+a unit of memory or data equal to 1,024 bytes.
+kludge
+447
+0.049037363280319
+an ill-assorted collection of parts assembled to fulfil a particular purpose.
+kludgy
+356
+0.039054365386563
+awkwardly or inelegantly made or done
+knowbot
+0
+0
+a program designed to search through large numbers of databases in response to requests for information by users of a network.
+knowledge-based
+3158
+0.346442937895411
+founded on an accumulation of facts or information
+kwic
+1
+0.000109703273558
+denoting a database search in which the keyword is shown highlighted in the middle of the display, with the text forming its context on either side.
+laggy
+3221
+0.353354244129549
+(of a computer, video game, or Internet connection) slow to respond
+lappy
+241
+0.026438488927422
+a laptop
+laptop
+206871
+22.694425904167634
+a computer that is portable and suitable for use while travelling.
+lcd
+1944
+0.21326316379629
+liquid crystal display
+le
+19800
+2.172124816443673
+language engineering.
+lean-back
+433
+0.047501517450511
+denoting or relating to a form of entertainment with which users engage in a passive way
+lean-forward
+99
+0.010860624082219
+denoting or relating to a form of entertainment with which users can engage in an active or interactive way
+leet
+149
+0.016345787760107
+a yearly or half-yearly court of record that the lords of certain manors held.
+leetspeak
+24
+0.002632878565387
+an informal language or code used on the Internet, in which standard letters are often replaced by numerals or special characters that resemble the letters in appearance
+left-click
+398
+0.043661902875989
+select an item in a graphical user interface by pressing the left-hand button of a mouse
+letter-quality
+5
+0.000548516367789
+(of a computer printer or document) of or producing print of a quality suitable for business letters.
+lifecast
+17
+0.001864955650482
+a three-dimensional representation of a subject created from a mould of their living body
+lifelogging
+280
+0.030716916596173
+the action or practice of making a continuous record of one's daily activities by means of a digital device or computer application
+lifo
+3
+0.000329109820673
+last in, first out (chiefly with reference to methods of stock valuation and data storage).
+like
+13701307
+1503.0782299198695
+having the same characteristics or qualities as; similar to
+linkbait
+222
+0.024354126729823
+(on a website) content designed to attract attention and encourage those viewing it to create hyperlinks to the site, with the aim of improving the site's position on the list of results returned by a search engine
+linker
+3586
+0.393395938978132
+a thing which links other things.
+link-up
+2618
+0.287203170174219
+an instance of two or more people or things connecting or joining
+linky
+120
+0.013164392826932
+a hyperlink
+linux
+5660
+0.620920528336929
+an open-source operating system modelled on UNIX.
+list
+1527682
+167.5917163552679
+a number of connected items or names written or printed consecutively, typically one below the other
+listicle
+704
+0.077231104584664
+a piece of writing or other content presented wholly or partly in the form of a list
+listserv
+685
+0.075146742387066
+an application that distributes messages to subscribers on an electronic mailing list.
+live-tweet
+517
+0.056716592429364
+post comments about (an event) on the social media application Twitter while the event is taking place
+liveware
+3
+0.000329109820673
+working personnel, especially computer personnel, as distinct from the inanimate or abstract things they work with.
+lmao
+5706
+0.625966878920586
+laughing my arse off.
+lmk
+51
+0.005594866951446
+let me know
+login
+42825
+4.698042690111127
+an act of logging in to a computer, database, or system.
+logout
+787
+0.086336476289958
+an act of logging out of a computer system.
+lolcat
+73
+0.008008338969717
+(on the Internet) a photograph of a cat accompanied by a humorous caption written typically in a misspelled and grammatically incorrect version of English
+lookup
+4016
+0.440568346607969
+the action of systematic electronic information retrieval.
+lsb
+7
+0.000767922914904
+least significant bit.
+ludology
+9
+0.00098732946202
+the study of games and gaming, especially video games
+m-
+19
+0.002084362197598
+denoting commercial activity conducted electronically by means of mobile phones
+machinima
+343
+0.037628222830312
+the practice or technique of producing animated films through the manipulation of video game graphics.
+macro
+45580
+5.00027520876276
+a single instruction that expands automatically into a set of instructions to perform a particular task.
+mainframe
+7428
+0.814875915987051
+a large high-speed computer, especially one supporting numerous workstations or peripherals
+maintainer
+1086
+0.119137755083728
+a person or thing that maintains something, in particular computer software.
+malvertisement
+19
+0.002084362197597
+an online advertisement that incorporates or installs malware
+malvertising
+817
+0.089627574496691
+the practice of incorporating malware in online advertisements
+malware
+98155
+10.76792481606206
+software that is specifically designed to disrupt, damage, or gain unauthorized access to a computer system.
+manipulate
+47279
+5.186661070537396
+handle or control (a tool, mechanism, information, etc.) in a skilful manner
+manosphere
+125
+0.01371290919472
+websites and blogs where men express opinions about issues concerning contemporary masculinity and male relationships with women, especially those associated with views that are hostile to feminism and women's rights
+mb
+3517
+0.385826413102648
+megabit(s).
+mbps
+2119
+0.232461236668896
+megabits per second.
+mbyte
+2
+0.000219406547116
+megabyte(s).
+m-commerce
+1205
+0.132192444637103
+commercial transactions conducted electronically by mobile phone.
+megabit
+632
+0.069332468888506
+a unit of data size or (when expressed per second) network speed, equal to one million or (strictly) 1,048,576 bits.
+megabyte
+1597
+0.175196127871745
+a unit of information equal to one million or, strictly, 1,048,576 bytes.
+megaflop
+29
+0.003181394933176
+a unit of computing speed equal to one million or (strictly) 1,048,576 floating-point operations per second.
+megahertz
+1307
+0.143382178539994
+a unit of frequency equal to one million hertz.
+megapixel
+15755
+1.72837507490253
+a unit of graphic resolution equivalent to one million or (strictly) 1,048,576 (2²⁰) pixels
+menu-driven
+178
+0.019527182693282
+(of a program or computer) used by making selections from menus.
+message
+733955
+80.51726614408669
+a verbal, written, or recorded communication sent to or left for a recipient who cannot be contacted directly
+metadata
+30054
+3.297022183504957
+a set of data that describes and gives information about other data.
+metafile
+27
+0.00296198838606
+a piece of graphical information stored in a format that can be exchanged between different systems or software.
+metaverse
+85
+0.009324778252409
+a virtual-reality space in which users can interact with a computer-generated environment and other users.
+micro
+51860
+5.6892117667055
+a microcomputer.
+microblog
+3204
+0.351489288479068
+a social media site to which a user makes short, frequent posts
+microblogging
+5594
+0.613680112282117
+the activity or practice of making short, frequent posts to a microblog
+microbrowser
+6
+0.000658219641347
+a web browser for use with mobile phones and other handheld devices with small screens.
+microcode
+404
+0.044320122517335
+a very low-level instruction set which is stored permanently in a computer or peripheral controller and controls the operation of the device.
+microcomputer
+812
+0.089079058128902
+a small computer that contains a microprocessor as its central processor.
+microcontroller
+8055
+0.883659868507767
+a control device which incorporates a microprocessor.
+microinstruction
+2
+0.000219406547116
+a single instruction in microcode.
+microkernel
+193
+0.021172731796648
+a small modular part of an operating system kernel which implements its basic features.
+micropayment
+259
+0.02841314785146
+a very small payment made online.
+microprocessor
+4642
+0.509242595855128
+an integrated circuit that contains all the functions of a central processing unit of a computer.
+microprogram
+2
+0.000219406547116
+a microinstruction program that controls the functions of a central processing unit or peripheral controller of a computer.
+microsite
+2283
+0.250452573532369
+a small auxiliary website designed to function as a supplement to a primary website.
+middleware
+5977
+0.65569646605474
+software that acts as a bridge between an operating system or database and applications, especially on a network.
+minicomputer
+342
+0.037518519556755
+a computer of medium power, more than a microcomputer but less than a mainframe.
+minitower
+36
+0.003949317848079
+a small vertical case for a computer, or a computer mounted in such a case
+mips
+36
+0.003949317848079
+a unit of computing speed equivalent to a million instructions per second.
+mis
+1799
+0.197356189130415
+management information systems.
+misconfigure
+17
+0.001864955650482
+configure (a system or part of it) incorrectly
+miskey
+3
+0.000329109820674
+key (a word or piece of data) into a computer or other machine incorrectly
+mission-critical
+6924
+0.759585466113939
+(of hardware or software) vital to the functioning of an organization.
+mmo
+1575
+0.172782655853475
+an online video game which can be played by a very large number of people simultaneously
+mmog
+6
+0.000658219641347
+an online video game which can be played by a very large number of people simultaneously.
+mmorpg
+231
+0.025341456191843
+an online role-playing video game in which a very large number of people participate simultaneously.
+mms
+1297
+0.142285145804416
+Multimedia Messaging Service, a system that enables mobile phones to send and receive colour pictures and sound clips as well as text messages.
+mo
+15622
+1.713784539519346
+a short period of time
+moblog
+3
+0.000329109820673
+a blog that consists of pictures and other content posted from a mobile phone.
+moblogging
+0
+0
+the activity or practice of using a mobile phone to post pictures and other content to a blog
+mobo
+1449
+0.158960043385197
+a motherboard.
+mod
+24600
+2.698700529520929
+(in the UK) Ministry of Defence.
+modder
+1113
+0.122099743469788
+a person who makes modifications to something, especially computer hardware, computer software, or motor vehicles
+modem
+20820
+2.28402215547259
+a combined device for modulation and demodulation, for example, between the digital data of a computer and the analogue signal of a telephone line.
+mooc
+18
+0.001974658924039
+a course of study made available over the Internet without charge to a very large number of people
+motherboard
+19138
+2.099501249348436
+a printed circuit board containing the principal components of a computer or other device, with connectors for other circuit boards to be slotted into.
+mouseover
+239
+0.026219082380305
+a computer function in which an image or hyperlink can be generated by moving a cursor over a specific point on a web page
+mp
+3483
+0.382096501801686
+mezzo piano.
+mp3
+8137
+0.892655536939504
+a means of compressing a sound sequence into a very small file, to enable digital storage and transmission.
+mpc
+610
+0.066918996870235
+multimedia personal computer.
+mpeg
+235
+0.025780269286074
+an international standard for encoding and compressing video images.
+ms-dos
+13
+0.001426142556251
+Microsoft disk operating system.
+msn
+394
+0.043223089781758
+Microsoft Network.
+mtbf
+2
+0.000219406547116
+mean time between failures, a measure of the reliability of a device or system.
+multi-access
+84
+0.009215074978852
+(of a computer system) allowing the simultaneous connection of a number of terminals
+multicast
+1443
+0.15830182374385
+send (data) across a computer network to several users at the same time
+multimode
+1588
+0.174208798409724
+characterized by several different modes of activity or occurrence.
+multiplatform
+5206
+0.571115242141706
+compatible with or involving more than one type of computer or operating system
+multiplayer
+73523
+8.065713781787284
+denoting or relating to a video game designed for or involving several players.
+multiprocessor
+258
+0.028303444577902
+a computer with more than one central processor.
+multisession
+75
+0.008227745516832
+denoting a format for recording digital information on to a CD-ROM disc over two or more separate sessions.
+multithreading
+716
+0.078547543867357
+a technique by which a single set of code can be used by several processors at different stages of execution.
+multitouch
+3021
+0.331413589417997
+a technology allowing a touchscreen, trackpad, etc., to register multiple points of contact made on the surface simultaneously.
+multi-user
+2125
+0.233119456310243
+denoting a computer system that is able to be used by a number of people simultaneously.
+multivendor
+543
+0.059568877541865
+denoting or relating to computer hardware or software products or network services from more than one supplier.
+mung
+945
+0.103669593512084
+a small round green bean.
+nagware
+93
+0.010202404440872
+computer software which is free for a trial period and thereafter frequently reminds the user to pay for it.
+namespace
+4601
+0.50474476163926
+a class of elements (e.g. addresses, file locations, etc.) in which each element has a name unique to that class, although it may be shared with elements in other classes.
+nand
+328
+0.035982673726945
+a Boolean operator which gives the value zero if and only if all the operands have a value of one, and otherwise has a value of one (equivalent to NOT AND).
+nc
+649
+0.071197424538987
+network computer.
+nematic
+504
+0.055290449873112
+relating to or denoting a state of a liquid crystal in which the molecules are oriented in parallel but not arranged in well-defined planes.
+nested
+9418
+1.033185430366997
+(of similar objects of graduated sizes) placed or stored one inside the other
+netbook
+4768
+0.523065208323407
+a small laptop computer designed primarily for accessing Internet-based applications.
+nethead
+2
+0.000219406547116
+a habitual and expert user of the Internet
+netiquette
+117
+0.012835283006258
+the correct or acceptable way of using the Internet.
+netizen
+829
+0.090944013779385
+a user of the Internet, especially a habitual or keen one
+netroots
+79
+0.008666558611063
+political activists and campaigners who communicate their message over the Internet, especially via blogs
+networker
+827
+0.090724607232269
+a person who works from home or from an external office via a computer network.
+newbie
+12297
+1.34902115493979
+an inexperienced newcomer to a particular activity.
+newsgroup
+254
+0.027864631483671
+a forum on the Usenet service for the discussion of a particular topic.
+newswire
+2041
+0.223904381331391
+a service transmitting the latest news stories via satellite, the Internet, etc.
+nfc
+910
+0.099829978937563
+near field communication, a technology allowing the short-range wireless intercommunication of mobile phones and other electronic devices for purposes such as making payments
+n-gram
+100
+0.010970327355776
+A sequence of n letters or characters, especially one occurring within a longer sequence such as a passage of text.
+nlp
+32
+0.003510504753849
+natural language processing.
+node
+51613
+5.662115058136734
+a point in a network or diagram at which lines or pathways intersect or branch
+non-interlaced
+16
+0.001755252376924
+relating to a mode of video or computer graphic display in which adjacent lines or picture elements are displayed in succession, forming a single scanning sequence.
+non-proprietary
+589
+0.064615228125522
+not registered or protected as a trademark or brand name; generic.
+non-resident
+5040
+0.552904498731117
+not living or based in a particular place
+non-volatile
+2381
+0.26120349434103
+not volatile.
+noob
+2134
+0.234106785772263
+a person who is inexperienced in a particular sphere or activity, especially computing or the use of the Internet.
+notebook
+48466
+5.316878856250459
+a small book with blank or ruled pages for writing notes in
+notepad
+4391
+0.48170707419213
+a pad of blank or ruled pages for writing notes on.
+object-oriented
+2251
+0.24694206877852
+(of a programming language) using a methodology which enables a system to be modelled as a set of objects which can be controlled and manipulated in a modular manner.
+occam
+26
+0.002852285112502
+a computer programming language devised for use in parallel processing.
+off-board
+333
+0.036531190094734
+relating to or denoting hardware or software that does not form an integral part of a computer.
+offline
+71963
+7.894576675037176
+not controlled by or directly connected to a computer or the Internet.
+off-screen
+5408
+0.593275303400373
+not appearing on a cinema, television, or computer screen
+ohnosecond
+0
+0
+a moment in which one realizes that one has made a serious mistake, typically by pressing the wrong key on a computer keyboard.
+one-click
+4223
+0.463276924234426
+denoting a process or procedure that can be completed with one click of a button on a computer mouse, touchpad, etc.
+online
+1881413
+206.39716501412835
+controlled by or connected to a computer.
+onliner
+5
+0.000548516367789
+a person who is online; an Internet user
+open-source
+34836
+3.821623237658173
+denoting software for which the original source code is made freely available and may be redistributed and modified.
+optimize
+57914
+6.353355384824189
+make the best or most effective use of (a situation or resource)
+otaku
+915
+0.100378495305351
+(in Japan) a young person who is obsessed with computers or particular aspects of popular culture to the detriment of their social skills
+outliner
+154
+0.016894304127895
+a computer program, or part of a program, which allows its user to create and edit a hierarchically arranged outline of the logical structure of a document.
+overclock
+3125
+0.342822729868004
+run (the processor of one's computer) at a speed higher than that intended by the manufacturers.
+overtype
+4
+0.000438813094231
+type over (another character)
+overwrite
+2664
+0.292249520757877
+write on top of (other writing)
+p2p
+760
+0.083374487903899
+peer-to-peer.
+packetize
+5
+0.000548516367789
+partition or separate (data) into units for transmission in a packet-switching network
+palmtop
+106
+0.011628546997123
+a computer small and light enough to be held in one hand.
+pane
+11187
+1.227250521290675
+a single sheet of glass in a window or door.
+parallelize
+261
+0.028632554398576
+adapt (a program) to be suitable for running on a parallel processing system
+parameter
+40503
+4.443311688910006
+a numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation
+parser
+2589
+0.284021775241044
+a program for parsing.
+passphrase
+1157
+0.12692668750633
+a string of words that must be used to gain access to a computer system or service
+password
+121265
+13.303167467981924
+a secret word or phrase that must be used to gain admission to a place
+password-protected
+2089
+0.229170138462164
+(of a computer, file, etc.) accessible only to users entering the correct password
+patchboard
+2
+0.000219406547116
+a board in a switchboard, computer, or other device with a number of electric sockets that may be connected in various combinations.
+pathname
+97
+0.010641217535103
+a description of where a file or other item is to be found in a hierarchy of directories.
+pay-per-click
+1314
+0.144150101454898
+(on the Internet) a business model whereby a company that has placed an advertisement on a website pays a sum of money to the host website when a user clicks on to the advertisement
+paywall
+6728
+0.738083624496618
+(on a website) an arrangement whereby access is restricted to users who have paid to subscribe to the site.
+pb
+704
+0.077231104584664
+the chemical element lead.
+pcb
+752
+0.082496861715438
+printed circuit board.
+pci
+317
+0.03477593771781
+a standard for connecting computers and their peripherals.
+pcmcia
+23
+0.002523175291829
+Personal Computer Memory Card International Association, denoting a standard specification for memory cards and interfaces in personal computers.
+pda
+242
+0.026548192200978
+a palmtop computer that functions as a personal organizer but also provides email and Internet access.
+pdf
+14117
+1.548681112814916
+a file format for capturing and sending electronic documents in exactly the intended format
+peering
+10600
+1.162854699712269
+the exchange of data directly between Internet service providers, rather than via the Internet.
+peer-to-peer
+16344
+1.792990303028051
+denoting or relating to networks in which each computer can act as a server for the others, allowing shared access to files and peripherals without the need for a central server.
+perceptron
+208
+0.022818280900015
+a computer model or computerized machine devised to represent or simulate the ability of the brain to recognize and discriminate.
+perl
+729
+0.079973686423609
+a high-level general-purpose programming language used especially for developing Web applications.
+permadeath
+603
+0.066151073955329
+(in a video game) a situation in which a character cannot reappear after having been killed
+permalink
+595
+0.065273447766869
+a permanent static hyperlink to a particular web page or entry in a blog.
+petabyte
+867
+0.095112738174579
+a unit of information equal to one thousand million million (10¹⁵) or, strictly, 2⁵⁰ bytes.
+petaflop
+338
+0.037079706462524
+a unit of computing speed equal to one thousand million million (10¹⁵) floating-point operations per second.
+pgp
+33
+0.003620208027406
+an email encryption program.
+phablet
+17096
+1.875487164743487
+a smartphone having a screen which is intermediate in size between that of a typical smartphone and a tablet computer
+phishing
+21392
+2.34677242794763
+the fraudulent practice of sending emails purporting to be from reputable companies in order to induce individuals to reveal personal information, such as passwords and credit card numbers
+photoblog
+110
+0.012067360091354
+a blog in which the postings are primarily in the form of photographs
+photoblogging
+16
+0.001755252376925
+the activity or practice of posting photographs to a blog
+photoshop
+5297
+0.581098240035462
+alter (a photographic image) digitally using Photoshop image-editing software
+pim
+59
+0.006472493139908
+personal information manager.
+pingback
+99
+0.010860624082218
+an automatic notification sent when a link has been created to a person's blog post from an external website, allowing a reciprocal link to that website to be created
+pita
+10912
+1.197082121062291
+pain in the arse.
+pixel
+44212
+4.850201130535742
+a minute area of illumination on a display screen, one of many from which an image is composed
+plug-compatible
+15
+0.001645549103366
+relating to or denoting computing equipment which is compatible with devices or systems produced by different manufacturers, to the extent that it can be plugged in and operated successfully
+plug-in
+36863
+4.043991773159756
+able to be connected by means of a plug
+pnp
+52
+0.005704570225003
+denoting a semiconductor device in which an n-type region is sandwiched between two p-type regions.
+podcast
+85721
+9.403874312644856
+a digital audio file made available on the Internet for downloading to a computer or mobile device, typically available as a series, new instalments of which can be received by subscribers automatically.
+podcasting
+6084
+0.66743471632542
+the practice of using the Internet to make digital recordings of broadcasts available for downloading to a computer or mobile device
+point-and-click
+2377
+0.260764681246799
+denoting an interface in which the user points with a cursor and clicks on a mouse (or other input device) in order to initiate a function.
+port
+268641
+29.470797111830557
+a town or city with a harbour or access to navigable water where ships load or unload
+portability
+16065
+1.762383089705436
+the ability to be easily carried or moved
+portable
+113841
+12.488730365089102
+able to be easily carried or moved, especially because being of a lighter and smaller version than usual
+portlet
+167
+0.018320446684146
+an application used by a portal website to receive requests from clients and return information.
+posix
+32
+0.003510504753849
+a set of formal descriptions that provide a standard for the design of operating systems, especially ones which are compatible with Unix.
+posterize
+130
+0.014261425562509
+print or display (a photograph or other image) using only a small number of different tones
+posting
+243850
+26.751143257060093
+an appointment to a job, especially one abroad or in the armed forces
+powerpoint
+1322
+0.14502772764336
+a software package designed to create electronic presentations consisting of a series of separate pages or slides.
+power-up
+1813
+0.198892034960221
+the action of switching on an electrical device, especially a computer
+ppi
+5952
+0.652953884215796
+pixels per inch, a measure of the resolution of display screens, scanners, and printers.
+preconfigure
+45
+0.004936647310099
+configure in advance
+prefetch
+353
+0.03872525556589
+transfer (data) from main memory to temporary storage in readiness for later use
+preload
+2519
+0.276342546092001
+load beforehand
+premaster
+22
+0.002413472018271
+make a master copy of (data) on a hard disk before writing it to a CD-ROM.
+prepend
+122
+0.013383799374047
+add (something) to the beginning of something else
+preprocess
+85
+0.00932477825241
+subject (data) to preliminary processing
+preprocessor
+505
+0.055400153146669
+a computer program that modifies data to conform with the input requirements of another program.
+pre-production
+7755
+0.850748886440439
+work done on a product, especially a film or broadcast programme, before full-scale production begins
+preprogram
+67
+0.00735011932837
+program (a computer or other electronic device) in advance
+printhead
+382
+0.041906650499065
+a component in a printer that assembles and holds the characters and from which the images of the characters are transferred to the printing medium.
+printout
+2483
+0.272393228243921
+a page or set of pages of printed material obtained from a computer's printer
+processor
+171159
+18.776702598872866
+a machine that processes something
+profiling
+30980
+3.398607414819446
+the recording and analysis of a person's psychological and behavioural characteristics, so as to assess or predict their capabilities in a certain sphere or to assist in identifying categories of people
+programmable
+14995
+1.645000586998631
+(of a computer or other machine) able to be provided with coded instructions for the automatic performance of a task
+programmer
+22297
+2.446053890517404
+a person who writes computer programs
+programming
+202479
+22.212609126701945
+the process of writing computer programs
+prolog
+98
+0.010750920808661
+a high-level computer programming language first devised for artificial intelligence applications.
+pseudocode
+151
+0.016565194307222
+a notation resembling a simplified programming language, used in program design.
+pseudorandom
+249
+0.027316115115882
+(of a number, a sequence of numbers, or any digital data) satisfying one or more statistical tests for randomness but produced by a definite mathematical procedure
+pull-down
+2306
+0.252975748824197
+(of a menu) appearing below a menu title only while selected.
+puter
+228
+0.02501234637117
+a computer.
+qwerty
+1059
+0.116175766697669
+denoting the standard layout on English-language typewriters and keyboards, having q, w, e, r, t, and y as the first keys from the left on the top row of letters
+randomize
+874
+0.095880661089484
+make random in order or arrangement; employ random selection or sampling in (an experiment or procedure)
+ransomware
+16387
+1.797707543791034
+a type of malicious software designed to block access to a computer system until a sum of money is paid
+rasterize
+74
+0.008118042243276
+convert (an image stored as an outline) into pixels that can be displayed on a screen or printed
+rdbms
+7
+0.000767922914904
+relational database management system.
+rdf
+12
+0.001316439282693
+a model for encoding semantic relationships between items of data so that these relationships can be interpreted computationally
+read-in
+66
+0.007240416054812
+the input or entry of data to a computer or storage device.
+read-only
+2550
+0.279743347572292
+(of memory, data, or a file) able to be accessed but not modified
+read-out
+845
+0.092699266156308
+a visual record or display of the output from a computer or scientific instrument
+read-write
+393
+0.0431133865082
+capable of reading existing data and accepting alterations or further input.
+reblog
+490
+0.053754604043302
+(on a blog) post (content that has previously been posted on another blog)
+reboot
+49805
+5.463771539544301
+(with reference to a computer system) boot or be booted again
+recode
+473
+0.051889648392821
+put (something, especially a computer program) into a different code
+recompile
+670
+0.0735011932837
+compile (a computer program) again or differently
+reflow
+990
+0.108606240822184
+the action of rearranging electronic text on a page having varied such features as type size, line length, and spacing.
+reformat
+1750
+0.191980728726082
+give a new format to; revise or represent in another format
+regex
+914
+0.100268792031794
+a regular expression.
+reinstall
+6680
+0.732817867365845
+place or fix (equipment or machinery) in position again
+rekey
+127
+0.013932315741836
+enter (text or other data) again using a keyboard
+relink
+102
+0.011189733902892
+connect or join again
+remap
+859
+0.094235111986117
+assign (a function) to a different key
+repartition
+198
+0.021721248164437
+partition or divide (something) again.
+reprogram
+2861
+0.313861065648755
+program (a computer or something likened to one) again or differently
+repurpose
+4788
+0.525259273794561
+adapt for use in a different purpose
+res
+9358
+1.026603233953531
+resolution
+rescale
+197
+0.021611544890879
+change the scale of (something)
+resize
+6551
+0.718666145076894
+alter the size of (something, especially a computer window or image)
+rewritable
+412
+0.045197748705798
+(of a storage device) supporting overwriting of previously recorded data.
+rfc
+40
+0.004388130942311
+(in computing) request for comment, a document circulated on the Internet which forms the basis of a technical standard.
+right-click
+8149
+0.893971976222196
+select an item in a graphical user interface by pressing the right-hand button of a mouse
+risc
+38
+0.004168724395194
+computers or computing based on a form of microprocessor designed to perform a limited set of operations extremely quickly
+rootkit
+1337
+0.146673276746726
+a set of software tools that enable an unauthorized user to gain control of a computer system without being detected.
+router
+52346
+5.742527557654573
+a power tool with a shaped cutter, used in carpentry for making grooves for joints, decorative mouldings, etc.
+rpg
+9265
+1.016400829512659
+report program generator, a high-level commercial computer programming language.
+rss
+855
+0.093796298891886
+a standardized system for the distribution of content from an online publisher to Internet users
+rtf
+147
+0.01612638121299
+rich text format, developed to allow the transfer of graphics and formatted text between different applications and operating systems.
+rtfm
+8
+0.000877626188462
+read the fucking manual (used especially in email in reply to a question whose answer is patently obvious).
+scalability
+18507
+2.030278483733488
+the capacity to be changed in size or scale
+scareware
+313
+0.034337124623579
+malicious computer programs designed to trick a user into buying and downloading unnecessary and potentially dangerous software, such as fake antivirus protection
+scheduler
+3837
+0.42093146064113
+a person or machine that organizes or maintains schedules.
+screencap
+569
+0.062421162654366
+a screenshot
+screencast
+650
+0.071307127812545
+a video recording or transmission of the data displayed on the screen of a computer or mobile device, typically with accompanying audio
+screenshot
+26729
+2.932258798925402
+an image of the data displayed on the screen of a computer or mobile device
+scroller
+593
+0.065054041219752
+a video game in which the background scrolls past at a constant rate.
+scrolling
+24507
+2.688498125080057
+the action of moving displayed text or graphics up, down, or across on a computer screen in order to view different parts of them
+scsi
+80
+0.008776261884621
+small computer system interface, a standard for connecting computers and their peripherals together.
+seaq
+0
+0
+(in the UK) Stock Exchange Automated Quotations (the computer system on which dealers trade shares and seek or provide price quotations on the London Stock Exchange).
+selfie
+54098
+5.934727692927771
+a photograph that one has taken of oneself, typically one taken with a smartphone or webcam and shared via social media
+send
+645658
+70.83079619875704
+cause to go or be taken to a particular destination; arrange for the delivery of, especially by post
+sequential
+28451
+3.121167835991866
+forming or following in a logical order or sequence
+servlet
+585
+0.064176415031291
+an applet that runs on a server, typically within Java
+sgml
+1
+0.000109703273558
+Standard Generalized Markup Language, an international standard for defining methods of encoding electronic texts to describe layout, structure, syntax, etc., which can then be used for analysis or to display the text in any desired format.
+shareware
+1228
+0.134715619928931
+software that is available free of charge and often distributed informally for evaluation, after which a fee may be requested for continued use.
+shovelware
+1339
+0.146892683293843
+software or online content that has been added to a CD or placed on the Internet without having been altered so as to suit the new medium.
+shutdown
+90946
+9.977073916984159
+a closure of a factory or system, typically a temporary closure due to a fault or for maintenance
+sig
+1410
+0.154681615716443
+a short personalized message at the end of an email.
+sim
+30801
+3.378970528852606
+a video game that simulates an activity such as flying an aircraft or playing a sport
+simm
+53
+0.005814273498562
+single in-line memory module, containing RAM chips.
+simplex
+3439
+0.377269557765141
+composed of or characterized by a single part or structure.
+single-player
+10442
+1.145521582490143
+denoting or relating to a video game designed for one player only
+skype
+3176
+0.34841759681945
+have a spoken conversation with (someone) over the Internet using the software application Skype, typically also viewing by webcam
+sla
+67
+0.00735011932837
+service level agreement.
+slacktivism
+302
+0.033130388614444
+the practice of supporting a political or social cause by means such as social media or online petitions, characterized as involving very little effort or commitment
+smartphone
+425160
+46.6414437858178
+a mobile phone that performs many of the functions of a computer, typically having a touchscreen interface, Internet access, and an operating system capable of running downloaded apps.
+smartwatch
+34618
+3.797707924022581
+a mobile device with a touchscreen display, designed to be worn on the wrist
+smishing
+99
+0.01086062408222
+the fraudulent practice of sending text messages purporting to be from reputable companies in order to induce individuals to reveal personal information, such as passwords or credit card numbers
+smtp
+190
+0.020843621975975
+Simple Mail Transfer (or Transport) Protocol, a standard for the transmission of email on a computer network.
+snackable
+416
+0.045636561800029
+(of food) suitable to be eaten as a snack
+snobol
+1
+0.000109703273558
+a high-level computer programming language used especially in manipulating textual data.
+softphone
+570
+0.062530865927924
+a piece of software that allows the user to make telephone calls over the Internet.
+software
+1114669
+122.28283823335623
+the programs and other operating information used by a computer
+soundex
+15
+0.001645549103366
+a phonetic coding system intended to suppress spelling variations, used especially to encode surnames for the linkage of medical and other records
+spam
+41675
+4.571883925519703
+irrelevant or unsolicited messages sent over the Internet, typically to a large number of users, for the purposes of advertising, phishing, spreading malware, etc.
+spambot
+230
+0.025231752918285
+an autonomous program on the Internet that sends spam to a large number of users or posts spam on online forums
+spammer
+1394
+0.152926363339519
+a person or organization that sends irrelevant or unsolicited messages over the Internet, typically to large numbers of users, for the purposes of advertising, phishing, spreading malware, etc
+spammy
+3361
+0.368712702427636
+denoting, relating to, or constituting Internet spam
+sparkline
+39
+0.004278427668752
+a small graphic designed to give a quick representation of numerical or statistical information within a piece of text, taking the form of a graph without axes
+spellcheck
+652
+0.07152653435966
+check the spelling in (a text) using a spellchecker
+spellchecker
+296
+0.032472168973098
+a computer program that checks the spelling of words in a text, typically by comparison with a stored list of words.
+spin-down
+148
+0.016236084486549
+a decrease in the speed of rotation of a spinning object, in particular a celestial object or computer disc.
+spreadsheet
+22057
+2.41972510486354
+an electronic document in which data is arranged in the rows and columns of a grid and can be manipulated and used in calculations
+spyware
+7989
+0.876419452452955
+software that enables a user to obtain covert information about another's computer activities by transmitting data covertly from their hard drive.
+sql
+2226
+0.244199486939578
+Structured Query Language, an international standard for database manipulation.
+ssd
+1422
+0.155998054999137
+a storage device containing non-volatile flash memory, used in place of a hard disk because of its much greater speed
+ssl
+616
+0.067577216511581
+Secure Sockets Layer, a computing protocol that ensures the security of data sent via the Internet by using encryption.
+stand-alone
+26905
+2.951566575071567
+(of computer hardware or software) able to operate independently of other hardware or software
+static
+65076
+7.139050230044874
+lacking in movement, action, or change, especially in an undesirable or uninteresting way
+steganography
+327
+0.035872970453388
+the practice of concealing messages or information within other non-secret text or data.
+stereogram
+63
+0.006911306234139
+a diagram or computer-generated image giving a three-dimensional representation of a solid object or surface.
+stereolithography
+480
+0.052657571307725
+a technique or process for creating three-dimensional objects, in which a computer-controlled moving laser beam is used to build up the required structure, layer by layer, from a liquid polymer that hardens on contact with laser light.
+stopword
+5
+0.000548516367789
+a word that is automatically omitted from a computer-generated concordance or index.
+storage
+544388
+59.72114568556256
+the action or method of storing something for future use
+streamable
+378
+0.041467837404833
+(of video or audio material) able to be transmitted or received over the Internet in a steady, continuous flow
+streaming
+248566
+27.26850389515849
+a method of transmitting or receiving data (especially video and audio material) over a computer network as a steady, continuous flow, allowing playback to start while the rest of the data is still being received.
+subdirectory
+579
+0.063518195389944
+a directory below another directory in a hierarchy.
+subdomain
+1298
+0.142394849077975
+a subdivision of a domain
+subfolder
+727
+0.079754279876492
+a folder contained within another folder
+submenu
+879
+0.096429177457272
+a menu accessed from a more general menu.
+subnetwork
+515
+0.056497185882247
+a part of a larger network such as the Internet.
+subroutine
+431
+0.047282110903395
+a set of instructions designed to perform a frequently used operation within a program.
+subscription
+123076
+13.501840096395028
+an arrangement to receive something, typically a publication, regularly by paying in advance
+subsystem
+4303
+0.472053186119047
+a self-contained system within a larger system.
+supercomputer
+8820
+0.967582872779455
+a particularly powerful mainframe computer.
+supercut
+1218
+0.133618587193353
+a compilation of a large number of short video clips, typically showing examples of a repeated or clichéd action or phrase in films or broadcasts
+superscalar
+104
+0.011409140450008
+denoting a microprocessor architecture where several instructions are loaded at once and, as far as possible, are executed simultaneously, shortening the time taken to run the whole program.
+supertwist
+1
+0.000109703273558
+denoting a type of liquid crystal display used in portable computers, in which to change state the plane of polarized light passing through the display is rotated by at least 180 degrees.
+superuser
+337
+0.036970003188966
+a user of a computer system with special privileges needed to administer and maintain the system; a system administrator.
+svga
+6
+0.000658219641347
+super video graphics array, a high-resolution standard for monitors and screens
+swapfile
+17
+0.001864955650482
+a file on a hard disk used to provide space for programs which have been transferred from the processor's memory.
+synthespian
+13
+0.001426142556251
+a computer-generated three-dimensional character, either in a wholly animated film or in one that is a mixture of live action and computer animation
+sysadmin
+798
+0.087543212299094
+a system administrator.
+sysop
+90
+0.009873294620199
+a system operator.
+tabulator
+93
+0.010202404440872
+a person or thing that arranges data in tabular form
+talkboard
+5
+0.000548516367789
+an online forum or chat room.
+taskbar
+4694
+0.514947166080132
+a bar at the edge of the display of a graphical user interface that allows quick access to current or favourite applications
+tcp
+388
+0.042564870140412
+a disinfectant and germicidal solution containing various phenols and sodium salicylate.
+tcp/ip
+0
+0
+a set of rules that governs the connection of computer systems to the Internet.
+technopreneur
+10
+0.001097032735578
+(especially in South and SE Asia) a person who sets up a business concerned with computers or similar technology.
+tech-savvy
+9744
+1.068948697546826
+well informed about or proficient in the use of modern technology, especially computers
+telecomputer
+0
+0
+a device that combines the capabilities of a computer with those of a television and a telephone, particularly for multimedia applications.
+teleconference
+6095
+0.668641452334556
+a conference with participants in different locations linked by telecommunication devices.
+teleconferencing
+1212
+0.132960367552007
+the use of telecommunication devices to hold discussions between participants in different locations
+telecottage
+0
+0
+a room or building, especially in a rural area, filled with computer equipment for the shared use of people living in the area.
+telepresence
+2366
+0.259557945237663
+the use of virtual reality technology, especially for remote control of machinery or for apparent participation in distant events.
+telescreen
+73
+0.008008338969717
+a television screen or other visual display terminal
+teleshopping
+64
+0.007021009507698
+the ordering of goods by customers using a telephone or direct computer link.
+telesoftware
+0
+0
+software transmitted or broadcast via a network or television system.
+teletex
+3
+0.000329109820673
+an enhanced version of telex.
+teletext
+284
+0.031155729690404
+a news and information service in the form of text and graphics, transmitted using the spare capacity of existing television channels to televisions with appropriate receivers.
+teletypewriter
+39
+0.004278427668753
+a teleprinter.
+telnet
+713
+0.078218434046683
+a network protocol that allows a user on one computer to log into another computer that is part of the same network.
+terabyte
+3089
+0.338873412019925
+a unit of information equal to one million million (10¹²) or, strictly, 2⁴⁰ bytes.
+teraflop
+238
+0.026109379106747
+a unit of computing speed equal to one million million (10¹²) floating-point operations per second.
+textspeak
+60
+0.006582196413465
+language regarded as characteristic of text messages, consisting of abbreviations, acronyms, initials, emoticons, etc.
+throughput
+25692
+2.818496504246003
+the amount of material or items passing through a system or process
+til
+18628
+2.043552579833978
+today I learned
+timestamp
+2061
+0.226098446802546
+a digital record of the time of occurrence of a particular event
+tokenize
+116
+0.012725579732701
+substitute a randomly generated identifier for (a sensitive piece of data) in order to prevent unauthorized access
+toolbar
+10074
+1.105150777820888
+(in a program with a graphical user interface) a strip of icons that can be clicked to perform certain functions.
+toolbox
+8643
+0.948165393359731
+a box or container for keeping tools in.
+toolset
+3502
+0.384180863999281
+a set of software tools.
+tooltip
+785
+0.086117069742843
+a message which appears when a cursor is positioned over an icon, image, hyperlink, or other element in a graphical user interface.
+touchpad
+11956
+1.311612338656594
+a computer input device in the form of a small panel containing different touch-sensitive areas.
+touchscreen
+53445
+5.863091455294552
+a display device which allows the user to interact with a computer by touching areas on the screen.
+touch-sensitive
+3427
+0.375953118482448
+(of an electronic device's interface or display) responsive to touch
+trackback
+135
+0.014809941930297
+an automatic notification sent when a link has been created to a person's blog post from an external website, allowing a reciprocal link to that website to be created
+trackball
+874
+0.095880661089484
+a small ball that is set in a holder and can be rotated by hand to move a cursor on a computer screen.
+transcode
+858
+0.09412540871256
+convert (language or information) from one form of coded representation to another
+translator
+18580
+2.038286822703204
+a person who translates from one language into another, especially as a profession
+transputer
+9
+0.00098732946202
+a microprocessor with integral memory designed for parallel processing.
+trapdoor
+1075
+0.117931019074593
+a hinged or removable panel in a floor, ceiling, or roof.
+trending
+55976
+6.140750440669247
+currently popular or widely discussed online, especially on social media websites
+troll
+37963
+4.164665374073292
+(in folklore) an ugly creature depicted as either a giant or a dwarf.
+tsr
+11
+0.001206736009135
+terminate and stay resident, denoting a type of program that remains in the memory of a computer after it has finished running and which can be quickly reactivated.
+tts
+71
+0.007788932422601
+text-to-speech, a form of speech synthesis used to create a spoken version of the text in an electronic document.
+tuple
+529
+0.058033031712056
+a data structure consisting of multiple parts.
+tweeps
+395
+0.043332793055316
+a person's followers on the social media application Twitter
+tweetup
+85
+0.00932477825241
+a meeting or other gathering organized by means of posts on the social media application Twitter.
+twitterati
+286
+0.031375136237521
+avid or frequent users of the social media application Twitter
+twittersphere
+333
+0.036531190094735
+users of the social media application Twitter, considered collectively
+twitterverse
+316
+0.034666234444252
+users of the social media application Twitter, considered collectively
+ugc
+31
+0.00340080148029
+user-generated content.
+ultrabook
+5042
+0.553123905278232
+a thin, lightweight form of laptop having similar functionality to an ordinary laptop but lacking some of its hardware features
+ultraportable
+2081
+0.228292512273701
+a type of laptop computer that is very slim and lightweight.
+unbundle
+821
+0.090066387590922
+market or charge for (items or services) separately rather than as part of a package
+unclick
+69
+0.007569525875485
+deselect (an option on an electronic interface) by pressing a button on a mouse or screen
+uncomment
+208
+0.022818280900015
+change (a piece of text within a program) from being a comment to be part of the program that is run by the computer.
+uncompressed
+3161
+0.346772047716084
+(of data) not compressed.
+undelete
+344
+0.03773792610387
+cancel the deletion of (text or a file).
+unformatted
+178
+0.019527182693281
+(of a document, storage medium, etc.) not formatted.
+ungroup
+69
+0.007569525875486
+separate (items) from a group formed within a word-processing or graphics package
+unicode
+515
+0.056497185882247
+an international encoding standard for use with different languages and scripts, by which each letter, digit, or symbol is assigned a unique numeric value that applies across different platforms and programs.
+uninstall
+9971
+1.093851340644438
+remove (an application or file) from a computer.
+unix
+659
+0.072294457274564
+an operating system analogous to DOS and Windows, supporting multiple concurrent users
+unmoderated
+304
+0.03334979516156
+(of an online forum or chat room) not monitored for inappropriate or offensive content.
+unpatched
+2250
+0.246832365504963
+(especially of a computer routine or program) not provided with a patch.
+unpublish
+77
+0.008447152063948
+make (content that has previously been published online) unavailable to the public
+unsecure
+1313
+0.144040398181341
+(especially of a computer system) not protected against attack or other criminal activity
+unselect
+115
+0.012615876459143
+cancel the selection of.
+unsend
+138
+0.015139051750972
+use a facility in an email program to prevent (an email that has already been sent) from being received by the addressee
+unsubscribe
+3330
+0.365311900947345
+cancel a subscription to an electronic mailing list or online service.
+untag
+188
+0.020624215428859
+remove a tag identifying a person from (digital content, typically a photograph) on a social networking site
+upload
+69446
+7.618453535492292
+transfer (data) from one computer to another, typically to one that is larger or remote from the user or functioning as a server
+uptime
+6648
+0.729307362611997
+time during which a machine, especially a computer, is in operation.
+upvote
+1314
+0.144150101454898
+(in an online context) register approval of or agreement with (a post or poster) by means of a particular icon
+url
+14798
+1.623389042107752
+the address of a World Wide Web page
+usb
+9050
+0.99281462569774
+universal serial bus, a standardized technology for attaching peripheral devices to a computer.
+usenet
+259
+0.02841314785146
+an early non-centralized computer network for the discussion of particular topics and the sharing of files via newsgroups.
+user-definable
+165
+0.018101040137031
+having a function or meaning that can be specified and varied by a user.
+user-friendly
+23950
+2.627393401708382
+(of a machine or system) easy to use or understand
+user-generated
+6084
+0.66743471632542
+denoting or relating to material on a website that is voluntarily contributed by members of the public who use the site
+user-hostile
+64
+0.007021009507697
+(of a machine or system) difficult to use or understand
+username
+16897
+1.853656213305493
+an identification used by a person with access to a computer, network, or online service.
+user-oriented
+227
+0.024902643097612
+(of a machine or system) designed with the user's convenience given priority
+uwb
+0
+0
+ultra wideband, a radio communications technology for the transmission of signals over a very broad range of frequencies, typically using very low-energy pulses with a duration of a nanosecond or less.
+vapourware
+205
+0.022489171079341
+software or hardware that has been advertised but is not yet available to buy, either because it is only a concept or because it is still being written or designed.
+vdt
+4
+0.000438813094231
+visual display terminal.
+vesa
+55
+0.006033680045677
+Video Electronics Standards Association, a US-based organization that defines formats for displays and buses used in computers.
+vga
+316
+0.034666234444253
+videographics array, a standard for defining colour display screens for computers
+videocast
+95
+0.010421810987988
+a podcast with video content
+videoconference
+1333
+0.146234463652496
+a conference in which participants in different locations are able to communicate with each other in sound and vision.
+videoconferencing
+4327
+0.474686064684433
+telecommunication in the form of a videoconference
+videographics
+4
+0.000438813094231
+visual images produced using computer technology.
+viewdata
+12
+0.001316439282693
+a news and information service in which computer data is sent by a telephone link and displayed on a monitor.
+viewgraph
+5
+0.000548516367789
+a graph or other data produced as a transparency for projection on to a screen or for transmission during a teleconference.
+viewscreen
+84
+0.009215074978852
+the screen on a television, computer, or similar device on which images and data are displayed.
+viewshed
+104
+0.011409140450007
+the view of an area from a specific vantage point
+virality
+1468
+0.161044405582794
+the tendency of an image, video, or piece of information to be circulated rapidly and widely from one Internet user to another; the quality or fact of being viral
+virtualize
+1162
+0.127475203874119
+convert (something) to a computer-generated simulation of reality
+vlog
+1259
+0.138116421409222
+a personal website or social media account where a person regularly posts short videos
+vlogger
+1449
+0.158960043385196
+a person who regularly posts short videos to a vlog
+vlogging
+628
+0.068893655794275
+the activity or practice of posting short videos to or maintaining a vlog
+vlsi
+3
+0.000329109820673
+very large-scale integration, the process of integrating hundreds of thousands of components on a single silicon chip.
+voice-activated
+3200
+0.351050475384835
+(of an electronic device) able to be controlled by spoken commands
+vortal
+4
+0.000438813094231
+a website or web page that provides a directory of links to information related to a particular industry.
+voxel
+3369
+0.369590328616097
+(in computer-based modelling or graphic simulation) each of an array of elements of volume that constitute a notional three-dimensional space, especially each of an array of discrete elements into which a representation of a three-dimensional object is divided.
+vpn
+617
+0.067686919785139
+virtual private network, an arrangement whereby a secure, apparently private network is achieved using encryption over a public network, typically the Internet.
+vrml
+3
+0.000329109820674
+virtual reality modelling language.
+vuln
+196
+0.021501841617321
+wound
+wais
+21
+0.002303768744713
+wide area information service, designed to provide access to information across a computer network.
+walk-through
+5341
+0.585925184072004
+a tour or demonstration of an area or task
+wap
+282
+0.03093632314329
+Wireless Application Protocol, a set of protocols enabling mobile phones and other radio devices to be connected to the Internet.
+warez
+240
+0.026328785653863
+software that has been illegally copied and made available
+wavetable
+481
+0.052767274581284
+a file or memory device containing data that represents a sound such as a piece of music.
+webcam
+15542
+1.705008277634727
+a video camera connected to a computer, allowing its images to be seen by Internet users.
+webcast
+13440
+1.474411996616311
+a video broadcast of an event transmitted across the Internet.
+webcasting
+946
+0.103779296785642
+the action or practice of broadcasting an event on the Internet
+webcomic
+732
+0.080302796244281
+a series of comic strips published online
+webinar
+16821
+1.845318764515103
+a seminar conducted over the Internet.
+webisode
+597
+0.065492854313984
+an original episode derived from a television series, made for online viewing.
+weblink
+257
+0.028193741304345
+a printed address of a website in a book, newspaper, etc.
+webmail
+2308
+0.253195155371314
+an email system in which a user can access their emails via a browser on any computer or device that is connected to the Internet
+webmaster
+4189
+0.459547012933462
+the person who maintains a particular website.
+website
+1145922
+125.71139464185693
+a set of related web pages located under a single domain name
+webspace
+104
+0.011409140450008
+an amount of disk storage space allowed on an Internet server.
+webtoon
+264
+0.028961664219249
+an animated cartoon or series of comic strips published online
+webzine
+196
+0.021501841617321
+a magazine published electronically on the Internet
+wetware
+223
+0.024463830003381
+human brain cells or thought processes regarded as analogous to, or in contrast with, computer systems
+whiteboard
+6599
+0.723931902207667
+a wipeable board with a white surface used for teaching or presentations.
+wi-fi
+13230
+1.451374309169182
+a facility allowing computers, smartphones, or other devices to connect to the Internet or communicate with one another wirelessly within a particular area.
+wiki
+8725
+0.957161061791468
+a website or database developed collaboratively by a community of users, allowing any user to add and edit content.
+wimp
+2705
+0.296747354973745
+a weak and cowardly or unadventurous person.
+windowing
+977
+0.107180098265933
+the use of windows for the simultaneous display of more than one item on a screen
+windows
+259173
+28.43212651778567
+a GUI operating system for personal computers.
+wired
+40869
+4.483463087032147
+making use of computers to transfer or receive information, especially by means of the Internet
+wireframe
+1202
+0.131863334816429
+a skeletal three-dimensional model in which only lines and vertices are represented.
+wlan
+118
+0.012944986279816
+wireless local area network.
+wml
+4
+0.000438813094231
+Wireless Markup Language, a metalanguage that enables text from web pages to be displayed on cellular phones.
+word-process
+7
+0.000767922914904
+produce (a document or text) on a computer or word processor
+workalike
+20
+0.002194065471155
+a computer that is able to use the software of another machine without modification.
+workaround
+7944
+0.871482805142856
+a method for overcoming a problem or limitation in a program or system.
+workstation
+13101
+1.437222586880231
+a desktop computer terminal, typically networked and more powerful than a personal computer.
+wp
+1817
+0.199330848054453
+word processing or word processor.
+wristwear
+243
+0.026657895474536
+watches, bracelets, and other articles worn on the wrist
+write-once
+106
+0.011628546997123
+denoting a memory or storage device, typically an optical one, on which data, once written, cannot be modified.
+write-protect
+39
+0.004278427668753
+protect (a disk) from accidental writing or erasure
+www
+3401
+0.373100833369949
+World Wide Web.
+wysiwyg
+83
+0.009105371705295
+denoting the representation of text on-screen in a form exactly corresponding to its appearance on a printout.
+xbrl
+4
+0.000438813094232
+an XML-based markup language used for standardized reporting of business information, especially that relating to a company’s financial performance
+xhtml
+49
+0.005375460404331
+Extensible Hypertext Markup Language, a hybrid of HTML and XML.
+xml
+2234
+0.245077113128038
+a metalanguage which allows users to define their own customized markup languages, especially in order to display documents on the Internet.
+y2k
+48
+0.005265757130773
+year 2000 (with reference to the millennium bug).
+yottabyte
+68
+0.007459822601928
+a unit of information equal to one septillion (10²⁴) or, strictly, 2⁸⁰ bytes.
+youtube
+22811
+2.502441373126093
+upload a video of (someone or something) to the video-sharing website YouTube
+youtuber
+253
+0.027754928210114
+a person who uploads, produces, or appears in videos on the video-sharing website YouTube
+zb
+119
+0.013054689553375
+zettabyte(s).
+zero-day
+5096
+0.559047882050352
+deriving from or relating to a previously unknown vulnerability to attack in some software
+zettabyte
+180
+0.019746589240397
+a unit of information equal to one sextillion (10²¹) or, strictly, 2⁷⁰ bytes.

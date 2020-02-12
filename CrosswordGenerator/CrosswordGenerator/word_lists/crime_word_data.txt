@@ -1,0 +1,964 @@
+abductor
+2132
+0.233887379225147
+a person who abducts another person
+accomplice
+14068
+1.543305652410586
+a person who helps another commit a crime
+alibi
+4646
+0.509681408949359
+a claim or piece of evidence that one was elsewhere when an act, typically a criminal one, is alleged to have taken place
+arsonist
+2213
+0.242773344383326
+a person who commits arson
+assailant
+11038
+1.210904733530569
+a person who physically attacks another
+assassin
+15229
+1.670671153011147
+a person who murders an important person for political or religious reasons.
+assassination
+41134
+4.512534454524953
+the action of assassinating someone
+baby-snatcher
+8
+0.000877626188462
+a person who abducts a very young child.
+bagman
+526
+0.057703921891383
+an agent who collects or distributes the proceeds of illicit activities.
+bandit
+4257
+0.46700683553539
+a robber or outlaw belonging to a gang and typically operating in an isolated or lawless area
+bandito
+71
+0.007788932422601
+a Mexican bandit, especially as represented in films and popular culture.
+bandolero
+7
+0.000767922914904
+a Spanish bandit.
+bandulu
+2
+0.000219406547116
+crime or fraudulent dealings
+bashing
+26650
+2.923592240314339
+violent physical assault
+bilk
+739
+0.081070719159186
+obtain or withhold money from (someone) unfairly or by deceit; cheat or defraud
+bioterrorism
+1179
+0.1293401595246
+the use of infectious agents or other harmful biological or biochemical substances as weapons of terrorism.
+blab
+666
+0.073062380189468
+reveal secrets by indiscreet talk
+blackmail
+17044
+1.869782594518483
+the action, treated as a criminal offence, of demanding money from someone in return for not revealing compromising information which one has about them
+blagging
+347
+0.038067035924543
+the action of obtaining something by using persuasion or guile
+bobol
+0
+0
+fraudulent activity, typically involving the misuse of public funds.
+bodysnatcher
+7
+0.000767922914904
+a person who illicitly disinterred corpses for dissection, for which there was no legal provision until 1832.
+boodle
+104
+0.011409140450008
+money, especially that gained or spent illegally or improperly
+bootleg
+5042
+0.553123905278232
+(of alcoholic drink or a recording) made, distributed, or sold illegally
+bootlegging
+1133
+0.124293808940943
+the illegal manufacture, distribution, or sale of goods, especially alcohol or recordings
+booty
+11150
+1.223191500169039
+valuable stolen goods, especially those seized in war.
+borgata
+11
+0.001206736009135
+an organized branch of the Mafia.
+bravo
+8487
+0.931051682684721
+used to express approval when a performer or other person has done something well
+break-in
+10371
+1.137732650067543
+an illegal forced entry of a building or vehicle, typically to steal something
+bribery
+31401
+3.444792492987262
+the giving or offering of a bribe
+brigand
+194
+0.021282435070206
+a member of a gang that ambushes and robs people in forests and mountains.
+bunco
+84
+0.009215074978852
+a swindle or confidence trick
+burglar
+12110
+1.328506642784489
+a person who commits burglary.
+burglary
+39229
+4.303549718397418
+illegal entry of a building with intent to commit a crime, especially theft
+burgle
+852
+0.093467189071213
+enter (a building) illegally with intent to commit a crime, especially theft.
+bushrange
+0
+0
+hold up and rob people, especially travellers
+camorra
+23
+0.002523175291829
+a criminal organization originating in Naples and Neapolitan emigrant communities in the 19th century. Some members later moved to the US and formed links with the Mafia.
+candyman
+28
+0.003071691659617
+a person who sells illegal drugs
+capo
+1250
+0.137129091947202
+a clamp fastened across all the strings of a fretted musical instrument to raise their tuning by a chosen amount.
+carjack
+589
+0.064615228125522
+steal (an occupied car) in a violent manner
+carjacking
+4900
+0.53754604043303
+the action of violently stealing an occupied car
+carnapping
+9
+0.00098732946202
+The act or an instance of stealing a motor vehicle.
+chantage
+1
+0.000109703273558
+the extortion of money by blackmail.
+cheat
+44996
+4.936208497005027
+act dishonestly or unfairly in order to gain an advantage
+consigliere
+646
+0.070868314718314
+a member of a Mafia family who serves as an adviser to the leader and resolves disputes within the family.
+conspiracy
+117283
+12.86632903267492
+a secret plan by a group to do something unlawful or harmful
+contraband
+10577
+1.160331524420442
+goods that have been imported or exported illegally
+corrupt
+111082
+12.186059033343241
+having or showing a willingness to act dishonestly in return for money or personal gain
+corruptibility
+57
+0.006253086592792
+the quality of being able to be persuaded to act dishonestly or immorally for personal gain
+corruption
+284708
+31.2333996080831
+dishonest or fraudulent conduct by those in power, typically involving bribery
+counterfeit
+25025
+2.745324420782978
+made in exact imitation of something valuable with the intention to deceive or defraud
+countrymade
+345
+0.037847629377427
+(especially of a weapon) manufactured by an illegal cottage industry.
+cover-up
+16761
+1.838736568101637
+an attempt to prevent people discovering the truth about a serious mistake or crime
+covin
+3
+0.000329109820674
+fraud; deception.
+cracksman
+4
+0.000438813094231
+a burglar, especially a safe-breaker.
+crime
+546610
+59.9649063594079
+an action or omission which constitutes an offence and is punishable by law
+crime-free
+595
+0.065273447766869
+not affected by or involving illegal activities
+crime-ridden
+1705
+0.187044081415984
+(of a place) having a high incidence of criminal activity
+criminal
+447999
+49.1469568506035
+a person who has committed a crime
+criminality
+11497
+1.261258536093582
+behaviour that is contrary to or forbidden by criminal law
+criminally
+14085
+1.545170608061068
+in a manner that is contrary to or forbidden by criminal law
+criminologist
+1659
+0.181997730832326
+an expert in the scientific study of crime and criminals
+culprit
+32559
+3.57182888376715
+a person who is responsible for a crime or other misdeed
+cybercrime
+10546
+1.15693072294015
+criminal activities carried out by means of computers or the Internet.
+cybercriminal
+1247
+0.136799982126528
+a person who engages in criminal activity by means of computers or the Internet
+cybercrook
+21
+0.002303768744713
+a person who commits criminal activities by means of computers or the Internet; a cybercriminal
+dacoit
+348
+0.038176739198101
+(in India or Burma (Myanmar)) a member of a band of armed robbers.
+dacoity
+1368
+0.150074078227018
+(in India or Burma (Myanmar)) an act of violent robbery committed by an armed gang
+deceive
+11632
+1.27606847802388
+deliberately cause (someone) to believe something that is not true, especially for personal gain
+defraud
+7305
+0.801382413339447
+illegally obtain money from (someone) by deception
+delinquency
+6924
+0.759585466113939
+minor crime, especially that committed by young people
+depredate
+9
+0.00098732946202
+steal from, typically using force; plunder
+desperado
+367
+0.040261101395698
+a desperate or reckless person, especially a criminal.
+despoil
+282
+0.030936323143288
+steal or violently remove valuable possessions from; plunder
+diddle
+307
+0.033678904982233
+cheat or swindle (someone) so as to deprive them of something
+felonry
+5
+0.000548516367789
+convicts and ex-convicts regarded as a social class
+filch
+146
+0.016016677939433
+pilfer or steal (something, especially an item of small value) in a casual way
+fink
+314
+0.034446827897137
+an unpleasant or contemptible person.
+firebomb
+838
+0.091931343241404
+a bomb designed to cause a fire
+firebug
+284
+0.031155729690404
+an arsonist.
+fire-raiser
+3
+0.000329109820673
+an arsonist.
+firesetter
+5
+0.000548516367789
+an arsonist.
+fit-up
+99
+0.010860624082218
+an instance of incriminating someone by falsifying evidence against them
+fixer
+4436
+0.486643721502229
+a person who makes arrangements for other people, especially of an illicit or devious kind.
+flimflammer
+5
+0.000548516367789
+a person who swindles someone with a confidence trick
+flimflammery
+30
+0.003291098206733
+nonsensical or insincere talk or ideas
+footpad
+582
+0.063847305210617
+a highwayman operating on foot rather than riding a horse.
+forger
+844
+0.09258956288275
+a person who produces fraudulent copies or imitations
+frame-up
+277
+0.0303878067755
+a conspiracy to incriminate someone falsely
+fraud
+241296
+26.47096109639357
+wrongful or criminal deception intended to result in financial or personal gain
+fraudster
+5973
+0.655257652960509
+a person who commits fraud, especially in business dealings.
+fraudulent
+51198
+5.616588199610263
+obtained, done by, or involving deception, especially criminal deception
+fraudulently
+11109
+1.21869366595317
+in a way that involves deception, especially criminal deception
+freeboot
+3
+0.000329109820673
+act as a freebooter
+frightener
+47
+0.005156053857215
+a person or thing that frightens someone.
+fugitive
+17214
+1.888432151023303
+a person who has escaped from captivity or is in hiding
+gang
+171269
+18.78876995896422
+an organized group of criminals
+gangland
+2656
+0.291371894569414
+the world of criminal gangs or organized crime
+gangsta
+4414
+0.484230249483959
+a gang member
+gangster
+19021
+2.086665966342178
+a member of a gang of violent criminals
+getaway
+31075
+3.409029225807432
+an escape or quick departure, especially after committing a crime
+goodfella
+31
+0.003400801480291
+a gangster, especially a member of a Mafia family.
+goombah
+33
+0.003620208027406
+an associate or accomplice, especially a senior member of a criminal gang.
+goonda
+167
+0.018320446684146
+a hired thug or bully
+graft
+39688
+4.353903520960432
+a shoot or twig inserted into a slit on the trunk or stem of a living plant, from which it receives sap.
+g-ride
+1
+0.000109703273558
+a stolen car.
+hoax
+23812
+2.612254349957411
+a humorous or malicious deception
+holdupper
+0
+0
+a person who commits a robbery using threats or violence
+homicide
+48775
+5.350777167779808
+the killing of one person by another
+honeytrap
+131
+0.014371128836067
+a stratagem in which an attractive person entices another person into revealing information or doing something unwise.
+hood
+59982
+6.580221754541638
+a covering for the head and neck with an opening for the face, typically forming part of a coat or cloak
+hoodlum
+688
+0.07547585220774
+a person who engages in crime and violence; a hooligan or gangster
+hoodwinker
+6
+0.000658219641347
+a person who deceives or tricks someone
+hostage-taking
+1577
+0.173002062400591
+the act of seizing or holding a person as security for the fulfilment of a condition
+hotter
+26039
+2.856563540170547
+a person who joyrides in stolen high-performance cars, especially for elaborate and dangerous display
+hotting
+1169
+0.128243126789023
+joyriding in stolen high-performance cars, especially for elaborate and dangerous display.
+housebreaking
+993
+0.108935350642858
+the action of breaking into a building, especially in daytime, to commit a crime. In 1968 it was replaced as a statutory crime (in England and Wales only) by burglary.
+hustler
+2849
+0.312544626366062
+a person adept at aggressive selling or illicit dealing
+idb
+18
+0.00197465892404
+illicit diamond buying (or buyer), illegal trading (or an illegal trader) in uncut diamonds.
+illegal
+442313
+48.52318403715407
+contrary to or forbidden by law, especially criminal law
+illegality
+4447
+0.487850457511365
+the state of being contrary to or forbidden by law, especially criminal law
+illegally
+102425
+11.2363577941537
+in a way that is contrary to or forbidden by law
+ill-gotten
+4597
+0.504305948545029
+acquired by illegal or unfair means
+illicit
+43813
+4.806429524386196
+forbidden by law, rules, or custom
+illywhacker
+0
+0
+a small-time confidence trickster.
+implicate
+6520
+0.715265343596604
+show (someone) to be involved in a crime
+impostor
+2440
+0.267675987480937
+a person who pretends to be someone else in order to deceive others, especially for fraudulent gain
+imposture
+100
+0.010970327355776
+an instance of pretending to be someone else in order to deceive others
+incitement
+7826
+0.85853781886304
+the action of provoking unlawful behaviour or urging someone to behave unlawfully
+informer
+2420
+0.265481922009783
+a person who informs on another person to the police or other authority.
+intrigant
+0
+0
+a person who makes secret plans to do something illicit or detrimental to someone else.
+intruder
+12983
+1.424277600600415
+a person who intrudes, especially into a building with criminal intent
+jack
+64672
+7.094730107527538
+a device for lifting heavy objects, especially one for raising the axle of a motor vehicle off the ground so that a wheel can be changed or the underside inspected.
+jemmy
+64
+0.007021009507697
+a short crowbar used by a burglar to force open a window or door.
+joyride
+1984
+0.217651294738599
+a ride for enjoyment in a vehicle or aircraft.
+joyriding
+434
+0.047611220724068
+the action or practice of driving fast and dangerously in a stolen car for enjoyment
+kicking
+133776
+14.675665123463075
+an assault in which the victim is kicked repeatedly
+marauder
+279
+0.030607213322616
+a person who marauds; a raider
+match-fixing
+7980
+0.875432122990935
+(in sport) the action or practice of dishonestly determining the outcome of a match before it is played
+medifraud
+3
+0.000329109820673
+the practice of making fraudulent claims against a medical insurance scheme
+misappropriation
+5740
+0.62969679022155
+the action of misappropriating something; embezzlement
+miscreant
+1694
+0.185837345406848
+a person who has done something wrong or unlawful
+mobster
+4260
+0.467335945356063
+a member of an organized group of violent criminals; a gangster.
+molestation
+10508
+1.152761998544956
+sexual assault or abuse of a person, especially a woman or child
+molester
+3172
+0.347978783725219
+a person who sexually assaults or abuses someone, especially a woman or child
+moll
+434
+0.047611220724069
+a gangster's female companion
+mopery
+13
+0.001426142556251
+the action of committing a minor or petty offence such as loitering
+mosstrooper
+0
+0
+a person who lived by plundering property in the Scottish Borders during the 17th century.
+mountebank
+77
+0.008447152063948
+a person who deceives others, especially in order to trick them out of their money; a charlatan.
+mugger
+1385
+0.151939033877499
+a person who attacks and robs another in a public place
+mugging
+4193
+0.459985826027693
+an act of attacking and robbing someone in a public place
+murder
+395881
+43.4294416393201
+the unlawful premeditated killing of one human being by another
+murderer
+27707
+3.039548600464892
+a person who commits murder
+murderess
+278
+0.030497510049057
+a female murderer.
+narco
+942
+0.103340483691411
+narcotics; illegal drugs
+narco-terrorism
+92
+0.010092701167314
+terrorism associated with the trade in illegal drugs.
+nark
+96
+0.010531514261546
+a police informer
+ned
+1777
+0.194942717112141
+a hooligan or petty criminal.
+nefarious
+15360
+1.685042281847214
+(typically of an action or activity) wicked or criminal
+netherworld
+1001
+0.109812976831319
+the underworld; hell
+offender
+45334
+4.973288203467551
+a person who commits an illegal act
+outlaw
+15991
+1.75426504746216
+a person who has broken the law, especially one who remains at large or is a fugitive
+overcharge
+2458
+0.269650646404977
+charge (someone) too high a price for goods or a service
+pachuco
+24
+0.002632878565386
+a member of a gang of young Mexican-Americans.
+padrone
+32
+0.003510504753848
+an employer, especially one who exploits immigrant workers.
+palm-greasing
+21
+0.002303768744713
+bribery used to secure illicit advantages or gains in politics or business
+peddler
+1535
+0.168394524911164
+a person who sells illegal drugs or stolen goods
+pocket-picking
+19
+0.002084362197599
+the action of stealing from people's pockets; pickpocketing
+premeditation
+1200
+0.131643928269314
+the action of planning something (especially a crime) beforehand; intent
+profiteer
+613
+0.067248106690908
+make or seek to make an excessive or unfair profit, especially illegally
+prowler
+572
+0.06275027247504
+a person who moves stealthily about or loiters near a place with a view to committing a crime.
+pusher
+2150
+0.235862038149186
+a person who sells illegal drugs
+put-on
+423
+0.046404484714933
+a deception; a hoax.
+racketeer
+305
+0.033459498435118
+a person who engages in dishonest and fraudulent business dealings.
+racketeering
+7634
+0.83747479033995
+dishonest and fraudulent business dealings
+raper
+122
+0.013383799374047
+a person who commits rape; a rapist.
+rapine
+82
+0.008995668431737
+the violent seizure of someone's property
+rapist
+15966
+1.751522465623217
+a person who commits rape.
+rapparee
+0
+0
+a bandit or irregular soldier in Ireland in the 17th century.
+ravin
+32
+0.003510504753849
+violent seizure of prey or property; plunder.
+rechipping
+0
+0
+the practice of changing the electronic identification numbers of a stolen mobile phone so as to enable it to be reused.
+recidivism
+4656
+0.510778441684936
+the tendency of a convicted criminal to reoffend
+recidivist
+859
+0.094235111986117
+a convicted criminal who reoffends, especially repeatedly.
+red-handed
+3813
+0.418298582075744
+used to indicate that a person has been discovered in or just after the act of doing something wrong or illegal
+releasee
+20
+0.002194065471155
+an offender who has recently been released from prison
+rifle
+55317
+6.068455983394681
+a gun, especially one fired from shoulder level, having a long spirally grooved barrel intended to make a bullet spin and thereby have greater accuracy over a long distance
+rig
+64890
+7.118645421163131
+provide (a sailing boat) with sails and rigging
+rigger
+554
+0.060775613551
+a ship rigged in a particular way
+ringleader
+5196
+0.570018209406128
+a person who initiates or leads an illicit or illegal activity
+robber
+17222
+1.889309777211765
+a person who commits robbery.
+rort
+1568
+0.17201473293857
+a fraudulent or dishonest act or practice
+ruffian
+369
+0.040480507942814
+a violent person, especially one involved in crime.
+rustler
+109
+0.011957656817796
+a person who rounds up and steals cattle, horses, or sheep
+sabotage
+22906
+2.512863184114079
+deliberately destroy, damage, or obstruct (something), especially for political or military advantage
+safe-breaker
+3
+0.000329109820673
+a person who breaks open and robs safes.
+samfi
+0
+0
+a swindler or confidence trickster
+scam
+77361
+8.486754945701971
+a dishonest scheme; a fraud
+skebenga
+0
+0
+a gangster; a bandit.
+skolly
+2
+0.000219406547116
+a petty criminal of mixed ethnic origin; a hooligan.
+smash-and-grab
+1129
+0.123854995846712
+denoting a robbery in which the thief smashes a shop window and seizes goods
+smuggle
+12409
+1.36130792157826
+move (goods) illegally into or out of a country
+smuggler
+5954
+0.653173290762911
+a person who smuggles goods
+smuggling
+40122
+4.401514741684499
+the illegal movement of goods into or out of a country
+snatch
+21390
+2.346553021400513
+quickly seize (something) in a rude or eager way
+spiv
+251
+0.027535521662999
+a man, typically a flashy dresser, who makes a living by disreputable dealings.
+spivvy
+45
+0.004936647310099
+flashily dressed and seeming disreputable or untrustworthy
+spoliate
+0
+0
+rob of something; plunder
+spot-fix
+67
+0.007350119328371
+(in sport) dishonestly determine the outcome of a specific part of (a match or game) before it is played
+spot-fixing
+3371
+0.369809735163213
+(in sport) the action or practice of dishonestly determining the outcome of a specific part of a match or game before it is played
+squealer
+82
+0.008995668431736
+a person who makes a long, high-pitched cry or noise
+stabbing
+35782
+3.925402534443814
+an act or instance of wounding or killing someone with a knife
+steal
+167314
+18.354893512043272
+take (another person's property) without permission or legal right and without intending to return it
+steerer
+806
+0.088420838487556
+a person or mechanism that steers a vehicle or vessel.
+stick-up
+252
+0.027645224936556
+an armed robbery in which a gun is used to threaten people
+stumer
+0
+0
+a worthless cheque or a counterfeit coin or note
+subterfuge
+3427
+0.375953118482448
+deceit used in order to achieve one's goal
+supergrass
+282
+0.030936323143289
+a police informer who implicates a large number of people
+swatting
+4109
+0.450770751048841
+the action or practice of making a hoax call to the emergency services in an attempt to bring about the dispatch of a large number of armed police officers to a particular address
+swindle
+2717
+0.298063794256437
+use deception to deprive (someone) of money or possessions
+swindler
+788
+0.086446179563516
+a person who uses deception to deprive someone of money or possessions
+tagger
+796
+0.087323805751978
+a person who writes graffiti using their nickname or identifying mark.
+tamper
+5395
+0.591849160844122
+interfere with (something) in order to cause damage or make unauthorized alterations
+terrorism
+179312
+19.67111338818929
+the unlawful use of violence and intimidation, especially against civilians, in the pursuit of political aims
+theft
+142600
+15.643686809336762
+the action or crime of stealing
+thief
+34623
+3.79825644039037
+a person who steals another person's property, especially by stealth and without using force or threat of violence
+thievery
+2241
+0.245845036042943
+the action of stealing another person's property
+thug
+18704
+2.051890028624368
+a violent person, especially a criminal
+thuggee
+3
+0.000329109820673
+the robbery and murder practised by the Thugs in accordance with their ritual.
+vandalism
+23145
+2.539082266494385
+action involving deliberate destruction of or damage to public or private property
+vandalization
+129
+0.014151722288951
+the act of deliberately destroying or damaging public or private property
+vice
+291105
+31.935171449032104
+immoral or wicked behaviour
+victimization
+5809
+0.637266316097035
+the action of singling someone out for cruel or unjust treatment
+victimize
+1353
+0.148428529123652
+single (someone) out for cruel or unjust treatment
+vishing
+175
+0.019198072872609
+the fraudulent practice of making phone calls or leaving voice messages purporting to be from reputable companies in order to induce individuals to reveal personal information, such as bank details and credit card numbers
+warez
+240
+0.026328785653863
+software that has been illegally copied and made available
+wheelman
+145
+0.015906974665875
+a driver, in particular the driver of a getaway vehicle.
+whistle-blower
+4659
+0.51110755150561
+a person who informs on a person or organization regarded as engaging in an unlawful or immoral activity.
+wilding
+480
+0.052657571307726
+the activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random
+wrongdoer
+516
+0.056606889155805
+a person who behaves illegally or dishonestly; an offender
+wrongdoing
+42948
+4.711536192758732
+illegal or dishonest behaviour
+yakuza
+1349
+0.14798971602942
+a powerful Japanese criminal organization.
+yegg
+5
+0.000548516367789
+a burglar or safe-breaker.

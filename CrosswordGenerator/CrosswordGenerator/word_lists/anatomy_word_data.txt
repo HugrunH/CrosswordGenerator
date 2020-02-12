@@ -1,0 +1,3788 @@
+ab
+5444
+0.597224621248452
+an abdominal muscle.
+abdomen
+22633
+2.482914190432812
+the part of the body of a vertebrate containing the digestive and reproductive organs; the belly.
+abdominal
+47523
+5.213428669285489
+relating to the abdomen
+acetabular
+1017
+0.111568229208243
+relating to a cup-shaped structure, especially the socket of the hip bone (the acetabulum)
+acetabulum
+412
+0.045197748705798
+the socket of the hip bone, into which the head of the femur fits.
+acinar
+1546
+0.169601260920299
+relating to the acinus, a small saclike cavity in a gland
+acinus
+53
+0.005814273498562
+a small saclike cavity in a gland, surrounded by secretory cells.
+acl
+357
+0.039164068660122
+anterior cruciate ligament.
+adductor
+1841
+0.201963726619839
+a muscle whose contraction moves a limb or other part of the body towards the midline of the body or towards another part.
+adipose
+14715
+1.614283670402459
+(especially of body tissue) used for the storage of fat.
+adnexa
+190
+0.020843621975975
+the parts adjoining an organ.
+adrenal
+8766
+0.961658896007335
+relating to or denoting a pair of ductless glands situated above the kidneys. Each consists of a core region (adrenal medulla) secreting adrenaline and noradrenaline, and an outer region (adrenal cortex) secreting corticosteroids
+adventitia
+521
+0.057155405523594
+the outermost layer of the wall of a blood vessel.
+alisphenoid
+5
+0.000548516367789
+a winglike cartilaginous bone within a mammal's skull, forming part of the socket of the eye.
+allantois
+64
+0.007021009507697
+the fetal membrane lying below the chorion in many vertebrates, formed as an outgrowth of the embryo's gut. In birds and reptiles it grows to surround the embryo; in eutherian mammals it forms part of the placenta.
+alveolar
+7221
+0.792167338360595
+relating to an alveolus or the alveoli of the lung or lungs.
+alveolus
+263
+0.028851960945691
+any of the many tiny air sacs of the lungs which allow for rapid gaseous exchange.
+amnion
+271
+0.029729587134153
+the innermost membrane that encloses the embryo of a mammal, bird, or reptile.
+amniotic
+3550
+0.389446621130052
+relating to the amnion.
+amygdala
+9395
+1.030662255075167
+a roughly almond-shaped mass of grey matter inside each cerebral hemisphere, involved with the experiencing of emotions.
+anal
+16775
+1.840272413931445
+relating to or situated near the anus
+anatomical
+18487
+2.028084418262333
+relating to bodily structure
+anatomically
+3317
+0.363885758391094
+as regards bodily structure
+anatomist
+485
+0.053206087675515
+an expert in anatomy.
+anatomize
+28
+0.003071691659618
+dissect (a body)
+anatomy
+23764
+2.606988592826639
+the branch of science concerned with the bodily structure of humans, animals, and other living organisms, especially as revealed by dissection and the separation of parts
+ankle
+146298
+16.049369514953362
+the joint connecting the foot with the leg
+ans
+3110
+0.341177180764636
+autonomic nervous system.
+anterior
+41280
+4.528551132464386
+nearer the front, especially in the front of the body, or nearer to the head or forepart
+anterolateral
+1065
+0.116833986339015
+both anterior and lateral.
+anteroposterior
+1425
+0.15632716481981
+relating to or directed towards both front and back
+anteverted
+68
+0.007459822601928
+(of an organ of the body, especially the uterus) inclined forward.
+antrum
+837
+0.091821639967847
+a natural chamber or cavity in a bone or other anatomical structure.
+anus
+4427
+0.485656392040209
+the opening at the end of the alimentary canal through which solid waste matter leaves the body.
+aorta
+11096
+1.217267523396919
+the main artery of the body, supplying oxygenated blood to the circulatory system. In humans it passes over the heart from the left ventricle and runs down in front of the backbone.
+aortic
+34345
+3.767758930341312
+relating to the aorta, the main artery of the body
+aponeurosis
+385
+0.042235760319738
+a sheet of pearly white fibrous tissue that takes the place of a tendon in flat muscles having a wide area of attachment.
+apophysis
+68
+0.007459822601928
+a natural protuberance from a bone, or inside the shell or exoskeleton of a sea urchin or insect, for the attachment of muscles.
+appendicular
+326
+0.03576326717983
+relating to a limb or limbs
+appendix
+7507
+0.823542474598114
+a tube-shaped sac attached to and opening into the lower end of the large intestine in humans and some other mammals. In humans the appendix is small and has no known function, but in rabbits, hares, and some other herbivores it is involved in the digestion of cellulose
+appestat
+6
+0.000658219641347
+the region of the hypothalamus of the brain which is believed to control a person's appetite for food.
+arborization
+408
+0.044758935611567
+a fine branching structure at the end of a nerve fibre.
+arcuate
+1551
+0.170149777288087
+shaped like a bow; curved
+areola
+835
+0.091602233420731
+a small circular area, in particular the ring of pigmented skin surrounding a nipple.
+arm
+407873
+44.745003295824766
+each of the two upper limbs of the human body from the shoulder to the hand
+armpit
+3979
+0.436509325486332
+a hollow under the arm at the shoulder.
+arterial
+35615
+3.907082087759669
+relating to an artery or arteries.
+arterialize
+1
+0.000109703273558
+convert venous into arterial (blood) by oxygenation, especially in the lungs
+arteriole
+247
+0.027096708568767
+a small branch of an artery leading into capillaries.
+arteriovenous
+2630
+0.288519609456912
+relating to or affecting an artery and a vein.
+artery
+70884
+7.776206842868352
+any of the muscular-walled tubes forming part of the circulation system by which blood (mainly that which has been oxygenated) is conveyed from the heart to all parts of the body.
+articular
+2743
+0.30091607936894
+relating to a joint or the joints
+articulated
+19610
+2.1512811944677
+having two or more sections connected by a flexible joint
+arytenoid
+54
+0.005923976772119
+either of a pair of cartilages at the back of the larynx, used in the production of different kinds of voice quality (for example, creaky voice)
+astrocyte
+2220
+0.24354126729823
+a star-shaped glial cell of the central nervous system.
+atrioventricular
+2591
+0.28424118178816
+relating to the atrial and ventricular chambers of the heart, or the connection or coordination between them.
+aural
+5993
+0.657451718431664
+relating to the ear or the sense of hearing
+auricle
+248
+0.027206411842325
+a structure resembling an ear or ear lobe
+auricular
+755
+0.08282597153611
+relating to the ear or hearing
+axilla
+827
+0.090724607232269
+an armpit, or the corresponding part in a bird or other animal.
+axillary
+4231
+0.464154550422888
+relating to the armpit or a corresponding part
+axon
+6794
+0.745324040551431
+the long threadlike part of a nerve cell along which impulses are conducted from the cell body to other cells.
+azygous
+78
+0.008556855337506
+(of an organic structure) single; not existing in pairs.
+back
+7757348
+851.0064697267525
+the rear surface of the human body from the shoulders to the hips
+basilar
+1368
+0.150074078227018
+of or situated at the base of something, especially of the skull, or of the organ of Corti in the ear.
+bellend
+192
+0.02106302852309
+the glans of the penis.
+bicephalous
+3
+0.000329109820674
+having two heads.
+biceps
+10663
+1.169766005946409
+any of several muscles having two points of attachment at one end.
+biconcave
+39
+0.004278427668754
+concave on both sides.
+bicuspid
+776
+0.085129740280823
+having two cusps or points.
+biliary
+7239
+0.794141997284634
+relating to bile or the bile duct.
+bilobed
+119
+0.013054689553373
+having or consisting of two lobes.
+birthmark
+846
+0.092808969429866
+an unusual, typically permanent, mark on someone's body which is there from birth.
+bladder
+38343
+4.206352618025241
+a muscular membranous sac in the abdomen which receives urine from the kidneys and stores it for excretion
+bodied
+4064
+0.445834103738743
+having a body or trunk, typically of a specified kind
+body
+1533605
+168.2414888445505
+the physical structure, including the bones, flesh, and organs, of a person or an animal
+bone
+221911
+24.344363138476364
+any of the pieces of hard whitish tissue making up the skeleton in humans and other vertebrates
+bouton
+358
+0.039273771933679
+an enlarged part of a nerve fibre or cell, especially an axon, where it forms a synapse with another nerve.
+bowel
+38686
+4.243980840855553
+the part of the alimentary canal below the stomach; the intestine
+brachial
+3963
+0.434754073109408
+relating to the arm or to a structure resembling the arm
+brachycephalic
+169
+0.018539853231261
+having a relatively broad, short skull (typically with the breadth at least 80 per cent of the length).
+brain
+642227
+70.45440426718037
+an organ of soft nervous tissue contained in the skull of vertebrates, functioning as the coordinating centre of sensation and intellectual and nervous activity
+braincase
+210
+0.02303768744713
+the cranium.
+brainpan
+54
+0.005923976772119
+a person's skull.
+brainstem
+5316
+0.583182602233059
+the central trunk of the mammalian brain, consisting of the medulla oblongata, pons, and midbrain, and continuing downwards to form the spinal cord.
+breast
+262731
+28.822450765104183
+either of the two soft, protruding organs on the upper front of a woman's body which secrete milk after childbirth
+breastbone
+481
+0.052767274581283
+a thin, flat bone running down the centre of the chest, to which the ribs are attached.
+bronchial
+5512
+0.60468444385038
+relating to the bronchi or bronchioles
+bronchiole
+54
+0.005923976772119
+any of the minute branches into which a bronchus divides.
+broncho-
+0
+0
+relating to the bronchi
+bronchus
+946
+0.103779296785642
+any of the major air passages of the lungs which diverge from the windpipe.
+browneye
+2
+0.000219406547116
+the anus.
+buccal
+4271
+0.468542681365199
+relating to the cheek
+buccinator
+82
+0.008995668431736
+a flat, thin muscle in the wall of the cheek.
+bundle
+70223
+7.703692979046672
+a collection of things or quantity of material tied or wrapped up together
+bursa
+751
+0.082387158441879
+a fluid-filled sac or saclike cavity, especially one countering friction at a joint.
+caecum
+217
+0.023805610362034
+a pouch connected to the junction of the small and large intestines.
+calcaneus
+347
+0.038067035924544
+the large bone forming the heel. It articulates with the cuboid bone of the foot and the talus bone of the ankle, and the Achilles tendon is attached to it.
+calf
+47140
+5.171412315512867
+a young bovine animal, especially a domestic cow or bull in its first year
+callosity
+8
+0.000877626188462
+a thickened and hardened part of the skin; a callus.
+cancellous
+698
+0.076572884943317
+denoting bone tissue with a meshlike structure containing many pores, typical of the interior of mature bones.
+canthus
+336
+0.036860299915408
+the outer or inner corner of the eye, where the upper and lower lids meet.
+capillary
+9612
+1.054467865437201
+any of the fine branching blood vessels that form a network between the arterioles and venules.
+cardia
+584
+0.064066711757732
+the upper opening of the stomach, where the oesophagus enters.
+cardiac
+131127
+14.385061151808564
+relating to the heart.
+cardio-
+0
+0
+relating to the heart
+cardiothoracic
+1820
+0.199659957875126
+relating to the heart and chest or lungs.
+carotid
+16949
+1.859360783530497
+relating to or denoting the two main arteries which carry blood to the head and neck, and their two main branches.
+carpal
+3080
+0.337886082557905
+relating to the bones forming the human carpus (wrist), or to their equivalent in an animal's forelimb.
+carpus
+91
+0.009982997893757
+the group of small bones between the main part of the forelimb and the metacarpus in terrestrial vertebrates. The eight bones of the human carpus form the wrist and part of the hand, and are arranged in two rows.
+cartilage
+20373
+2.23498479219227
+firm, flexible connective tissue found in various forms in the larynx and respiratory tract, in structures such as the external ear, and in the articulating surfaces of joints. It is more widespread in the infant skeleton, being replaced by bone during growth.
+cartilaginous
+837
+0.091821639967847
+made of cartilage.
+cauda
+624
+0.068454842700043
+a structure resembling a tail.
+caudal
+3143
+0.344797388792043
+of or like a tail.
+caudate
+2451
+0.268882723490072
+relating to or denoting the caudate nucleus.
+caul
+208
+0.022818280900015
+the amniotic membrane enclosing a fetus.
+centrum
+234
+0.025670566012516
+the solid central part of a vertebra, to which the arches and processes are attached.
+cephalic
+954
+0.104656922974105
+in or relating to the head.
+cephalo-
+0
+0
+relating to the head or skull
+cerebellar
+9144
+1.00312673341217
+relating to the part of the brain at the back of the skull in vertebrates, which coordinates and regulates muscular activity
+cerebellum
+7589
+0.83253814302985
+the part of the brain at the back of the skull in vertebrates, which coordinates and regulates muscular activity.
+cerebral
+52079
+5.713236783614652
+of the cerebrum of the brain
+cerebrospinal
+6975
+0.765180333065386
+relating to the brain and spine.
+cerebrovascular
+5529
+0.606549399500863
+relating to the brain and its blood vessels.
+cerebrum
+735
+0.080631906064955
+the principal and most anterior part of the brain in vertebrates, located in the front area of the skull and consisting of two hemispheres, left and right, separated by a fissure. It is responsible for the integration of complex sensory and neural functions and the initiation and coordination of voluntary activity in the body.
+cervical
+53595
+5.879546946328217
+relating to the cervix
+cervix
+6881
+0.754868225350956
+the narrow passage forming the lower end of the uterus.
+cheekbone
+2734
+0.299928749906919
+the bone below the eye
+chest
+161688
+17.73770289500731
+the front surface of a person's or animal's body between the neck and the stomach
+chiasma
+191
+0.020953325249532
+the X-shaped structure formed at the point below the brain where the two optic nerves cross over each other.
+chin
+34567
+3.792113057071136
+the protruding part of the face below the mouth, formed by the apex of the lower jaw
+chine
+361
+0.039602881754352
+the backbone of an animal as it appears in a joint of meat.
+cholecyst-
+0
+0
+relating to the gall bladder
+chondro-
+0
+0
+relating to cartilage
+chondrocranium
+1
+0.000109703273558
+the primary skull of vertebrates, composed of cartilage, which in humans and most other vertebrates is replaced by bone during development.
+chondrocyte
+921
+0.101036714946698
+a cell which has secreted the matrix of cartilage and become embedded in it.
+chorion
+222
+0.024354126729823
+the outermost membrane surrounding an embryo of a reptile, bird, or mammal. In mammals it contributes to the formation of the placenta.
+choroid
+1407
+0.15435250589577
+resembling the chorion, particularly in containing many blood vessels.
+cilium
+706
+0.077450511131779
+a short microscopic hairlike vibrating structure found in large numbers on the surface of certain cells, either causing currents in the surrounding fluid, or, in some protozoans and other small organisms, providing propulsion.
+cingulum
+421
+0.046185078167818
+a curved bundle of nerve fibres in each hemisphere of the brain.
+claustrum
+169
+0.018539853231262
+a thin layer of grey matter in each cerebral hemisphere between the lentiform nucleus and the insula.
+clitoral
+918
+0.100707605126025
+relating to or affecting the clitoris
+clitoris
+2168
+0.237836697073226
+a small, sensitive, erectile part of the female genitals at the anterior end of the vulva.
+cns
+44
+0.004826944036542
+central nervous system.
+coarct
+0
+0
+compress or constrict; press together
+coarctate
+3
+0.000329109820673
+pressed close together; contracted; compressed.
+coccygeal
+49
+0.00537546040433
+relating to the coccyx
+coccyx
+373
+0.040919321037045
+a small triangular bone at the base of the spinal column in humans and some apes, formed of fused vestigial vertebrae.
+cochlea
+1911
+0.209642955768882
+the spiral cavity of the inner ear containing the organ of Corti, which produces nerve impulses in response to sound vibrations.
+coeliac
+1761
+0.193187464735218
+relating to the abdomen.
+collarbone
+8500
+0.932477825240971
+either of the pair of bones joining the breastbone to the shoulder blades.
+colliculus
+654
+0.071745940906776
+any of a number of small swellings in the roof of the midbrain, involved in vision and hearing.
+colon
+41665
+4.570786892784125
+a punctuation mark (:) used to precede a list of items, a quotation, or an expansion or explanation.
+colonic
+7491
+0.82178722222119
+relating to or affecting the colon.
+colorectal
+33263
+3.649059988351815
+relating to or affecting the colon and the rectum.
+commissure
+724
+0.079425170055819
+the joint between two bones.
+condyle
+1087
+0.119247458357286
+a rounded protuberance at the end of some bones, forming an articulation with another bone.
+conjunctiva
+942
+0.103340483691411
+the mucous membrane that covers the front of the eye and lines the inside of the eyelids.
+conus
+340
+0.037299113009639
+the upper front part of the right ventricle of the heart.
+coracoid
+144
+0.015797271392318
+a short projection from the shoulder blade in mammals, to which part of the biceps is attached.
+cornea
+5080
+0.557292629673427
+the transparent layer forming the front of the eye.
+cornu
+142
+0.015577864845202
+a horn-shaped projection of the thyroid cartilage or of certain bones (such as the hyoid and the coccyx).
+coronary
+66198
+7.262137302976681
+relating to or denoting the arteries which surround and supply the heart.
+coronoid
+266
+0.029181070766365
+relating to or denoting a hooked projection of bone.
+cortex
+46469
+5.097801418955609
+the outer layer of the cerebrum (the cerebral cortex), composed of folded grey matter and playing an important role in consciousness.
+cortical
+30844
+3.383687769615588
+relating to the outer layer of the cerebrum
+corticofugal
+40
+0.004388130942311
+(of a nerve fibre) originating in and running from the cerebral cortex.
+costal
+1137
+0.124732622035175
+relating to the ribs.
+coxa
+61
+0.006691899687024
+the hip bone or hip joint.
+cranial
+9052
+0.993034032244856
+relating to the skull or cranium.
+cranio-
+0
+0
+relating to the cranium
+cranium
+1887
+0.207010077203495
+the skull, especially the part enclosing the brain.
+cremaster
+129
+0.014151722288952
+the muscle of the spermatic cord, by which the testicle can be partially raised.
+cribriform
+386
+0.042345463593295
+denoting an anatomical structure that is pierced by numerous small holes, in particular the plate of the ethmoid bone through which the olfactory nerves pass.
+cricoid
+166
+0.018210743410589
+the ring-shaped cartilage of the larynx.
+cricothyroid
+45
+0.0049366473101
+relating to the cricoid and thyroid cartilages.
+crinite
+0
+0
+having hairlike tufts; hairy.
+crista
+136
+0.014919645203856
+a ridge or crest.
+crotch
+7939
+0.870934288775067
+the part of the human body between the legs where they join the torso.
+croup
+430
+0.047172407629837
+inflammation of the larynx and trachea in children, associated with infection and causing breathing difficulties.
+cruciate
+7898
+0.866436454559199
+cross-shaped.
+crural
+236
+0.025889972559632
+relating to the leg or the thigh.
+crus
+681
+0.074707929292835
+an elongated part of an anatomical structure, especially one which occurs in the body as a pair.
+cubital
+253
+0.027754928210114
+of the forearm or the elbow
+cuneate
+73
+0.008008338969717
+wedge-shaped.
+cuspid
+59
+0.006472493139908
+a tooth with a single cusp or point; a canine tooth.
+cutaneous
+13258
+1.4544460008288
+relating to or affecting the skin
+cuticle
+3056
+0.335253203992519
+the dead skin at the base of a fingernail or toenail
+cutis
+405
+0.044429825790893
+the true skin or dermis.
+cytoarchitecture
+165
+0.018101040137031
+the arrangement of cells in a tissue, especially in specific areas of the cerebral cortex characterized by the arrangement of their cells and each associated with particular functions.
+delt
+482
+0.052876977854841
+a deltoid muscle
+deltoid
+1015
+0.111348822661128
+triangular
+dental
+104201
+11.431190807992284
+relating to the teeth
+dentine
+1647
+0.180681291549633
+hard dense bony tissue forming the bulk of a tooth, beneath the enamel.
+depressor
+326
+0.03576326717983
+a muscle whose contraction pulls down a part of the body.
+dermal
+7576
+0.8311120004736
+relating to the skin or dermis
+dermis
+3651
+0.400526651759386
+the skin.
+descend
+21284
+2.334924474403392
+move or fall downwards
+detrusor
+833
+0.091382826873615
+a muscle which forms a layer of the wall of the bladder.
+diaphragm
+6906
+0.757610807189899
+a dome-shaped muscular partition separating the thorax from the abdomen in mammals. It plays a major role in breathing, as its contraction increases the volume of the thorax and so inflates the lungs.
+diaphragmatic
+1717
+0.188360520698676
+relating to the diaphragm in the body
+diaphysis
+177
+0.019417479419724
+the shaft or central part of a long bone.
+diastema
+121
+0.013274096100489
+a space separating teeth of different functions, especially that between the biting teeth (incisors and canines) and grinding teeth (premolars and molars) in rodents and ungulates.
+diencephalon
+288
+0.031594542784635
+the caudal (posterior) part of the forebrain, containing the epithalamus, thalamus, hypothalamus, and ventral thalamus and the third ventricle.
+digastric
+125
+0.01371290919472
+each of a pair of muscles which run under the jaw and act to open it.
+dilate
+1416
+0.155339835357791
+make or become wider, larger, or more open
+dilation
+6106
+0.669848188343691
+the action or condition of becoming or being made wider, larger, or more open
+dilator
+428
+0.046953001082722
+a thing that dilates something.
+dissection
+17465
+1.915967672686301
+the action of dissecting a body or plant to study its internal parts
+distal
+24752
+2.715375427101707
+situated away from the centre of the body or from the point of attachment
+diverticular
+650
+0.071307127812545
+relating to diverticula.
+diverticulum
+912
+0.100049385484678
+a blind tube leading from a cavity or passage.
+dolichocephalic
+31
+0.003400801480291
+having a relatively long skull (typically with the breadth less than 80 (or 75) per cent of the length).
+donger
+73
+0.008008338969717
+a man's penis.
+dorsal
+15721
+1.724645163601566
+on or relating to the upper side or back of an animal, plant, or organ
+dorsiflexor
+40
+0.00438813094231
+a muscle whose contraction dorsiflexes the hand or foot.
+dorsolateral
+1980
+0.217212481644368
+relating to or involving the dorsal and lateral surfaces.
+dorsoventral
+257
+0.028193741304344
+of, denoting, or extending along an axis joining the dorsal and ventral surfaces.
+dorsum
+866
+0.095003034901022
+the dorsal part of an organism or structure.
+double-jointed
+180
+0.019746589240398
+(of a person) having unusually flexible joints, typically those of the fingers, arms, or legs.
+duct
+21689
+2.379354300194285
+a tube or passageway in a building or machine for air, liquid, cables, etc.
+ductless
+345
+0.037847629377428
+denoting a gland that secretes directly into the bloodstream, such as an endocrine gland or a lymph gland.
+ductule
+8
+0.000877626188462
+a minute duct.
+ductus
+1056
+0.115846656876996
+a duct
+duodeno-
+0
+0
+relating to the duodenum
+duodenum
+2157
+0.236629961064091
+the first part of the small intestine immediately beyond the stomach, leading to the jejunum.
+dura
+1768
+0.193955387650122
+the tough outermost membrane enveloping the brain and spinal cord.
+ear
+125199
+13.734740146158156
+the organ of hearing and balance in humans and other vertebrates, especially the external part of this.
+eardrum
+1598
+0.175305831145302
+the membrane of the middle ear, which vibrates in response to sound waves; the tympanic membrane.
+earhole
+148
+0.016236084486549
+the external opening of the ear
+earlobe
+982
+0.107728614633722
+a soft, rounded fleshy part hanging from the lower margin of the ear.
+elbow
+82462
+9.046351344120113
+the joint between the forearm and the upper arm
+enarthrosis
+0
+0
+a ball-and-socket joint.
+encephalic
+52
+0.005704570225004
+relating to, affecting, or situated in the brain.
+encephalo-
+0
+0
+relating to the brain
+encephalon
+22
+0.002413472018271
+the brain.
+endocardial
+1696
+0.186056751953963
+relating to the endocardium.
+endocardium
+567
+0.062201756107251
+the thin, smooth membrane which lines the inside of the chambers of the heart and forms the surface of the valves.
+endocrine
+12809
+1.405189231001366
+relating to or denoting glands which secrete hormones or other products directly into the blood
+endolymph
+85
+0.00932477825241
+the fluid in the membranous labyrinth of the ear.
+endometrium
+1952
+0.21414078998475
+the mucous membrane lining the uterus, which thickens during the menstrual cycle in preparation for possible implantation of an embryo.
+endothelium
+4298
+0.471504669751258
+the tissue which forms a single layer of cells lining various organs and cavities of the body, especially the blood vessels, heart, and lymphatic vessels. It is formed from the embryonic mesoderm.
+enteric
+3833
+0.420492647546899
+relating to or occurring in the intestines
+entrails
+1504
+0.164993723430873
+a person's or animal's intestines or internal organs, especially when removed or exposed
+epaxial
+34
+0.003729911300964
+situated on the dorsal side of an axis
+ependyma
+81
+0.008885965158179
+the thin membrane of glial cells lining the ventricles of the brain and the central canal of the spinal cord.
+epicanthic
+45
+0.0049366473101
+denoting a fold of skin from the upper eyelid covering the inner angle of the eye, typical in many peoples of eastern Asia and found as a congenital abnormality elsewhere.
+epicardium
+503
+0.055180746599554
+a serous membrane that forms the innermost layer of the pericardium, attached to the muscles of the wall of the heart.
+epicondyle
+197
+0.021611544890879
+a protuberance above or on the condyle of a long bone, especially either of the two at the elbow end of the humerus.
+epidermis
+5403
+0.592726787032584
+the surface epithelium of the skin, overlying the dermis.
+epididymal
+863
+0.094673925080349
+relating to the epididymis, along which sperm passes to the vas deferens
+epididymis
+660
+0.072404160548123
+a highly convoluted duct behind the testis, along which sperm passes to the vas deferens.
+epidural
+7381
+0.809719862129837
+on or around the dura mater, in particular (of an anaesthetic) introduced into the space around the dura mater of the spinal cord.
+epigastric
+1215
+0.13328947737268
+relating to the part of the upper abdomen immediately over the stomach
+epigastrium
+85
+0.00932477825241
+the part of the upper abdomen immediately over the stomach.
+epiglottal
+5
+0.000548516367789
+relating to the flap of cartilage behind the root of the tongue
+epiglottis
+282
+0.030936323143288
+a flap of cartilage behind the root of the tongue, which is depressed during swallowing to cover the opening of the windpipe.
+epimysium
+15
+0.001645549103366
+a sheath of fibrous elastic tissue surrounding a muscle.
+epiphysis
+270
+0.029619883860596
+the end part of a long bone, initially growing separately from the shaft.
+epithalamus
+13
+0.001426142556251
+a part of the dorsal forebrain including the pineal gland and a region in the roof of the third ventricle.
+epithelial
+30133
+3.305688742116022
+relating to or denoting the thin tissue forming the outer layer of a body's surface and lining the alimentary canal and other hollow structures
+epithelium
+10806
+1.185453574065168
+the thin tissue forming the outer layer of a body's surface and lining the alimentary canal and other hollow structures.
+ethmoid
+368
+0.040370804669257
+a square bone at the root of the nose, forming part of the cranium, and having many perforations through which the olfactory nerves pass to the nose
+excrescence
+102
+0.011189733902892
+a distinct outgrowth on a body or plant, resulting from disease or abnormality
+extensor
+1948
+0.213701976890519
+a muscle whose contraction extends or straightens a limb or other part of the body.
+extrapyramidal
+591
+0.064834634672637
+relating to or denoting motor nerves that descend from the cortex to the spine but are not part of the pyramidal system
+eye
+582050
+63.852790374294955
+each of a pair of globular organs of sight in the head of humans and vertebrate animals
+eyeball
+7078
+0.776479770241835
+the round part of the eye of a vertebrate, within the eyelids and socket.
+eyebrow
+13113
+1.438539026162924
+the strip of hair growing on the ridge above a person's eye socket
+eyelash
+3608
+0.395809410996403
+each of the short curved hairs growing on the edges of the eyelids, serving to protect the eyes from dust.
+eyelid
+7885
+0.865010312002947
+each of the upper and lower folds of skin which cover the eye when closed.
+falciform
+69
+0.007569525875486
+curved like a sickle; hooked
+fascial
+793
+0.086994695931305
+relating to or denoting a thin sheath of fibrous tissue enclosing a muscle or other organ
+fauces
+9
+0.00098732946202
+the arched opening at the back of the mouth leading to the pharynx.
+femoral
+10596
+1.162415886618039
+relating to the femur or the thigh
+femur
+6338
+0.695299347809091
+the bone of the thigh or upper hindlimb, articulating at the hip and the knee.
+fenestra
+24
+0.002632878565386
+a small natural hole or opening, especially in a bone. The mammalian middle ear is linked by the fenestra ovalis to the vestibule of the inner ear, and by the fenestra rotunda to the cochlea.
+fibula
+4295
+0.471175559930585
+the outer and usually smaller of the two bones between the knee and the ankle (or the equivalent joints in other terrestrial vertebrates), parallel with the tibia.
+filament
+8623
+0.945971327888576
+a slender threadlike object or fibre, especially one found in animal or plant structures
+fimbria
+141
+0.015468161571644
+a series of threads or other projections resembling a fringe.
+finger
+167885
+18.417534081244757
+each of the four slender jointed parts attached to either hand (or five, if the thumb is included)
+fingernail
+3284
+0.360265550363688
+the flattish horny part on the upper surface of the tip of each finger.
+fingertip
+4483
+0.491799775359444
+the tip of a finger.
+flexion
+4583
+0.50277010271522
+the action of bending or the condition of being bent, especially the bending of a limb or joint
+flexor
+5427
+0.595359665597971
+a muscle whose contraction bends a limb or other part of the body.
+flexure
+558
+0.061214426645231
+the action of bending or curving, or the condition of being bent or curved.
+flocculus
+57
+0.006253086592793
+a small egg-shaped lobe on the undersurface of the cerebellum.
+folium
+40
+0.004388130942311
+a thin leaflike structure, e.g. in some rocks or in the cerebellum of the brain.
+follicle
+4593
+0.503867135450798
+a small secretory cavity, sac, or gland.
+follicular
+5290
+0.580330317120557
+of the nature of, composed of, or characteristic of a follicle or follicles
+fontanelle
+195
+0.021392138343763
+a space between the bones of the skull in an infant or fetus, where ossification is not complete and the sutures not fully formed. The main one is between the frontal and parietal bones.
+foot
+421530
+46.243220902803124
+the lower extremity of the leg below the ankle, on which a person stands or walks.
+foramen
+2498
+0.274038777347287
+an opening, hole, or passage, especially in a bone.
+forebrain
+2524
+0.27689106245979
+the anterior part of the brain, including the cerebral hemispheres, the thalamus, and the hypothalamus.
+forefinger
+1356
+0.148757638944324
+the finger next to the thumb; the first or index finger.
+foregut
+433
+0.04750151745051
+the anterior part of the gut, towards the mouth.
+forehead
+26259
+2.880698260353254
+the part of the face above the eyebrows.
+foreskin
+1940
+0.212824350702057
+the retractable roll of skin covering the end of the penis.
+fornix
+639
+0.07010039180341
+a vaulted or arched structure in the body.
+fossa
+3061
+0.335801720360308
+a shallow depression or hollow.
+fourchette
+24
+0.002632878565386
+a thin fold of skin at the back of the vulva.
+fovea
+579
+0.063518195389944
+a small depression in the retina of the eye where visual acuity is highest. The centre of the field of vision is focused in this region, where retinal cones are particularly concentrated.
+freckle
+467
+0.051231428751475
+a small patch of light brown colour on the skin, often becoming more pronounced through exposure to the sun
+frenulum
+144
+0.015797271392318
+a small fold or ridge of tissue which supports or checks the motion of the part to which it is attached, in particular a fold of skin beneath the tongue, or between the lip and the gum.
+frontal
+25653
+2.81421807657725
+of, at, or directed at the front
+fundal
+194
+0.021282435070206
+relating to the fundus of an organ, especially of the stomach, uterus, or eyeball.
+fundus
+1828
+0.200537584063588
+the part of a hollow organ (such as the uterus or the gall bladder) that is furthest from the opening.
+funiculus
+94
+0.01031210771443
+a bundle of nerve fibres enclosed in a sheath of connective tissue, or forming one of the main tracts of white matter in the spinal cord.
+ganglion
+4957
+0.543799127025823
+a structure containing a number of nerve cell bodies, typically linked by synapses, and often forming a swelling on a nerve fibre.
+gastric
+48231
+5.291098586964385
+of the stomach
+gastro-
+16
+0.001755252376924
+relating to the stomach
+gastrocnemius
+2067
+0.226756666443892
+the chief muscle of the calf of the leg, which flexes the knee and foot. It runs to the Achilles tendon from two heads attached to the femur.
+gastrointestinal
+33769
+3.704569844772042
+relating to the stomach and the intestines
+genial
+4247
+0.465909802799812
+friendly and cheerful
+geniculate
+405
+0.044429825790894
+bent at a sharp angle.
+genital
+16673
+1.829082680028555
+relating to the human or animal reproductive organs
+genitalia
+6315
+0.692776172517262
+the genitals.
+genito-urinary
+95
+0.010421810987987
+relating to the genital and urinary organs
+genu
+433
+0.04750151745051
+the knee.
+gingiva
+859
+0.094235111986117
+the gums
+ginglymus
+1
+0.000109703273558
+a hinge-like joint such as the elbow or knee, that allows movement in only one plane.
+glabella
+135
+0.014809941930298
+the smooth part of the forehead above and between the eyebrows.
+glabrate
+0
+0
+free from hair or down; smooth.
+glabrous
+175
+0.019198072872607
+(chiefly of the skin or a leaf) free from hair or down; smooth.
+gland
+18202
+1.996818985298371
+an organ in the human or animal body which secretes particular chemical substances for use in the body or for discharge into the surroundings.
+glandular
+2745
+0.301135485916054
+relating to or affecting a gland or glands.
+glans
+552
+0.060556207003884
+the rounded part forming the end of the penis or clitoris.
+glenohumeral
+468
+0.051341132025032
+relating to the shoulder joint
+glia
+2991
+0.328122491211264
+the connective tissue of the nervous system, consisting of several different types of cell associated with neurons
+glomerular
+5285
+0.579781800752769
+relating to a cluster of nerve endings, spores, or small blood vessels, especially around the end of a kidney tubule
+glomerulus
+458
+0.050244099289454
+a cluster of nerve endings, spores, or small blood vessels, especially a cluster of capillaries around the end of a kidney tubule.
+glossal
+24
+0.002632878565386
+of the tongue; lingual.
+glossopharyngeal
+161
+0.0176622270428
+relating to the tongue and pharynx.
+glottis
+234
+0.025670566012516
+the part of the larynx consisting of the vocal cords and the opening between them. It affects voice modulation through expansion or contraction.
+glute
+1114
+0.122209446743346
+a gluteus muscle.
+gluteus
+913
+0.100159088758236
+any of three muscles in each buttock which move the thigh, the largest of which is the gluteus maximus.
+gnathic
+10
+0.001097032735578
+relating to the jaws.
+gracilis
+606
+0.066480183776004
+a slender superficial muscle of the inner thigh.
+gristle
+983
+0.107838317907279
+cartilage, especially when found as tough inedible tissue in meat.
+groin
+42081
+4.616423454584153
+the area between the abdomen and the upper thigh on either side of the body.
+gullet
+966
+0.105973362256798
+the passage by which food passes from the mouth to the stomach; the oesophagus.
+gum
+31824
+3.491196977702195
+a viscous secretion of some trees and shrubs that hardens on drying but is soluble in water, and from which adhesives and other products are made.
+gut
+82426
+9.042402026272033
+the stomach or belly
+gyral
+145
+0.015906974665876
+relating to a gyrus or gyri.
+gyrus
+7682
+0.842740547470723
+a ridge or fold between two clefts on the cerebral surface in the brain.
+hairline
+6138
+0.673358693097539
+the edge of a person's hair, especially on the forehead.
+hallux
+416
+0.045636561800028
+a person's big toe.
+hamate
+1010
+0.110800306293339
+a carpal bone situated on the lower outside edge of the hand. It has a hook-shaped projection on the palmar side to which muscles of the little finger are attached.
+hamstring
+81285
+8.917230591142628
+any of five tendons at the back of a person's knee
+hamulus
+21
+0.002303768744713
+a small hook or hook-shaped projection, especially one of a number linking the forewings and hindwings of a bee or wasp.
+handedness
+2954
+0.324063470089627
+the tendency to use either the right or the left hand more naturally than the other
+haunch
+207
+0.022708577626456
+a buttock and thigh considered together, in a human or animal.
+head
+2045028
+224.34626611728146
+the upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs.
+headed
+345424
+37.89414356541614
+having a head of a specified kind
+headless
+5540
+0.607756135509998
+(of a body) having no head
+heart
+980107
+107.52094633687676
+a hollow muscular organ that pumps the blood through the circulatory system by rhythmic contraction and dilation. In vertebrates there may be up to four chambers (as in humans), with two atria and two ventricles.
+heartbeat
+24987
+2.741155696387781
+the pulsation of the heart
+heel
+46722
+5.125556347165725
+the back part of the human foot below the ankle.
+hepato-
+0
+0
+relating to the liver.
+hermaphrodite
+817
+0.089627574496691
+a person or animal having both male and female sex organs or other sexual characteristics, either abnormally or (in the case of some organisms) as the natural condition.
+herophilus
+0
+0
+(4th–3rd centuries BC), Greek anatomist. He is regarded as the father of human anatomy for his fundamental discoveries concerning the anatomy of the brain, eye, and reproductive organs. Herophilus also studied the physiology of nerves, arteries, and veins.
+hilar
+1070
+0.117382502706804
+relating to a hilus or hilum.
+hilus
+150
+0.016455491033664
+an indentation in the surface of a kidney, spleen, or other organ, where blood vessels, ducts, nerve fibres, etc. enter or leave it.
+hind
+7747
+0.849871260251977
+(especially of a bodily part) situated at the back; posterior
+hindbrain
+967
+0.106083065530355
+the lower part of the brainstem, comprising the cerebellum, pons, and medulla oblongata.
+hip
+149905
+16.445069222676207
+a projection of the pelvis and upper thigh bone on each side of the body in human beings and quadrupeds.
+hippocampal
+14158
+1.553178947030785
+relating to the hippocampus (in the brain)
+hippocampus
+18042
+1.979266461529129
+the elongated ridges on the floor of each lateral ventricle of the brain, thought to be the centre of emotion, memory, and the autonomic nervous system.
+humeral
+1038
+0.113871997952956
+relating to the humerus
+humerus
+1776
+0.194833013838584
+the bone of the upper arm or forelimb, forming joints at the shoulder and the elbow.
+hyalin
+7
+0.000767922914904
+a clear substance produced especially by the degeneration of epithelial or connective tissues.
+hyaline
+491
+0.053864307316861
+(chiefly of cartilage) glassy and translucent in appearance.
+hyaloid
+42
+0.004607537489426
+glassy; transparent.
+hydroxyapatite
+1147
+0.125829654770752
+a mineral related to apatite which is the main inorganic constituent of tooth enamel and bone, although it is rare in rocks.
+hymen
+854
+0.093686595618328
+a membrane which partially closes the opening of the vagina and whose presence is traditionally taken to be a mark of virginity.
+hyoid
+507
+0.055619559693786
+a U-shaped bone in the neck which supports the tongue.
+hyperactivity
+9107
+0.999067712290532
+the condition of being abnormally or extremely active
+hypodermic
+1442
+0.158192120470291
+relating to the region immediately beneath the skin.
+hypogastric
+235
+0.025780269286074
+relating to the part of the central abdomen which is situated below the region of the stomach
+hypogastrium
+17
+0.001864955650482
+the part of the central abdomen which is situated below the region of the stomach.
+hypothalamus
+5312
+0.582743789138828
+a region of the forebrain below the thalamus which coordinates both the autonomic nervous system and the activity of the pituitary, controlling body temperature, thirst, hunger, and other homeostatic systems, and involved in sleep and emotional activity.
+ileum
+1931
+0.211837021240037
+the third portion of the small intestine, between the jejunum and the caecum.
+iliac
+3305
+0.362569319108402
+relating to the ilium or the nearby regions of the lower body
+iliacus
+20
+0.002194065471155
+a triangular muscle which passes from the pelvis through the groin on either side and, together with the psoas, flexes the hip.
+ilium
+199
+0.021830951437995
+the large broad bone forming the upper part of each half of the pelvis.
+imperforate
+102
+0.011189733902892
+lacking the normal opening; not perforated
+incisor
+2078
+0.227963402453028
+a narrow-edged tooth at the front of the mouth, adapted for cutting. In humans there are four incisors in each jaw.
+incisure
+10
+0.001097032735578
+a deep indentation or notch in an edge or surface.
+incus
+109
+0.011957656817796
+a small anvil-shaped bone in the middle ear, transmitting vibrations between the malleus and stapes.
+inferiorly
+516
+0.056606889155805
+at, in, or into a lower position
+infra-
+0
+0
+below
+infrarenal
+283
+0.031046026416846
+below the kidney.
+infundibular
+195
+0.021392138343764
+funnel-shaped
+infundibulum
+195
+0.021392138343764
+a funnel-shaped cavity or structure.
+inguinal
+2438
+0.267456580933822
+of the groin
+inion
+33
+0.003620208027406
+the projecting part of the occipital bone at the base of the skull.
+innards
+4708
+0.51648301190994
+entrails.
+innervate
+604
+0.066260777228888
+supply (an organ or other body part) with nerves.
+innie
+71
+0.007788932422601
+a concave navel
+instep
+715
+0.078437840593799
+the part of a person's foot between the ball and the ankle.
+interarticular
+6
+0.000658219641347
+existing or acting between the adjacent surfaces of a joint.
+intercostal
+1899
+0.208326516486189
+situated between the ribs
+intercrural
+4
+0.000438813094231
+between the legs.
+interdigital
+116
+0.012725579732701
+between the fingers or toes.
+interlobular
+225
+0.024683236550497
+situated between lobes (e.g. of the kidney or liver).
+internal
+441532
+48.43750578050546
+of or situated on the inside
+internally
+58715
+6.441227706943954
+with reference to the inner surface or structure of something; inside
+interneuron
+781
+0.085678256648611
+a neuron which transmits impulses between other neurons, especially as part of a reflex arc.
+internuncial
+2
+0.000219406547116
+(of neurons) forming connections between other neurons in the central nervous system.
+interosseous
+383
+0.042016353772622
+situated between bones
+interseptal
+18
+0.00197465892404
+situated between septa or partitions.
+interspinal
+8
+0.000877626188462
+situated between the spines or spinose protuberances of the vertebrae.
+intervertebral
+1444
+0.158411527017407
+situated between vertebrae
+intestine
+15884
+1.74252679719148
+(in vertebrates) the lower part of the alimentary canal from the end of the stomach to the anus
+intima
+809
+0.088749948308229
+the innermost coating or membrane of a part or organ, especially of a vein or artery.
+intra-abdominal
+1801
+0.197575595677529
+situated or occurring within the abdomen
+intracranial
+12745
+1.398168221493668
+within the skull
+intramuscular
+3592
+0.394054158619479
+situated or taking place within, or administered into, a muscle
+invaginate
+37
+0.004059021121638
+be turned inside out or folded back on itself to form a cavity or pouch.
+invagination
+521
+0.057155405523593
+the action or process of being turned inside out or folded back on itself to form a cavity or pouch.
+involucre
+1
+0.000109703273558
+a membranous envelope.
+ipsilateral
+4770
+0.523284614870523
+belonging to or occurring on the same side of the body.
+iris
+9344
+1.025067388123722
+a flat, coloured, ring-shaped membrane behind the cornea of the eye, with an adjustable circular opening (pupil) in the centre.
+ischium
+66
+0.007240416054812
+the curved bone forming the base of each half of the pelvis.
+jaw
+41251
+4.525369737531212
+each of the upper and lower bony structures in vertebrates forming the framework of the mouth and containing the teeth.
+jawbone
+2303
+0.252646639003524
+a bone of the jaw, especially that of the lower jaw (the mandible), or either half of this.
+jawline
+1866
+0.204706308458783
+the contour of the lower edge of a person's jaw
+jejunum
+1242
+0.136251465758739
+the part of the small intestine between the duodenum and ileum.
+jugal
+72
+0.007898635696158
+relating to the zygoma (the bony arch of the cheek).
+jugular
+5015
+0.550161916892173
+of the neck or throat.
+juxtaglomerular
+49
+0.005375460404331
+denoting a group of structures secreting regulatory hormones into the arteriole which leads into a glomerulus in the kidney
+kidney
+97101
+10.65229756573218
+each of a pair of organs in the abdominal cavity of mammals, birds, and reptiles, that excrete urine.
+knee
+296639
+32.542269364900754
+the joint between the thigh and the lower leg in humans.
+kneecap
+2747
+0.30135489246317
+the convex bone in front of the knee joint; the patella.
+knuckle
+7524
+0.825407430248598
+a part of a finger at a joint where the bone is near the surface, especially where the finger joins the hand.
+knucklebone
+16
+0.001755252376924
+a bone forming or corresponding to a knuckle.
+labia
+1819
+0.199550254601568
+the inner and outer folds of the vulva, at either side of the vagina.
+labial
+1218
+0.133618587193354
+relating to the lips.
+lacteal
+72
+0.007898635696159
+of milk.
+lactiferous
+22
+0.002413472018271
+forming or conveying milk or milky fluid
+lambdoid
+93
+0.010202404440872
+resembling the Greek letter lambda in form.
+lamina
+3027
+0.332071809059344
+a thin layer, plate, or scale of sedimentary rock, organic tissue, or other material.
+lanugo
+35
+0.003839614574522
+fine, soft hair, especially that which covers the body and limbs of a human fetus.
+laryngeal
+3790
+0.415775406783916
+relating to the larynx
+larynx
+2928
+0.321211184977125
+the hollow muscular organ forming an air passage to the lungs and holding the vocal cords in humans and other mammals; the voice box.
+lateral
+53528
+5.872196826999847
+of, at, towards, or from the side or sides
+latissimus
+987
+0.10827713100151
+either of a pair of large, roughly triangular muscles covering the lower part of the back, extending from the sacral, lumbar, and lower thoracic vertebrae to the armpits.
+leptomeninges
+165
+0.018101040137031
+the inner two meninges, the arachnoid and the pia mater, between which circulates the cerebrospinal fluid.
+levator
+876
+0.096100067636598
+a muscle whose contraction causes the raising of a part of the body
+ligament
+27520
+3.019034088309591
+a short band of tough, flexible fibrous connective tissue which connects two bones or cartilages or holds together a joint.
+limbus
+279
+0.030607213322615
+the border or margin of a structure, especially the junction of the cornea and sclera in the eye.
+lingual
+2202
+0.241566608374191
+relating to, near, or on the side towards the tongue.
+lip
+67109
+7.362076985187802
+either of the two fleshy parts which form the upper and lower edges of the opening of the mouth
+liver
+169270
+18.569473115122257
+a large lobed glandular organ in the abdomen of vertebrates, involved in many metabolic processes
+lobar
+1129
+0.123854995846712
+relating to or affecting a lobe, especially a whole lobe of a lung.
+lobe
+15318
+1.680434744357787
+a roundish and flattish projecting or hanging part of something, typically one of two or more such parts divided by a fissure
+lobulate
+9
+0.00098732946202
+having or consisting of a small lobe or lobes
+lobule
+931
+0.102133747682275
+a small lobe.
+loin
+4320
+0.473918141769529
+the part of the body on both sides of the spine between the lowest (false) ribs and the hip bones.
+lughole
+23
+0.002523175291829
+a person's ear.
+lumbar
+13812
+1.515221614379799
+relating to the lower part of the back
+lumen
+7960
+0.87323805751978
+the SI unit of luminous flux, equal to the amount of light emitted per second in a unit solid angle of one steradian from a uniform source of one candela.
+lung
+154153
+16.911088728749576
+each of the pair of organs situated within the ribcage, consisting of elastic sacs with branching passages into which air is drawn, so that oxygen can pass into the blood and carbon dioxide be removed. Lungs are characteristic of vertebrates other than fish, though similar structures are present in some other animal groups.
+lunged
+4744
+0.52043232975802
+having lungs, especially of a specified kind
+lunula
+46
+0.005046350583657
+the white area at the base of a fingernail.
+luteal
+727
+0.079754279876492
+relating to the corpus luteum.
+lymphoid
+5515
+0.605013553671053
+relating to or denoting the tissue responsible for producing lymphocytes and antibodies. This tissue occurs in the lymph nodes, thymus, tonsils, and spleen, and dispersed elsewhere in the body.
+macrocephalic
+9
+0.000987329462021
+having an unusually large head.
+macula
+886
+0.097197100372176
+an oval yellowish area surrounding the fovea near the centre of the retina in the eye, which is the region of keenest vision.
+macular
+7007
+0.768690837819234
+relating to the macula of the eye
+malar
+450
+0.049366473100992
+relating to the cheek
+malleolus
+236
+0.025889972559632
+a bony projection with a shape likened to a hammer head, especially each of those on either side of the ankle.
+malleus
+100
+0.010970327355776
+a small bone in the middle ear which transmits vibrations of the eardrum to the incus.
+malpighian
+17
+0.001864955650482
+denoting structures in the body described by the Italian microscopist Marcello Malpighi
+mamilla
+1
+0.000109703273558
+the nipple of a woman's breast.
+mamma
+1092
+0.119795974725075
+a milk-secreting organ of female mammals (in humans, the breast).
+mammary
+7440
+0.816192355269744
+denoting or relating to the human female breasts or the milk-secreting organs of other mammals
+mandible
+4307
+0.472491999213278
+the jaw or a jawbone, especially the lower jawbone in mammals and fishes.
+manubrium
+106
+0.011628546997123
+a handle-shaped projection or part.
+manus
+173
+0.018978666325492
+the terminal segment of a forelimb, corresponding to the hand and wrist in humans.
+masseter
+855
+0.093796298891886
+a muscle which runs through the rear part of the cheek from the temporal bone to the lower jaw on each side and closes the jaw in chewing.
+mastoid
+483
+0.052986681128399
+relating to the mastoid process
+maxilla
+2223
+0.243870377118903
+the jaw or jawbone, specifically the upper jaw in most vertebrates. In humans it also forms part of the nose and eye socket.
+maxillary
+7743
+0.849432447157747
+of or attached to a jaw or jawbone, especially the upper jaw
+maxillofacial
+1710
+0.187592597783772
+relating to the jaws and face
+meatus
+364
+0.039931991575026
+a passage or opening leading to the interior of the body
+media
+2253887
+247.2587821292819
+the main means of mass communication (broadcasting, publishing, and the Internet) regarded collectively
+medial
+17473
+1.916845298874763
+situated in the middle.
+mediastinum
+1211
+0.132850664278449
+a membranous partition between two body cavities or two parts of an organ, especially that between the lungs.
+medulla
+1942
+0.213043757249172
+the inner region of an organ or tissue, especially when it is distinct from the outer region or cortex (as in a kidney, an adrenal gland, or hair)
+medullary
+2123
+0.232900049763127
+relating to the inner region of an organ, tissue, or structure
+meibomian
+250
+0.02742581838944
+relating to or denoting large sebaceous glands of the human eyelid, whose infection results in inflammation and swelling
+melanocyte
+808
+0.088640245034671
+a mature melanin-forming cell, especially in the skin.
+melanocytic
+1504
+0.164993723430873
+Of or relating to a melanocyte; involving melanocytes.
+meninges
+700
+0.076792291490433
+the three membranes (the dura mater, arachnoid, and pia mater) that line the skull and vertebral canal and enclose the brain and spinal cord.
+mesentery
+623
+0.068345139426485
+a fold of the peritoneum which attaches the stomach, small intestine, pancreas, spleen, and other organs to the posterior wall of the abdomen.
+mesial
+1646
+0.180571588276075
+relating to or directed towards the middle line of a body.
+mesocephalic
+2
+0.000219406547116
+having a head of medium proportions, not markedly brachycephalic or dolichocephalic.
+mesogastric
+1
+0.000109703273558
+relating to the middle region of the abdomen between the epigastrium and the hypogastrium
+mesogastrium
+46
+0.005046350583657
+the middle region of the abdomen between the epigastrium and the hypogastrium.
+mesothelium
+133
+0.014590535383183
+the epithelium that lines the pleurae, peritoneum, and pericardium.
+metacarpal
+964
+0.105753955709683
+any of the five bones of the hand.
+metacarpus
+27
+0.00296198838606
+the group of five bones of the hand between the wrist (carpus) and the fingers.
+metatarsal
+1896
+0.207997406665516
+any of the bones of the foot.
+metatarsus
+64
+0.007021009507697
+the group of bones in the foot, between the ankle and the toes.
+microvascular
+6095
+0.668641452334555
+relating to the smallest blood vessels.
+midbrain
+2779
+0.304865397217018
+a small central part of the brainstem, developing from the middle of the primitive or embryonic brain.
+midline
+5244
+0.5752839665369
+a median line or plane of bilateral symmetry, especially that of the body
+midriff
+3605
+0.39548030117573
+the region of the front of the body between the chest and the waist
+modiolus
+76
+0.00833744879039
+the conical central axis of the cochlea of the ear.
+molar
+8046
+0.882672539045747
+a grinding tooth at the back of a mammal's mouth.
+mouth
+228348
+25.050523110367678
+the opening and cavity in the lower part of the human face, surrounded by the lips, through which food is taken in and vocal sounds are emitted
+mucosa
+11687
+1.282102158069557
+a mucous membrane
+mucous
+3023
+0.331632995965112
+relating to, producing, covered with, or of the nature of mucus.
+mundowie
+0
+0
+a footstep
+muscle
+233116
+25.57358831869108
+a band or bundle of fibrous tissue in a human or animal body that has the ability to contract, producing movement in or maintaining the position of parts of the body
+muscled
+4910
+0.538643073168609
+having well-developed muscles
+musculature
+2119
+0.232461236668897
+the system or arrangement of muscles in a body, part of the body, or an organ
+musculoskeletal
+8043
+0.882343429225074
+relating to or denoting the musculature and skeleton together.
+myelin
+6016
+0.659974893723492
+a mixture of proteins and phospholipids forming a whitish insulating sheath around many nerve fibres, which increases the speed at which impulses are conducted.
+myelinated
+970
+0.106412175351029
+(of a nerve fibre) enclosed in a myelin sheath
+myeloid
+10589
+1.161647963703135
+relating to bone marrow.
+myenteric
+641
+0.070319798350525
+relating to or denoting a plexus of nerves of the sympathetic and parasympathetic systems situated between and supplying the two layers of muscle in the small intestine.
+myo-
+3
+0.000329109820673
+of muscle; relating to muscles
+myocardial
+39893
+4.376392692039772
+relating to the muscular tissue of the heart
+myocardium
+6482
+0.711096619201409
+the muscular tissue of the heart.
+myofibril
+160
+0.017552523769242
+any of the elongated contractile threads found in striated muscle cells.
+myology
+20
+0.002194065471156
+the study of the structure, arrangement, and action of muscles.
+myometrium
+573
+0.062859975748597
+the smooth muscle tissue of the uterus.
+nape
+1266
+0.138884344324125
+the back of a person's neck
+nares
+254
+0.027864631483672
+the nostrils.
+naso-
+1
+0.000109703273558
+relating to the nose
+nasopharyngeal
+3045
+0.334046467983383
+relating to the upper part of the pharynx, connecting with the nasal cavity above the soft palate
+nasopharynx
+784
+0.086007366469285
+the upper part of the pharynx, connecting with the nasal cavity above the soft palate.
+natal
+3734
+0.40963202346468
+relating to the place or time of one's birth
+nates
+27
+0.00296198838606
+the buttocks.
+navel
+3423
+0.375514305388217
+a rounded knotty depression in the centre of a person's belly caused by the detachment of the umbilical cord after birth; the umbilicus.
+neck
+220093
+24.144922587148358
+the part of a person's or animal's body connecting the head to the rest of the body
+neocortex
+1989
+0.218199811106388
+a part of the cerebral cortex concerned with sight and hearing in mammals, regarded as the most recently evolved part of the cortex.
+neocortical
+1033
+0.113323481585167
+relating to the part of the cerebral cortex concerned with sight and hearing in mammals
+nephritic
+118
+0.012944986279816
+of or in the kidneys; renal.
+nephro-
+1
+0.000109703273558
+of a kidney; relating to the kidneys
+nephron
+649
+0.071197424538987
+each of the functional units in the kidney, consisting of a glomerulus and its associated tubule, through which the glomerular filtrate passes before emerging as urine.
+nerve
+109313
+11.991993942419558
+a whitish fibre or bundle of fibres in the body that transmits impulses of sensation to the brain or spinal cord, and impulses from these to the muscles and organs
+neural
+57759
+6.336351377422735
+relating to a nerve or the nervous system
+neurilemma
+0
+0
+the thin sheath around a nerve axon (including myelin where this is present).
+neuroanatomy
+562
+0.061653239739462
+the anatomy of the nervous system.
+neuroepithelium
+200
+0.021940654711552
+a type of epithelium containing sensory nerve endings and found in certain sense organs (e.g. the retina, the inner ear, the nasal membranes, and the taste buds).
+neurofibril
+1
+0.000109703273558
+a fibril in the cytoplasm of a nerve cell, visible by light microscopy.
+neurohypophysis
+69
+0.007569525875486
+the posterior lobe of the hypophysis (pituitary gland), which stores and releases oxytocin and vasopressin produced in the hypothalamus.
+neurological
+48463
+5.316549746429787
+relating to the anatomy, functions, and organic disorders of nerves and the nervous system
+neurologist
+8499
+0.932368121967413
+a specialist in the anatomy, functions, and organic disorders of nerves and the nervous system
+neurology
+9009
+0.988316791481872
+the branch of medicine or biology that deals with the anatomy, functions, and organic disorders of nerves and the nervous system.
+neuromuscular
+7947
+0.871811914963529
+relating to nerves and muscles.
+neuron
+20588
+2.25857099600719
+a specialized cell transmitting nerve impulses; a nerve cell.
+neuronal
+37646
+4.129889436355482
+relating to a neuron or neurons
+neuropil
+657
+0.072075050727449
+a dense network of interwoven nerve fibres and their branches and synapses, together with glial filaments.
+nipple
+9485
+1.040535549695366
+the small projection in which the mammary ducts of female mammals terminate and from which milk can be secreted.
+nose
+156001
+17.113820378284316
+the part projecting above the mouth on the face of a person or animal, containing the nostrils and used for breathing and smelling
+nostril
+2521
+0.276561952639116
+either of two external openings of the nasal cavity in vertebrates that admit air to the lungs and smells to the olfactory nerves.
+nuchal
+580
+0.063627898663501
+relating to the nape of the neck.
+obturator
+568
+0.062311459380808
+either of two muscles covering the outer front part of the pelvis on each side and involved in movements of the thigh and hip.
+occipital
+4465
+0.489825116435404
+relating to or situated in the back of the head
+occipito-
+0
+0
+relating to the occipital lobe or the occipital bone
+occipitotemporal
+103
+0.011299437176449
+relating to the occipital and temporal bones.
+occiput
+210
+0.02303768744713
+the back of the head.
+ocular
+9946
+1.091108758805493
+of or connected with the eyes or vision
+oculomotor
+861
+0.094454518533232
+relating to the motion of the eye.
+odonto-
+0
+0
+relating to a tooth or teeth
+odontoblast
+129
+0.014151722288951
+a cell in the pulp of a tooth that produces dentine.
+odontoid
+489
+0.053644900769745
+a projection from the second cervical vertebra (axis) on which the first (atlas) can pivot
+oesophageal
+2831
+0.310569967442022
+relating to the oesophagus
+oesophagus
+1968
+0.215896042361674
+the part of the alimentary canal which connects the throat to the stomach. In humans and other vertebrates it is a muscular tube lined with mucous membrane.
+olecranon
+218
+0.023915313635592
+a bony prominence at the elbow, on the upper end of the ulna.
+oligodendrocyte
+1381
+0.151500220783268
+a glial cell similar to an astrocyte but with fewer protuberances, concerned with the production of myelin in the central nervous system.
+oligodendroglia
+96
+0.010531514261545
+oligodendrocytes collectively.
+olivary
+227
+0.024902643097612
+relating to or denoting the nucleus situated in the olive of the medulla oblongata in the brain.
+omentum
+675
+0.074049709651488
+a fold of peritoneum connecting the stomach with other abdominal organs.
+optic
+24155
+2.649882572787724
+relating to the eye or vision.
+orbicular
+30
+0.003291098206733
+having the shape of a flat ring or disc.
+orbitosphenoid
+0
+0
+a bone in the floor of the mammalian cranium, in the region of the optic nerve. In the human skull it is represented by the lesser wings of the sphenoid bone.
+orifice
+3080
+0.337886082557905
+an opening, particularly one in the body such as a nostril or the anus.
+oropharyngeal
+2861
+0.313861065648756
+relating to the part of the pharynx that lies between the soft palate and the hyoid bone
+oropharynx
+896
+0.098294133107755
+the part of the pharynx that lies between the soft palate and the hyoid bone.
+orthocephalic
+0
+0
+having a head with a medium ratio of breadth to height.
+os
+7529
+0.825955946616385
+(in calculating dates) Old Style.
+ossicle
+45
+0.004936647310099
+a very small bone, especially one of those in the middle ear.
+osteo-
+2
+0.000219406547116
+relating to the bones
+osteology
+67
+0.00735011932837
+the study of the structure and function of the skeleton and bony structures.
+ostium
+968
+0.106192768803913
+an opening into a vessel or cavity of the body.
+otic
+630
+0.069113062341389
+relating to the ear.
+oto-
+0
+0
+(used chiefly in medical terms) relating to the ears
+otolith
+201
+0.02205035798511
+each of three small oval calcareous bodies in the inner ear of vertebrates, involved in sensing gravity and movement.
+otology
+65
+0.007130712781254
+the study of the anatomy and diseases of the ear.
+ovarian
+40915
+4.488509437615803
+relating to an ovary or the ovaries
+ovary
+6875
+0.754210005709608
+a female reproductive organ in which ova or eggs are produced, present in humans and other vertebrates as a pair.
+overactive
+3392
+0.372113503907927
+excessively active
+ovi-
+0
+0
+relating to eggs or ova
+oviduct
+501
+0.054961340052438
+the tube through which an ovum or egg passes from an ovary.
+oxyntic
+82
+0.008995668431736
+of or denoting the secretory cells which produce hydrochloric acid in the main part of the stomach, or the glands which they compose.
+palatal
+2150
+0.235862038149187
+relating to the palate
+palate
+24130
+2.64713999094878
+the roof of the mouth, separating the cavities of the mouth and nose in vertebrates.
+palatine
+415
+0.045526858526471
+(of an official or feudal lord) having local authority that elsewhere belongs only to a sovereign.
+palm
+64147
+7.037135888909715
+an unbranched evergreen tree of tropical and warm regions, with a crown of very long feathered or fan-shaped leaves, and typically having old leaf scars forming a regular pattern on the trunk.
+palmar
+860
+0.094344815259674
+relating to the palm of the hand
+palpebral
+383
+0.042016353772623
+relating to the eyelids.
+pancreas
+15202
+1.667709164625087
+a large gland behind the stomach which secretes digestive enzymes into the duodenum. Embedded in the pancreas are the islets of Langerhans, which secrete into the blood the hormones insulin and glucagon.
+pancreatic
+41345
+4.535681845245641
+relating to the pancreas
+papilla
+1008
+0.110580899746223
+a small rounded protuberance on a part or organ of the body
+papillary
+5934
+0.650979225291756
+relating to or having the form of a papilla or papillae
+parasagittal
+297
+0.032581872246655
+relating to or situated in a plane adjacent or parallel to the plane which divides the body into right and left halves.
+parasternal
+678
+0.074378819472162
+situated beside the sternum.
+parathyroid
+2984
+0.327354568296359
+a gland next to the thyroid which secretes a hormone (parathyroid hormone) that regulates calcium levels in a person's body
+paraventricular
+679
+0.07448852274572
+situated next to a ventricle of the brain.
+paraxial
+214
+0.023476500541361
+situated alongside, or on each side of, an axis, especially the central axis of the body.
+parenchyma
+3874
+0.424990481762767
+the functional tissue of an organ as distinguished from the connective and supporting tissue
+parenchymal
+2663
+0.292139817484319
+relating to or affecting the functional tissue of an organ
+parietal
+6502
+0.713290684672564
+relating to or denoting the wall of the body or of a body cavity or hollow structure.
+parotid
+1829
+0.200647287337145
+relating to, situated near, or affecting a parotid gland
+patella
+2030
+0.222697645322255
+the kneecap.
+pec
+637
+0.069880985256294
+a pectoral muscle (especially with reference to the development of these muscles in bodybuilding)
+pectoral
+5277
+0.578904174564307
+relating to the breast or chest
+pedal
+47303
+5.189293949102783
+each of a pair of foot-operated levers used for powering a bicycle or other vehicle propelled by the legs.
+pedicle
+3683
+0.404037156513235
+a small stalklike structure connecting an organ or other part to the human or animal body.
+pellicle
+266
+0.029181070766365
+a thin skin, cuticle, membrane, or film.
+pelvic
+21955
+2.40853537096065
+relating to or situated within the bony pelvis.
+pelvis
+12177
+1.335856762112859
+the large bony frame near the base of the spine to which the hindlimbs or legs are attached in humans and many other vertebrates.
+penile
+5339
+0.585705777524888
+relating to or affecting the penis.
+penis
+32445
+3.559322710581565
+the male genital organ of higher vertebrates, carrying the duct for the transfer of sperm during copulation. In humans and most other mammals it consists largely of erectile tissue and is used also for urination.
+pericardium
+1179
+0.1293401595246
+the membrane enclosing the heart, consisting of an outer fibrous layer and an inner double layer of serous membrane.
+perichondrium
+116
+0.012725579732701
+the connective tissue that envelops cartilage where it is not at a joint.
+pericranium
+48
+0.005265757130773
+the periosteum (vascular connective tissue) enveloping the skull.
+perilymph
+61
+0.006691899687024
+the fluid between the membraneous labyrinth of the ear and the bone which encloses it.
+perilymphatic
+57
+0.006253086592793
+relating to the fluid between the membraneous labyrinth of the ear and the bone that encloses it
+perimysium
+24
+0.002632878565386
+the sheath of connective tissue surrounding a bundle of muscle fibres.
+perineum
+728
+0.07986398315005
+the area between the anus and the scrotum or vulva.
+perineural
+956
+0.10487632952122
+located around a nerve or a bundle of nerve fibres
+perineurium
+84
+0.009215074978852
+the sheath of connective tissue surrounding a bundle (fascicle) of nerve fibres within a nerve.
+periosteum
+571
+0.062640569201482
+a dense layer of vascular connective tissue enveloping the bones except at the surfaces of the joints.
+peritoneum
+1134
+0.124403512214501
+the serous membrane lining the cavity of the abdomen and covering the abdominal organs.
+perivascular
+2246
+0.246393552410732
+situated or occurring around a blood vessel.
+periventricular
+1071
+0.117492205980362
+situated or occurring around a ventricle, especially a ventricle of the brain.
+peroneal
+1046
+0.114749624141419
+relating to or situated in the outer side of the calf of the leg.
+pes
+452
+0.049585879648108
+the human foot, or the corresponding terminal segment of the hindlimb of a vertebrate animal.
+petrosal
+167
+0.018320446684146
+the dense part of the temporal bone at the base of the skull, surrounding the inner ear.
+phalange
+86
+0.009434481525967
+a right-wing Maronite party in Lebanon founded in 1936 by Pierre Gemayel.
+phalangeal
+227
+0.024902643097612
+relating to a phalanx or the phalanges.
+pharyngeal
+2642
+0.289836048739605
+relating to the pharynx.
+pharyngo-
+0
+0
+relating to the pharynx
+pharynx
+1309
+0.143601585087109
+the membrane-lined cavity behind the nose and mouth, connecting them to the oesophagus.
+philtrum
+234
+0.025670566012517
+the vertical groove between the base of the nose and the border of the upper lip.
+phrenic
+1035
+0.113542888132284
+relating to the diaphragm
+pia
+418
+0.045855968347144
+the delicate innermost membrane enveloping the brain and spinal cord.
+pineal
+1439
+0.157863010649619
+a pea-sized conical mass of tissue behind the third ventricle of the brain, secreting a hormone-like substance in some mammals.
+pinna
+210
+0.02303768744713
+the external part of the ear in humans and other mammals; the auricle.
+pisiform
+85
+0.00932477825241
+a small rounded carpal bone situated where the palm of the hand meets the outer edge of the wrist and articulating with the triquetral.
+pituitary
+7820
+0.857879599221694
+the major endocrine gland, a pea-sized body attached to the base of the brain that is important in controlling growth and development and the functioning of the other endocrine glands.
+placenta
+10905
+1.196314198147387
+a flattened circular organ in the uterus of pregnant eutherian mammals, nourishing and maintaining the fetus through the umbilical cord.
+placentation
+284
+0.031155729690404
+the formation or arrangement of a placenta or placentae in a woman's or female animal's uterus.
+plantar
+6184
+0.678405043681197
+relating to the sole of the foot
+plastination
+163
+0.017881633589915
+a technique for the preservation of animal and human tissue by which body fluids and fat are replaced with synthetic materials such as silicone resins or epoxy polymers
+platysma
+181
+0.019856292513955
+a broad sheet of muscle fibres extending from the collar bone to the angle of the jaw.
+pleura
+920
+0.10092701167314
+each of a pair of serous membranes lining the thorax and enveloping the lungs in humans and other mammals.
+pleuro-
+0
+0
+relating to the pleura or pleurae
+plexiform
+596
+0.065383151040425
+having the form of a network of nerves or vessels in the body
+plexus
+4817
+0.528440668727736
+a network of nerves or vessels in the body.
+plica
+97
+0.010641217535103
+a fold or ridge of tissue.
+pneumo-
+0
+0
+relating to the lungs
+pneumogastric
+4
+0.000438813094231
+relating to the lungs and stomach.
+pollex
+13
+0.001426142556251
+the innermost digit of a forelimb, especially the thumb in primates.
+pons
+1042
+0.114310811047187
+the part of the brainstem that links the medulla oblongata and the thalamus.
+pontine
+863
+0.094673925080348
+relating to or affecting the pons of the brain
+popliteal
+845
+0.092699266156309
+relating to or situated in the hollow at the back of the knee.
+portal
+79204
+8.688938078868926
+a doorway, gate, or other entrance, especially a large and imposing one.
+posterior
+34948
+3.833910004296642
+further back in position; of or nearer the rear or hind end
+precordium
+37
+0.004059021121637
+the region of the thorax immediately in front of or over the heart.
+predorsal
+0
+0
+in front of the dorsal region.
+prefrontal
+11334
+1.243376902503666
+in or relating to the foremost part of the frontal lobe of the brain
+prehension
+79
+0.008666558611063
+the action of grasping or seizing.
+premaxillary
+101
+0.011080030629334
+situated in front of the maxilla.
+premolar
+1259
+0.138116421409221
+a tooth situated between the canine and the molar teeth. An adult human normally has eight, two in each jaw on each side.
+premotor
+1294
+0.141956035983743
+relating to or denoting the anterior part of the motor cortex in the frontal lobe of the brain, which is concerned with coordinating voluntary movement.
+preocular
+6
+0.000658219641347
+in front of the eye.
+prepuce
+120
+0.013164392826931
+the fold of skin surrounding the clitoris.
+prognathous
+12
+0.001316439282693
+having a projecting lower jaw or chin.
+pronate
+112
+0.01228676663847
+turn or hold (a hand, foot, or limb) so that the palm or sole is facing downwards or inwards
+pronated
+154
+0.016894304127896
+(of a hand, foot, or limb) turned or held so that the palm or sole is facing downwards or inwards
+pronator
+269
+0.029510180587038
+a muscle whose contraction produces or assists in the pronation of a limb or part of a limb.
+prostate
+77133
+8.461742599330803
+a gland surrounding the neck of the bladder in male mammals and releasing a fluid component of semen.
+proximal
+20149
+2.210411258915333
+situated nearer to the centre of the body or the point of attachment
+psoas
+490
+0.053754604043303
+each of a pair of large muscles which run from the lumbar spine through the groin on either side and, with the iliacus, flex the hip. A second muscle, the psoas minor, has a similar action but is often absent.
+pubes
+585
+0.064176415031291
+the lower part of the abdomen at the front of the pelvis, covered with hair from puberty.
+pubic
+6161
+0.675881868389367
+relating to the pubes or pubis
+pubis
+504
+0.055290449873112
+either of a pair of bones forming the two sides of the pelvis.
+pudendum
+24
+0.002632878565387
+a person's external genitals, especially a woman's.
+pulmonary
+61353
+6.730624942589328
+relating to the lungs
+pupil
+33132
+3.634688859515747
+a person who is taught by another, especially a schoolchild or student in relation to a teacher
+putamen
+1994
+0.218748327474176
+the outer part of the lentiform nucleus of the brain.
+pyloric
+835
+0.091602233420731
+relating to or affecting the region where the stomach opens into the duodenum
+pylorus
+376
+0.041248430857718
+the opening from the stomach into the duodenum.
+pyriform
+181
+0.019856292513955
+pear-shaped
+quadratus
+120
+0.013164392826932
+any of several roughly square or rectangular muscles, e.g. in the abdomen, thigh, and eye socket.
+quadriceps
+5883
+0.64538435834031
+the large muscle at the front of the thigh, which is divided into four distinct portions and acts to extend the leg
+quim
+43
+0.004717240762984
+a woman's genitals.
+radicular
+658
+0.072184754001007
+affecting or relating to the root of a spinal nerve
+ramus
+686
+0.075256445660625
+an arm or branch of a bone, in particular those of the ischium and pubes or of the jawbone.
+raphe
+995
+0.109154757189973
+a groove, ridge, or seam in an organ or tissue, typically marking the line where two halves fused in the embryo.
+rectal
+14501
+1.590807169861096
+relating to or affecting the rectum
+rectum
+6426
+0.704953235882174
+the final section of the large intestine, terminating at the anus.
+rectus
+1841
+0.201963726619838
+any of several straight muscles.
+renal
+60473
+6.634086061858499
+relating to the kidneys
+rete
+228
+0.025012346371169
+an elaborate network of blood vessels or nerve cells.
+reticular
+1372
+0.150512891321248
+characterized by a fine network or netlike structure
+reticulum
+4570
+0.501343960158969
+a fine network or netlike structure.
+retiform
+18
+0.00197465892404
+having the form of or resembling a net.
+retina
+21294
+2.336021507138969
+a layer at the back of the eyeball that contains cells sensitive to light, which trigger nerve impulses that pass via the optic nerve to the brain, where a visual image is formed.
+retinal
+17517
+1.921672242911305
+relating to the retina
+retractor
+660
+0.072404160548122
+a device for retracting something
+retrobulbar
+179
+0.019636885966839
+situated or occurring behind the eyeball
+retroflex
+21
+0.002303768744713
+turned backwards
+retroperitoneal
+1739
+0.190773992716947
+situated or occurring behind the peritoneum.
+retrosternal
+165
+0.018101040137031
+behind the breastbone
+rhinal
+26
+0.002852285112502
+relating to the nose or the olfactory part of the brain.
+rhino-
+0
+0
+relating to the nose
+rhomboideus
+3
+0.000329109820673
+a muscle connecting the shoulder blade to the vertebrae.
+rib
+33854
+3.713894623024452
+each of a series of slender curved bones articulated in pairs to the spine (twelve pairs in humans), protecting the thoracic cavity and its organs
+ribcage
+1780
+0.195271826932816
+the bony frame formed by the ribs round the chest.
+rostral
+1628
+0.178596929352035
+situated or occurring near the front end of the body, especially in the region of the nose and mouth or (in an embryo) near the hypophyseal region
+sac
+11472
+1.258515954254637
+a hollow, flexible structure resembling a bag or pouch
+saccule
+59
+0.006472493139908
+a small sac, pouch, or cyst.
+sacculus
+78
+0.008556855337506
+the smaller of the two fluid-filled sacs forming part of the labyrinth of the inner ear (the other being the utriculus). It contains a region of hair cells and otoliths which send signals to the brain concerning the orientation of the head.
+sacro-
+0
+0
+relating to the sacrum
+sacroiliac
+654
+0.071745940906776
+relating to the sacrum and the ilium.
+sacrum
+767
+0.084142410818803
+a triangular bone in the lower back formed from fused vertebrae and situated between the two hip bones of the pelvis.
+sagittal
+6316
+0.69288587579082
+relating to or denoting the suture on top of the skull which runs between the parietal bones in a front to back direction.
+saphenous
+1208
+0.132521554457776
+relating to or denoting either of the two large superficial veins in the leg.
+sarcolemma
+336
+0.036860299915408
+the fine transparent tubular sheath which envelops the fibres of skeletal muscles.
+sarcomere
+875
+0.095990364363041
+a structural unit of a myofibril in striated muscle, consisting of a dark band and the nearer half of each adjacent pale band.
+sarcoplasm
+41
+0.004497834215868
+the cytoplasm of striated muscle cells.
+sartorius
+175
+0.019198072872609
+a long, narrow muscle running obliquely across the front of each thigh from the hip bone to the inside of the leg below the knee.
+scalenus
+10
+0.001097032735578
+any of several muscles extending from the neck to the first and second ribs.
+scaphoid
+484
+0.053096384401956
+a large carpal bone articulating with the radius below the thumb
+scapular
+1138
+0.124842325308731
+relating to the shoulder or shoulder blade.
+scarf-skin
+2
+0.000219406547116
+the thin outer layer of the skin; the epidermis
+sciatic
+2534
+0.277988095195367
+relating to the hip.
+sclera
+539
+0.059130064447634
+the white outer layer of the eyeball. At the front of the eye it is continuous with the cornea.
+scrotum
+2063
+0.226317853349661
+a pouch of skin containing the testicles.
+sebaceous
+1327
+0.14557624401115
+relating to oil or fat.
+secretor
+141
+0.015468161571645
+a cell, gland, or organ that secretes a substance
+sella
+568
+0.062311459380809
+a depression in the sphenoid bone, containing the pituitary gland.
+semilunar
+175
+0.019198072872608
+shaped like a half-moon or crescent.
+seminiferous
+550
+0.060336800456769
+producing or conveying semen.
+sensorial
+745
+0.081728938800533
+relating to sensation or the senses
+sensorium
+396
+0.043442496328874
+the sensory apparatus or faculties considered as a whole
+septal
+7837
+0.859744554872175
+relating to a septum or septa.
+septate
+209
+0.022927984173572
+having or partitioned by a septum or septa.
+septum
+5877
+0.644726138698963
+a partition separating two chambers, such as that between the nostrils or the chambers of the heart.
+sesamoid
+283
+0.031046026416846
+a small independent bone or bony nodule developed in a tendon where it passes over an angular structure, typically in the hands and feet. The kneecap is a particularly large sesamoid bone.
+shin
+10054
+1.102956712349732
+the front of the leg below the knee.
+shoulder
+268086
+29.409911795005996
+the upper joint of each of a person's arms and the part of the body between this and the neck
+shouldered
+4374
+0.479842118541649
+(of a person or garment) having shoulders of a specified kind
+sinciput
+0
+0
+the front of the skull from the forehead to the crown.
+sinew
+1020
+0.111897339028917
+a piece of tough fibrous tissue uniting muscle to bone; a tendon or ligament
+sino-atrial
+58
+0.00636278986635
+relating to or denoting a small body of specialized muscle tissue (the sino-atrial node) in the wall of the right atrium of the heart, whose contractions regulate the heartbeat.
+sinus
+18942
+2.077999407731114
+a cavity within a bone or other tissue, especially one in the bones of the face or skull connecting with the nasal cavities.
+skeletal
+28438
+3.119741693435616
+relating to or functioning as a skeleton
+skeleton
+28163
+3.089573293207231
+an internal or external framework of bone, cartilage, or other rigid material supporting or containing the body of an animal or plant
+skin
+509976
+55.946036635892874
+the thin layer of tissue forming the natural outer covering of the body of a person or animal
+skull
+49146
+5.391477082269737
+a bone framework enclosing the brain of a vertebrate; the skeleton of a person's or animal's head
+smegma
+82
+0.008995668431737
+a sebaceous secretion in the folds of the skin, especially under a man's foreskin.
+soleus
+1347
+0.147770309482305
+a broad muscle in the lower calf, below the gastrocnemius, which flexes the foot to point the toes downwards.
+somato-
+0
+0
+relating to the human or animal body
+sphenoid
+611
+0.067028700143792
+a compound bone which forms the base of the cranium, behind the eye and below the front part of the brain. It has two pairs of broad lateral ‘wings’ and a number of other projections, and contains two air-filled sinuses.
+sphincter
+3988
+0.437496654948352
+a ring of muscle surrounding and serving to guard or close an opening or tube, such as the anus or the openings of the stomach
+sphingo-
+0
+0
+used in the names of various related compounds isolated from the brain and nervous tissue
+spinal
+65531
+7.188965219513657
+relating to the spine
+spine
+58267
+6.392080640390077
+a series of vertebrae extending from the skull to the small of the back, enclosing the spinal cord and providing support for the thorax and abdomen; the backbone
+splanchnic
+540
+0.059239767721192
+relating to the viscera or internal organs, especially those of the abdomen.
+spleen
+13395
+1.469475349306213
+an abdominal organ involved in the production and removal of blood cells in most vertebrates and forming part of the immune system.
+splen-
+0
+0
+relating to the spleen
+splenium
+368
+0.040370804669256
+the thick posterior part of the corpus callosum of the brain.
+splenius
+48
+0.005265757130773
+either of two muscles attached to the vertebrae in the neck and upper back which draw back the head.
+squamocolumnar
+66
+0.007240416054813
+relating to or denoting a junction between layers of stratified squamous cells and columnar cells in epithelial tissue.
+squamosal
+49
+0.005375460404331
+the squamous portion of the temporal bone, especially when this forms a separate bone which, in mammals, articulates with the lower jaw.
+squamous
+17059
+1.87142814362185
+covered with or characterized by scales
+stapedial
+33
+0.003620208027406
+relating to the stapes
+stapes
+238
+0.026109379106748
+a small stirrup-shaped bone in the middle ear, transmitting vibrations from the incus to the inner ear.
+steatopygia
+6
+0.000658219641347
+accumulation of large amounts of fat on the buttocks, especially as a normal condition in the Khoikhoi and other peoples of arid parts of southern Africa.
+stellate
+1661
+0.182217137379442
+arranged in a radiating pattern like that of a star
+sternal
+1143
+0.125390841676521
+relating to the sternum
+sternocleidomastoid
+293
+0.032143059152424
+each of a pair of long muscles which connect the sternum, clavicle, and mastoid process of the temporal bone and serve to turn and nod the neck.
+sternum
+3016
+0.330865073050208
+the breastbone.
+stomach
+120833
+13.25577565380497
+the internal organ in which the major part of the digestion of food occurs, being (in humans and many mammals) a pear-shaped enlargement of the alimentary canal linking the oesophagus to the small intestine
+striate
+162
+0.017771930316357
+marked with striae
+stroma
+3779
+0.41456867077478
+the supportive tissue of an epithelial organ, tumour, gonad, etc., consisting of connective tissues and blood vessels
+stromal
+9460
+1.037792967856422
+relating to or affecting the supporting tissue (stroma) of an organ
+styloid
+208
+0.022818280900014
+resembling a stylus or pen.
+subarachnoid
+3497
+0.383632347631491
+denoting or occurring in the fluid-filled space around the brain between the arachnoid membrane and the pia mater, through which major blood vessels pass.
+subclavian
+1610
+0.176622270427996
+relating to or denoting an artery or vein which serves the neck and arm on the left or right side of the body.
+subcortical
+3605
+0.39548030117573
+below the cortex.
+subcostal
+226
+0.024792939824054
+beneath a rib; below the ribs.
+subcutaneous
+13410
+1.471120898409579
+situated or applied under the skin
+subdural
+2228
+0.244418893486692
+situated or occurring between the dura mater and the arachnoid membrane of the brain and spinal cord.
+sublingual
+2175
+0.238604619988131
+situated or applied under the tongue.
+submandibular
+1048
+0.114969030688534
+situated beneath the jaw or mandible.
+suborbital
+2041
+0.223904381331391
+situated below or behind the orbit of the eye.
+sudoriferous
+3
+0.000329109820674
+(of a gland) secreting sweat.
+sulcus
+1825
+0.200208474242915
+a groove or furrow, especially one on the surface of the brain.
+superciliary
+16
+0.001755252376924
+relating to the eyebrow or the region over the eye.
+superficial
+28758
+3.1548467409741
+existing or occurring at or on the surface
+supinate
+56
+0.006143383319235
+turn or hold (a hand, foot, or limb) so that the palm or sole is facing upwards or outwards
+supinated
+70
+0.007679229149043
+(of a hand, foot, or limb) turned or held so that the palm or sole is facing upwards or outwards
+supinator
+56
+0.006143383319235
+a muscle whose contraction produces or assists in the supination of a limb or part of a limb.
+supine
+4135
+0.453623036161343
+(of a person) lying face upwards.
+supraoptic
+132
+0.014480832109624
+situated above the optic chiasma.
+supraorbital
+387
+0.042455166866854
+situated above the orbit of the eye.
+sural
+714
+0.078328137320242
+relating to the calf of the leg.
+suspensory
+325
+0.035653563906273
+holding and supporting an organ or part
+synapse
+5620
+0.616532397394618
+a junction between two nerve cells, consisting of a minute gap across which impulses pass by diffusion of a neurotransmitter.
+synaptic
+23332
+2.559596778649687
+relating to a synapse or synapses between nerve cells
+synarthrosis
+2
+0.000219406547116
+an immovably fixed joint between bones connected by fibrous tissue (for example, the sutures of the skull).
+synchondrosis
+107
+0.01173825027068
+an almost immovable joint between bones bound by a layer of cartilage, as in the spinal vertebrae.
+syndesmosis
+253
+0.027754928210114
+an immovable joint in which bones are joined by connective tissue (e.g. between the fibula and tibia at the ankle).
+synovial
+4470
+0.490373632803193
+relating to or denoting a type of joint which is surrounded by a thick flexible membrane forming a sac into which is secreted a viscous fluid that lubricates the joint
+taenia
+26
+0.002852285112502
+a flat ribbon-like structure in the body.
+taint
+5723
+0.62783183457107
+a trace of a bad or undesirable substance or quality
+talus
+444
+0.048708253459646
+the large bone in the ankle, which articulates with the tibia of the leg and the calcaneus and navicular bone of the foot.
+tarsal
+563
+0.061762943013019
+relating to the tarsus
+tarsus
+186
+0.020404808881744
+a group of small bones between the main part of the hindlimb and the metatarsus in terrestrial vertebrates. The seven bones of the human tarsus form the ankle and upper part of the foot. They are the talus, calcaneus, navicular, and cuboid, and the three cuneiform bones.
+tectorial
+44
+0.004826944036541
+forming a covering.
+tectum
+423
+0.046404484714933
+the uppermost part of the midbrain, lying to the rear of the cerebral aqueduct.
+tegmentum
+163
+0.017881633589915
+a region of grey matter on either side of the cerebral aqueduct in the midbrain.
+telencephalon
+431
+0.047282110903395
+the most highly developed and anterior part of the forebrain, consisting chiefly of the cerebral hemispheres.
+temple
+77319
+8.482147408212546
+a building devoted to the worship of a god or gods.
+temporal
+38600
+4.234546359329586
+relating to worldly as opposed to spiritual affairs; secular
+temporalis
+399
+0.043771606149547
+a fan-shaped muscle which runs from the side of the skull to the back of the lower jaw and is involved in closing the mouth and chewing
+tendinous
+175
+0.019198072872609
+consisting of or resembling tendons
+tendon
+24388
+2.675443435526683
+a flexible but inelastic cord of strong fibrous collagen tissue attaching a muscle to a bone.
+tentorium
+120
+0.013164392826932
+a fold of the dura mater forming a partition between the cerebrum and cerebellum.
+teres
+257
+0.028193741304345
+either of two muscles passing below the shoulder joint from the scapula to the upper part of the humerus, one (teres major) drawing the arm towards the body and rotating it inwards, the other (teres minor) rotating it outwards.
+testicle
+2271
+0.249136134249676
+either of the two oval organs that produce sperm in men and other male mammals, enclosed in the scrotum behind the penis.
+testicular
+9102
+0.998519195922744
+relating to or affecting the testicles
+testis
+4218
+0.462728407866637
+an organ which produces spermatozoa (male reproductive cells).
+thalamus
+4773
+0.523613724691195
+either of two masses of grey matter lying between the cerebral hemispheres on either side of the third ventricle, relaying sensory information and acting as a centre for pain perception.
+theca
+93
+0.010202404440872
+the loose sheath enclosing the spinal cord.
+thenar
+250
+0.02742581838944
+relating to the rounded fleshy part of the hand at the base of the thumb (the ball of the thumb)
+thew
+897
+0.098403836381311
+muscular strength
+thigh
+35518
+3.896440870224566
+the part of the human leg between the hip and the knee.
+thoracic
+13390
+1.468926832938423
+relating to the thorax
+thoracolumbar
+1126
+0.123525886026039
+relating to the thoracic and lumbar regions of the spine.
+thorax
+2687
+0.294772696049705
+the part of the body of a mammal between the neck and the abdomen, including the cavity enclosed by the ribs, breastbone, and dorsal vertebrae, and containing the chief organs of circulation and respiration; the chest.
+thrapple
+0
+0
+a person's or animal's throat
+throat
+67812
+7.439198386498909
+the passage which leads from the back of the mouth of a person or animal
+thumb
+72619
+7.966542022491068
+the short, thick first digit of the human hand, set lower and apart from the other four and opposable to them.
+thumbnail
+9838
+1.079260805261256
+the nail of the thumb.
+thymus
+2739
+0.300477266274708
+a lymphoid organ situated in the neck of vertebrates which produces T-lymphocytes for the immune system. The human thymus becomes much smaller at the approach of puberty.
+thyroid
+36737
+4.030169160691477
+a large ductless gland in the neck which secretes hormones regulating growth and development through the rate of metabolism
+tibia
+5338
+0.58559607425133
+the inner and typically larger of the two bones between the knee and the ankle (or the equivalent joints in other terrestrial vertebrates), parallel with the fibula.
+tibialis
+905
+0.099281462569774
+any of several muscles and tendons in the calf of the leg concerned with movements of the foot.
+tissue
+242285
+26.579457633942194
+any of the distinct types of material of which animals or plants are made, consisting of specialized cells and their products
+toe
+58486
+6.416105657299229
+any of the five digits at the end of the human foot
+toenail
+2004
+0.219845360209754
+the nail at the tip of each toe.
+tongue
+67069
+7.357688854245492
+the fleshy muscular organ in the mouth of a mammal, used for tasting, licking, swallowing, and (in humans) articulating speech.
+tonsil
+1289
+0.141407519615954
+either of two small masses of lymphoid tissue in the throat, one on each side of the root of the tongue.
+tonsillar
+605
+0.066370480502446
+relating to or affecting the tonsils
+torso
+19656
+2.156327545051356
+the trunk of the human body.
+trabecula
+29
+0.003181394933175
+each of a series or group of partitions formed by bands or columns of connective tissue, especially a plate of the calcareous tissue forming cancellous bone.
+trachea
+3116
+0.341835400405984
+a large membranous tube reinforced by rings of cartilage, extending from the larynx to the bronchial tubes and conveying air to and from the lungs; the windpipe.
+tragus
+304
+0.033349795161559
+a prominence on the inner side of the external ear, in front of and partly closing the passage to the organs of hearing.
+trapezius
+824
+0.090395497411596
+either of a pair of large triangular muscles extending over the back of the neck and shoulders and moving the head and shoulder blade.
+triceps
+6564
+0.720092287633146
+any of several muscles having three points of attachment at one end, particularly (also triceps brachiiˈbreɪkɪʌɪ) the large muscle at the back of the upper arm
+trigeminus
+10
+0.001097032735578
+each of the trigeminal nerves.
+trigone
+142
+0.015577864845202
+a triangular region or tissue, particularly the area at the base of the urinary bladder, between the openings of the ureters and urethra.
+triquetral
+8
+0.000877626188462
+a carpal bone on the outside of the wrist, articulating with the lunate, hamate, and pisiform bones.
+trochanter
+357
+0.039164068660121
+any of a number of bony protuberances by which muscles are attached to the upper part of the thigh bone.
+trochlea
+84
+0.009215074978852
+a structure resembling or acting like a pulley, such as the groove at the lower end of the humerus forming part of the elbow joint.
+trochlear
+174
+0.01908836959905
+relating to a part of the body resembling a pulley.
+trochoid
+6
+0.000658219641347
+denoting a joint in which one element rotates on its own axis (e.g. the atlas vertebra).
+tubal
+2636
+0.289177829098259
+relating to or occurring in a tube, especially the fallopian tubes.
+tubercle
+542
+0.059459174268307
+a small rounded projection or protuberance, especially on a bone or on the surface of an animal or plant.
+tuberculate
+9
+0.00098732946202
+forming a small rounded projection or protuberance, especially on a bone or on the surface of an animal or plant
+tubule
+1463
+0.160495889215005
+a minute tube, especially as an anatomical structure
+tuft
+1229
+0.13482532320249
+a bunch or collection of threads, grass, hair, etc., held or growing together at the base
+tunica
+434
+0.047611220724069
+a membranous sheath enveloping or lining an organ
+turbinal
+1
+0.000109703273558
+each of three thin curved shelves of bone in the sides of the nasal cavity in humans and other warm-blooded vertebrates, covered in mucous membrane.
+tympanic
+639
+0.07010039180341
+relating to or having a tympanum.
+tympanum
+51
+0.005594866951446
+the tympanic membrane or eardrum.
+ulna
+690
+0.075695258754855
+the thinner and longer of the two bones in the human forearm, on the side opposite to the thumb.
+ultimobranchial
+4
+0.000438813094231
+relating to or denoting a gland in the neck which in many lower vertebrates regulates the calcium level in the body.
+umbilical
+9230
+1.012561214938137
+relating to or affecting the navel or umbilical cord
+umbilicus
+587
+0.064395821578406
+the navel.
+uncinate
+450
+0.049366473100993
+having a hooked shape.
+underactive
+540
+0.059239767721191
+insufficiently active
+underlip
+3
+0.000329109820673
+the lower lip of a person or animal.
+unicuspid
+36
+0.00394931784808
+having one cusp or point.
+uniped
+2
+0.000219406547116
+a person or animal having only one foot or leg.
+ureter
+1061
+0.116395173244785
+the duct by which urine passes from the kidney to the bladder or cloaca.
+urethra
+2519
+0.276342546092001
+the duct by which urine is conveyed out of the body from the bladder, and which in male vertebrates also conveys semen.
+urogenital
+1026
+0.112555558670263
+relating to or denoting both the urinary and genital organs.
+uterine
+14012
+1.537162269091352
+relating to the uterus or womb
+uterus
+14084
+1.54506090478751
+the organ in the lower body of a woman or female mammal where offspring are conceived and in which they gestate before birth; the womb.
+uvea
+86
+0.009434481525968
+the pigmented layer of the eye, lying beneath the sclera and cornea, and comprising the iris, choroid, and ciliary body.
+uvula
+290
+0.031813949331751
+a fleshy extension at the back of the soft palate which hangs above the throat.
+vagal
+2446
+0.268334207122284
+relating to the vagus nerve.
+vagina
+17646
+1.935823965200256
+the muscular tube leading from the external genitals to the cervix of the uterus in women and most female mammals.
+vaginal
+22482
+2.46634899612559
+relating to or affecting the vagina
+vaginally
+1150
+0.126158764591425
+via or in the vagina
+vagus
+2168
+0.237836697073226
+each of the tenth pair of cranial nerves, supplying the heart, lungs, upper digestive tract, and other organs of the chest and abdomen.
+vallecula
+37
+0.004059021121637
+a groove or furrow.
+vas
+745
+0.081728938800532
+a vessel or duct.
+vascular
+62529
+6.859635992293255
+relating to, affecting, or consisting of a vessel or vessels, especially those which carry blood
+vascularize
+25
+0.002742581838944
+provide (a tissue or structure) with vessels, especially blood vessels; make vascular
+vascularized
+1148
+0.12593935804431
+(of a tissue or structure) provided with vessels, especially blood vessels; made vascular
+vasculature
+5094
+0.558828475503236
+the vascular system of a part of the body and its arrangement
+vaso-
+0
+0
+relating to a vessel or vessels, especially blood vessels
+vein
+59241
+6.498931628835337
+any of the tubes forming part of the blood circulation system of the body, carrying in most cases oxygen-depleted blood towards the heart.
+velar
+83
+0.009105371705295
+relating to a veil or velum.
+velum
+118
+0.012944986279816
+a membrane or membranous structure, typically covering another structure or partly obscuring an opening.
+venous
+21276
+2.33404684821493
+relating to a vein or the veins.
+ventral
+9819
+1.077176443063659
+on or relating to the underside of an animal or plant; abdominal
+ventricle
+11866
+1.301739044036395
+a hollow part or cavity in an organ.
+venule
+81
+0.008885965158179
+a very small vein, especially one collecting blood from the capillaries.
+vermicular
+11
+0.001206736009136
+like a worm in form or movement; vermiform.
+vermiform
+41
+0.004497834215869
+resembling or having the form of a worm
+vermis
+522
+0.057265108797151
+the rounded and elongated central part of the cerebellum, between the two hemispheres.
+vertebra
+3042
+0.33371735816271
+each of the series of small bones forming the backbone, having several projections for articulation and muscle attachment, and a hole through which the spinal cord passes
+vertex
+2717
+0.298063794256437
+the highest point; the top or apex.
+vesical
+114
+0.012506173185585
+relating to or affecting the urinary bladder
+vesicle
+4240
+0.465141879884908
+a small fluid-filled bladder, sac, cyst, or vacuole within the body.
+vestibular
+4755
+0.521639065767155
+relating to a vestibule, particularly that of the inner ear, or more generally to the sense of balance
+villous
+784
+0.086007366469285
+(of a structure, especially the epithelium) covered with villi.
+villus
+675
+0.074049709651489
+any of the fingerlike or threadlike projections from the surface of certain membranous structures, typically serving to increase surface area and facilitate the passage of fluid or nutrients.
+vinculum
+19
+0.002084362197597
+a connecting band of tissue, such as that attaching a flexor tendon to the bone of a finger or toe.
+viscera
+1572
+0.172453546032801
+the internal organs in the main cavities of the body, especially those in the abdomen, e.g. the intestines.
+visceral
+24944
+2.736438455624798
+relating to the viscera
+vocal
+151315
+16.59975083839265
+relating to the human voice
+volar
+503
+0.055180746599554
+relating to the palm of the hand or the sole of the foot.
+vomer
+48
+0.005265757130773
+the small, thin bone separating the left and right nasal cavities in humans and most vertebrates.
+vulva
+2027
+0.222368535501582
+the female external genitals.
+waist
+48126
+5.27957974324082
+the part of the human body below the ribs and above the hips, often narrower than the areas above and below
+weasand
+0
+0
+the oesophagus or gullet.
+windpipe
+1520
+0.166748975807797
+the air passage from the throat to the lungs; the trachea.
+womb
+17873
+1.960726608297867
+the organ in the lower body of a woman or female mammal where offspring are conceived and in which they gestate before birth; the uterus.
+wrist
+93234
+10.228075006884318
+the joint connecting the hand with the forearm
+xiphisternum
+8
+0.000877626188462
+the lowest part of the sternum; the xiphoid process.
+zonule
+12
+0.001316439282693
+a small zone.
+zygoma
+185
+0.020295105608186
+the bony arch of the cheek formed by connection of the zygomatic and temporal bones.

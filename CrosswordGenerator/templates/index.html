@@ -1,0 +1,77 @@
+{% load static from staticfiles %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="shortcut icon" type="image/png" href="{% static 'favicon.ico' %}"/>
+    <link rel="stylesheet" href="{% static 'styles.css' %}">
+    <title>Crosswords</title>
+</head>
+<body>
+        <button class="openbtn" onclick="openNav()">☰</button> 
+        <div id="mySidebar" class="sidebar">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+            <form>
+                <label><h4>Difficulty</h4></label>
+                    <select id="diff" name="diff">
+                        <option value="any">Any</option>
+                        <option value="easy">Easy</option>
+                        <option value="medium">Medium</option>
+                        <option value="hard">Hard</option>
+                    </select>
+                <br>
+                <label><h4>Size</h4></label>
+                <select id="size" name="size">
+                    <option value="4">4x4</option>
+                    <option value="5">5x5</option>
+                    <option value="6">6x6</option>
+                    <option value="7">7x7</option>
+                    <option value="8">8x8</option>
+                </select>
+                <button>Play</button>
+            </form>
+        </div>
+              
+    <div id="main">
+        <div class="left">
+            <h1>Crossword Generator</h1>
+            <h3>{{ msg }}</h3>
+            <table id="gameBoard">
+                {% for row in board.get_grid %}
+                <tr>
+                    {% for col in row %}
+                    <td>
+                        <div class="numbers">{{ col }}</div>
+                    </td>
+                    {% endfor %}
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+        {% for hint_pos in hints_pos %}
+        <div class="hint_pos">{{ hint_pos }}</div>
+        {% endfor %}
+        <div class="right">
+            <h1 class="hint-heading">Hint list</h1>
+            <h4>H: Horizontal</h4>
+            <h4>V: Vertical</h4>
+            <ol>
+                {% for key,value in hint_list.items %}
+                    <li class="hint">{{ key|make_list|first }}: {{ value }}</li>
+                {% endfor %}
+            </ol>
+            <button class="show-sol">Show/Hide solution</button>
+            <ol id="solution-list" class="solution">
+                {% for key,sol in solution.items %}
+                    <li class="sol">{{ key|make_list|first }}: {{ sol }}</li>
+                {% endfor %}
+            </ol>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="{% static 'script.js' %}"></script>
+</body>
+</html>
